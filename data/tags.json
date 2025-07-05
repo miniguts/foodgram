@@ -1,0 +1,8746 @@
+[
+  {
+    "name": "Буррата",
+    "slug": "burrata"
+  },
+  {
+    "name": "Панифарин",
+    "slug": "panifarin"
+  },
+  {
+    "name": "абрикосовое варенье",
+    "slug": "abrikosovoe-varene"
+  },
+  {
+    "name": "абрикосовое пюре",
+    "slug": "abrikosovoe-pyure"
+  },
+  {
+    "name": "абрикосовый джем",
+    "slug": "abrikosovyi-dzhem"
+  },
+  {
+    "name": "абрикосовый сок",
+    "slug": "abrikosovyi-sok"
+  },
+  {
+    "name": "абрикосы",
+    "slug": "abrikosy"
+  },
+  {
+    "name": "абрикосы консервированные",
+    "slug": "abrikosy-konservirovannye"
+  },
+  {
+    "name": "авокадо",
+    "slug": "avokado"
+  },
+  {
+    "name": "агава сироп",
+    "slug": "agava-sirop"
+  },
+  {
+    "name": "агар-агар",
+    "slug": "agar-agar"
+  },
+  {
+    "name": "аграм",
+    "slug": "agram"
+  },
+  {
+    "name": "аджика",
+    "slug": "adzhika"
+  },
+  {
+    "name": "аджика зеленая",
+    "slug": "adzhika-zelenaya"
+  },
+  {
+    "name": "айва",
+    "slug": "aiva"
+  },
+  {
+    "name": "айвовое пюре",
+    "slug": "aivovoe-pyure"
+  },
+  {
+    "name": "айран",
+    "slug": "airan"
+  },
+  {
+    "name": "айсинг",
+    "slug": "aising"
+  },
+  {
+    "name": "акула стейки",
+    "slug": "akula-steiki"
+  },
+  {
+    "name": "алкоголь",
+    "slug": "alkogol"
+  },
+  {
+    "name": "алкоголь крепкий",
+    "slug": "alkogol-krepkii"
+  },
+  {
+    "name": "алыча",
+    "slug": "alycha"
+  },
+  {
+    "name": "альбухара",
+    "slug": "albukhara"
+  },
+  {
+    "name": "альмехи",
+    "slug": "almekhi"
+  },
+  {
+    "name": "амарантовая мука",
+    "slug": "amarantovaya-muka"
+  },
+  {
+    "name": "ананасовый сироп",
+    "slug": "ananasovyi-sirop"
+  },
+  {
+    "name": "ананасовый сок",
+    "slug": "ananasovyi-sok"
+  },
+  {
+    "name": "ананасы",
+    "slug": "ananasy"
+  },
+  {
+    "name": "ананасы вяленые",
+    "slug": "ananasy-vyalenye"
+  },
+  {
+    "name": "ананасы консервированные",
+    "slug": "ananasy-konservirovannye"
+  },
+  {
+    "name": "анис",
+    "slug": "anis"
+  },
+  {
+    "name": "анис звездочки",
+    "slug": "anis-zvezdochki"
+  },
+  {
+    "name": "анис семена",
+    "slug": "anis-semena"
+  },
+  {
+    "name": "анисовый ликер",
+    "slug": "anisovyi-liker"
+  },
+  {
+    "name": "анчоусы",
+    "slug": "anchousy"
+  },
+  {
+    "name": "апельсиновая вода",
+    "slug": "apelsinovaya-voda"
+  },
+  {
+    "name": "апельсиновая цедра",
+    "slug": "apelsinovaya-tsedra"
+  },
+  {
+    "name": "апельсиновая эссенция",
+    "slug": "apelsinovaya-essentsiya"
+  },
+  {
+    "name": "апельсиновое варенье",
+    "slug": "apelsinovoe-varene"
+  },
+  {
+    "name": "апельсиновые цукаты",
+    "slug": "apelsinovye-tsukaty"
+  },
+  {
+    "name": "апельсиновый джем",
+    "slug": "apelsinovyi-dzhem"
+  },
+  {
+    "name": "апельсиновый джем с имбирем",
+    "slug": "apelsinovyi-dzhem-s-imbirem"
+  },
+  {
+    "name": "апельсиновый ликер",
+    "slug": "apelsinovyi-liker"
+  },
+  {
+    "name": "апельсиновый сироп",
+    "slug": "apelsinovyi-sirop"
+  },
+  {
+    "name": "апельсиновый сок",
+    "slug": "apelsinovyi-sok"
+  },
+  {
+    "name": "апельсиновый сок свежевыжатый",
+    "slug": "apelsinovyi-sok-svezhevyzhatyi"
+  },
+  {
+    "name": "апельсиновый уксус",
+    "slug": "apelsinovyi-uksus"
+  },
+  {
+    "name": "апельсиновый экстракт",
+    "slug": "apelsinovyi-ekstrakt"
+  },
+  {
+    "name": "апельсины",
+    "slug": "apelsiny"
+  },
+  {
+    "name": "апельсины красные",
+    "slug": "apelsiny-krasnye"
+  },
+  {
+    "name": "апельсины крупные",
+    "slug": "apelsiny-krupnye"
+  },
+  {
+    "name": "арахис",
+    "slug": "arakhis"
+  },
+  {
+    "name": "арахис жареный",
+    "slug": "arakhis-zharenyi"
+  },
+  {
+    "name": "арахис соленый",
+    "slug": "arakhis-solenyi"
+  },
+  {
+    "name": "арахисовая паста",
+    "slug": "arakhisovaya-pasta"
+  },
+  {
+    "name": "арахисовое масло",
+    "slug": "arakhisovoe-maslo"
+  },
+  {
+    "name": "арбузная мякоть",
+    "slug": "arbuznaya-myakot"
+  },
+  {
+    "name": "арбузы",
+    "slug": "arbuzy"
+  },
+  {
+    "name": "аргановое масло",
+    "slug": "arganovoe-maslo"
+  },
+  {
+    "name": "аришта",
+    "slug": "arishta"
+  },
+  {
+    "name": "ароматизатор",
+    "slug": "aromatizator"
+  },
+  {
+    "name": "ароматизатор \"ананас\"",
+    "slug": "aromatizator-ananas"
+  },
+  {
+    "name": "ароматизатор \"вишня\"",
+    "slug": "aromatizator-vishnya"
+  },
+  {
+    "name": "ароматизатор \"малина\"",
+    "slug": "aromatizator-malina"
+  },
+  {
+    "name": "ароматизатор \"ром\"",
+    "slug": "aromatizator-rom"
+  },
+  {
+    "name": "артишоки",
+    "slug": "artishoki"
+  },
+  {
+    "name": "артишоки в масле",
+    "slug": "artishoki-v-masle"
+  },
+  {
+    "name": "артишоки маринованные",
+    "slug": "artishoki-marinovannye"
+  },
+  {
+    "name": "аспирин",
+    "slug": "aspirin"
+  },
+  {
+    "name": "ассорти мясное",
+    "slug": "assorti-myasnoe"
+  },
+  {
+    "name": "ассорти овощное",
+    "slug": "assorti-ovoshchnoe"
+  },
+  {
+    "name": "ассорти фруктовое",
+    "slug": "assorti-fruktovoe"
+  },
+  {
+    "name": "ассорти ягодное",
+    "slug": "assorti-yagodnoe"
+  },
+  {
+    "name": "аши",
+    "slug": "ashi"
+  },
+  {
+    "name": "багет",
+    "slug": "baget"
+  },
+  {
+    "name": "багет вчерашний",
+    "slug": "baget-vcherashnii"
+  },
+  {
+    "name": "багет мини",
+    "slug": "baget-mini"
+  },
+  {
+    "name": "бадан",
+    "slug": "badan"
+  },
+  {
+    "name": "бадьян",
+    "slug": "badyan"
+  },
+  {
+    "name": "базилик лимонный",
+    "slug": "bazilik-limonnyi"
+  },
+  {
+    "name": "базилик свежий",
+    "slug": "bazilik-svezhii"
+  },
+  {
+    "name": "базилик сушеный",
+    "slug": "bazilik-sushenyi"
+  },
+  {
+    "name": "базилик тайский",
+    "slug": "bazilik-taiskii"
+  },
+  {
+    "name": "базилик фиолетовый",
+    "slug": "bazilik-fioletovyi"
+  },
+  {
+    "name": "баклажаны",
+    "slug": "baklazhany"
+  },
+  {
+    "name": "баклажаны мини",
+    "slug": "baklazhany-mini"
+  },
+  {
+    "name": "баклажаны тайские",
+    "slug": "baklazhany-taiskie"
+  },
+  {
+    "name": "балык",
+    "slug": "balyk"
+  },
+  {
+    "name": "бальзам",
+    "slug": "balzam"
+  },
+  {
+    "name": "бальзам рижский черный",
+    "slug": "balzam-rizhskii-chernyi"
+  },
+  {
+    "name": "бальзамический крем",
+    "slug": "balzamicheskii-krem"
+  },
+  {
+    "name": "бальзамический соус",
+    "slug": "balzamicheskii-sous"
+  },
+  {
+    "name": "бальзамический уксус",
+    "slug": "balzamicheskii-uksus"
+  },
+  {
+    "name": "бамия",
+    "slug": "bamiya"
+  },
+  {
+    "name": "банановое пюре",
+    "slug": "bananovoe-pyure"
+  },
+  {
+    "name": "банановые чипсы",
+    "slug": "bananovye-chipsy"
+  },
+  {
+    "name": "банановый зеленый сироп",
+    "slug": "bananovyi-zelenyi-sirop"
+  },
+  {
+    "name": "банановый ликер",
+    "slug": "bananovyi-liker"
+  },
+  {
+    "name": "бананы",
+    "slug": "banany"
+  },
+  {
+    "name": "бананы мини",
+    "slug": "banany-mini"
+  },
+  {
+    "name": "барабулька",
+    "slug": "barabulka"
+  },
+  {
+    "name": "бараний ливер",
+    "slug": "baranii-liver"
+  },
+  {
+    "name": "бараний окорок на косточке",
+    "slug": "baranii-okorok-na-kostochke"
+  },
+  {
+    "name": "бараний фарш",
+    "slug": "baranii-farsh"
+  },
+  {
+    "name": "баранина",
+    "slug": "baranina"
+  },
+  {
+    "name": "баранки",
+    "slug": "baranki"
+  },
+  {
+    "name": "бараньи антрекоты",
+    "slug": "barani-antrekoty"
+  },
+  {
+    "name": "бараньи голяшки",
+    "slug": "barani-golyashki"
+  },
+  {
+    "name": "бараньи потроха",
+    "slug": "barani-potrokha"
+  },
+  {
+    "name": "бараньи ребрышки",
+    "slug": "barani-rebryshki"
+  },
+  {
+    "name": "баранья лопатка",
+    "slug": "baranya-lopatka"
+  },
+  {
+    "name": "баранья нога",
+    "slug": "baranya-noga"
+  },
+  {
+    "name": "баранья печень",
+    "slug": "baranya-pechen"
+  },
+  {
+    "name": "барбарис",
+    "slug": "barbaris"
+  },
+  {
+    "name": "барбарис вяленый",
+    "slug": "barbaris-vyalenyi"
+  },
+  {
+    "name": "барбарис молотый",
+    "slug": "barbaris-molotyi"
+  },
+  {
+    "name": "бастурма",
+    "slug": "basturma"
+  },
+  {
+    "name": "батат",
+    "slug": "batat"
+  },
+  {
+    "name": "батон",
+    "slug": "baton"
+  },
+  {
+    "name": "батончики шоколадные",
+    "slug": "batonchiki-shokoladnye"
+  },
+  {
+    "name": "безе",
+    "slug": "beze"
+  },
+  {
+    "name": "бекон",
+    "slug": "bekon"
+  },
+  {
+    "name": "бекон варено-копченый",
+    "slug": "bekon-vareno-kopchenyi"
+  },
+  {
+    "name": "бекон сырокопченый",
+    "slug": "bekon-syrokopchenyi"
+  },
+  {
+    "name": "белорыбица",
+    "slug": "belorybitsa"
+  },
+  {
+    "name": "бирнель",
+    "slug": "birnel"
+  },
+  {
+    "name": "бисквик смесь готовая",
+    "slug": "biskvik-smes-gotovaya"
+  },
+  {
+    "name": "бисквит",
+    "slug": "biskvit"
+  },
+  {
+    "name": "бисквит шоколадный",
+    "slug": "biskvit-shokoladnyi"
+  },
+  {
+    "name": "бисквитная крошка",
+    "slug": "biskvitnaya-kroshka"
+  },
+  {
+    "name": "бисквитный корж",
+    "slug": "biskvitnyi-korzh"
+  },
+  {
+    "name": "бисквитный рулет",
+    "slug": "biskvitnyi-rulet"
+  },
+  {
+    "name": "бифштекс",
+    "slug": "bifshteks"
+  },
+  {
+    "name": "блинная мука",
+    "slug": "blinnaya-muka"
+  },
+  {
+    "name": "блины готовые",
+    "slug": "bliny-gotovye"
+  },
+  {
+    "name": "блины овсяные",
+    "slug": "bliny-ovsyanye"
+  },
+  {
+    "name": "бобовые ростки",
+    "slug": "bobovye-rostki"
+  },
+  {
+    "name": "бобы",
+    "slug": "boby"
+  },
+  {
+    "name": "бобы мунг пророщенные",
+    "slug": "boby-mung-proroshchennye"
+  },
+  {
+    "name": "бобы тонка",
+    "slug": "boby-tonka"
+  },
+  {
+    "name": "ботарга",
+    "slug": "botarga"
+  },
+  {
+    "name": "брезаола",
+    "slug": "brezaola"
+  },
+  {
+    "name": "бренди",
+    "slug": "brendi"
+  },
+  {
+    "name": "брокколи замороженная",
+    "slug": "brokkoli-zamorozhennaya"
+  },
+  {
+    "name": "брокколи свежая",
+    "slug": "brokkoli-svezhaya"
+  },
+  {
+    "name": "брусника замороженная",
+    "slug": "brusnika-zamorozhennaya"
+  },
+  {
+    "name": "брусника свежая",
+    "slug": "brusnika-svezhaya"
+  },
+  {
+    "name": "брусника сушеная",
+    "slug": "brusnika-sushenaya"
+  },
+  {
+    "name": "брусничное варенье",
+    "slug": "brusnichnoe-varene"
+  },
+  {
+    "name": "брусничный соус",
+    "slug": "brusnichnyi-sous"
+  },
+  {
+    "name": "брынза",
+    "slug": "brynza"
+  },
+  {
+    "name": "брынза сербская",
+    "slug": "brynza-serbskaya"
+  },
+  {
+    "name": "брюква",
+    "slug": "bryukva"
+  },
+  {
+    "name": "буженина",
+    "slug": "buzhenina"
+  },
+  {
+    "name": "бузина сироп",
+    "slug": "buzina-sirop"
+  },
+  {
+    "name": "букет гарни",
+    "slug": "buket-garni"
+  },
+  {
+    "name": "булгур",
+    "slug": "bulgur"
+  },
+  {
+    "name": "булка",
+    "slug": "bulka"
+  },
+  {
+    "name": "булка белая",
+    "slug": "bulka-belaya"
+  },
+  {
+    "name": "булка сдобная",
+    "slug": "bulka-sdobnaya"
+  },
+  {
+    "name": "булочки",
+    "slug": "bulochki"
+  },
+  {
+    "name": "булочки белые черствые",
+    "slug": "bulochki-belye-cherstvye"
+  },
+  {
+    "name": "булочки бриошь",
+    "slug": "bulochki-briosh"
+  },
+  {
+    "name": "булочки вчерашние",
+    "slug": "bulochki-vcherashnie"
+  },
+  {
+    "name": "булочки для гамбургеров",
+    "slug": "bulochki-dlya-gamburgerov"
+  },
+  {
+    "name": "булочки зерновые",
+    "slug": "bulochki-zernovye"
+  },
+  {
+    "name": "булочки ржаные",
+    "slug": "bulochki-rzhanye"
+  },
+  {
+    "name": "булочки с кунжутом",
+    "slug": "bulochki-s-kunzhutom"
+  },
+  {
+    "name": "бульон",
+    "slug": "bulon"
+  },
+  {
+    "name": "бульонные кубики",
+    "slug": "bulonnye-kubiki"
+  },
+  {
+    "name": "бурбон",
+    "slug": "burbon"
+  },
+  {
+    "name": "буряк",
+    "slug": "buryak"
+  },
+  {
+    "name": "бусинки кондитерские",
+    "slug": "businki-konditerskie"
+  },
+  {
+    "name": "бусинки кондитерские серебряные",
+    "slug": "businki-konditerskie-serebryanye"
+  },
+  {
+    "name": "бычий хвост",
+    "slug": "bychii-khvost"
+  },
+  {
+    "name": "ванилин",
+    "slug": "vanilin"
+  },
+  {
+    "name": "ваниль в стручках",
+    "slug": "vanil-v-struchkakh"
+  },
+  {
+    "name": "ванильная настойка",
+    "slug": "vanilnaya-nastoika"
+  },
+  {
+    "name": "ванильная эссенция",
+    "slug": "vanilnaya-essentsiya"
+  },
+  {
+    "name": "ванильный порошок",
+    "slug": "vanilnyi-poroshok"
+  },
+  {
+    "name": "ванильный сироп",
+    "slug": "vanilnyi-sirop"
+  },
+  {
+    "name": "ванильный экстракт",
+    "slug": "vanilnyi-ekstrakt"
+  },
+  {
+    "name": "варенье",
+    "slug": "varene"
+  },
+  {
+    "name": "васаби",
+    "slug": "vasabi"
+  },
+  {
+    "name": "вафельная крошка",
+    "slug": "vafelnaya-kroshka"
+  },
+  {
+    "name": "вафельные коржи",
+    "slug": "vafelnye-korzhi"
+  },
+  {
+    "name": "вафельные трубочки",
+    "slug": "vafelnye-trubochki"
+  },
+  {
+    "name": "вафли",
+    "slug": "vafli"
+  },
+  {
+    "name": "вафли шоколадные",
+    "slug": "vafli-shokoladnye"
+  },
+  {
+    "name": "вермишель",
+    "slug": "vermishel"
+  },
+  {
+    "name": "вермишель яичная",
+    "slug": "vermishel-yaichnaya"
+  },
+  {
+    "name": "вермут",
+    "slug": "vermut"
+  },
+  {
+    "name": "вермут белый",
+    "slug": "vermut-belyi"
+  },
+  {
+    "name": "вермут сухой",
+    "slug": "vermut-sukhoi"
+  },
+  {
+    "name": "ветчина",
+    "slug": "vetchina"
+  },
+  {
+    "name": "ветчина вареная",
+    "slug": "vetchina-varenaya"
+  },
+  {
+    "name": "ветчина варено-копченая",
+    "slug": "vetchina-vareno-kopchenaya"
+  },
+  {
+    "name": "ветчина копченая",
+    "slug": "vetchina-kopchenaya"
+  },
+  {
+    "name": "ветчина пармская",
+    "slug": "vetchina-parmskaya"
+  },
+  {
+    "name": "ветчина сырокопченая",
+    "slug": "vetchina-syrokopchenaya"
+  },
+  {
+    "name": "вешенки",
+    "slug": "veshenki"
+  },
+  {
+    "name": "винегрет",
+    "slug": "vinegret"
+  },
+  {
+    "name": "винный камень",
+    "slug": "vinnyi-kamen"
+  },
+  {
+    "name": "винный уксус",
+    "slug": "vinnyi-uksus"
+  },
+  {
+    "name": "винный уксус белый",
+    "slug": "vinnyi-uksus-belyi"
+  },
+  {
+    "name": "винный уксус красный",
+    "slug": "vinnyi-uksus-krasnyi"
+  },
+  {
+    "name": "винный уксус на чесноке",
+    "slug": "vinnyi-uksus-na-chesnoke"
+  },
+  {
+    "name": "винный уксус на эстрагоне",
+    "slug": "vinnyi-uksus-na-estragone"
+  },
+  {
+    "name": "вино белое",
+    "slug": "vino-beloe"
+  },
+  {
+    "name": "вино белое полусладкое",
+    "slug": "vino-beloe-polusladkoe"
+  },
+  {
+    "name": "вино белое полусухое",
+    "slug": "vino-beloe-polusukhoe"
+  },
+  {
+    "name": "вино белое сладкое",
+    "slug": "vino-beloe-sladkoe"
+  },
+  {
+    "name": "вино белое столовое",
+    "slug": "vino-beloe-stolovoe"
+  },
+  {
+    "name": "вино белое сухое",
+    "slug": "vino-beloe-sukhoe"
+  },
+  {
+    "name": "вино десертное",
+    "slug": "vino-desertnoe"
+  },
+  {
+    "name": "вино игристое сухое",
+    "slug": "vino-igristoe-sukhoe"
+  },
+  {
+    "name": "вино красное",
+    "slug": "vino-krasnoe"
+  },
+  {
+    "name": "вино красное полусладкое",
+    "slug": "vino-krasnoe-polusladkoe"
+  },
+  {
+    "name": "вино красное полусухое",
+    "slug": "vino-krasnoe-polusukhoe"
+  },
+  {
+    "name": "вино красное сладкое",
+    "slug": "vino-krasnoe-sladkoe"
+  },
+  {
+    "name": "вино красное сухое",
+    "slug": "vino-krasnoe-sukhoe"
+  },
+  {
+    "name": "вино крепленое",
+    "slug": "vino-kreplenoe"
+  },
+  {
+    "name": "вино розовое полусладкое",
+    "slug": "vino-rozovoe-polusladkoe"
+  },
+  {
+    "name": "вино розовое полусухое",
+    "slug": "vino-rozovoe-polusukhoe"
+  },
+  {
+    "name": "виноград",
+    "slug": "vinograd"
+  },
+  {
+    "name": "виноград без косточек",
+    "slug": "vinograd-bez-kostochek"
+  },
+  {
+    "name": "виноград белый",
+    "slug": "vinograd-belyi"
+  },
+  {
+    "name": "виноград изабелла",
+    "slug": "vinograd-izabella"
+  },
+  {
+    "name": "виноград синий",
+    "slug": "vinograd-sinii"
+  },
+  {
+    "name": "виноград черный",
+    "slug": "vinograd-chernyi"
+  },
+  {
+    "name": "виноградное желе",
+    "slug": "vinogradnoe-zhele"
+  },
+  {
+    "name": "виноградные листья",
+    "slug": "vinogradnye-listya"
+  },
+  {
+    "name": "виноградные листья маринованные",
+    "slug": "vinogradnye-listya-marinovannye"
+  },
+  {
+    "name": "виноградные листья молодые",
+    "slug": "vinogradnye-listya-molodye"
+  },
+  {
+    "name": "виноградный сок",
+    "slug": "vinogradnyi-sok"
+  },
+  {
+    "name": "виноградный сок осветленный",
+    "slug": "vinogradnyi-sok-osvetlennyi"
+  },
+  {
+    "name": "виски",
+    "slug": "viski"
+  },
+  {
+    "name": "витамин C в порошке",
+    "slug": "vitamin-c-v-poroshke"
+  },
+  {
+    "name": "вишневая настойка",
+    "slug": "vishnevaya-nastoika"
+  },
+  {
+    "name": "вишневое варенье",
+    "slug": "vishnevoe-varene"
+  },
+  {
+    "name": "вишневые листья",
+    "slug": "vishnevye-listya"
+  },
+  {
+    "name": "вишневый джем",
+    "slug": "vishnevyi-dzhem"
+  },
+  {
+    "name": "вишневый ликер",
+    "slug": "vishnevyi-liker"
+  },
+  {
+    "name": "вишневый сироп",
+    "slug": "vishnevyi-sirop"
+  },
+  {
+    "name": "вишневый сок",
+    "slug": "vishnevyi-sok"
+  },
+  {
+    "name": "вишня",
+    "slug": "vishnya"
+  },
+  {
+    "name": "вишня вяленая",
+    "slug": "vishnya-vyalenaya"
+  },
+  {
+    "name": "вишня замороженная",
+    "slug": "vishnya-zamorozhennaya"
+  },
+  {
+    "name": "вишня засахаренная кондитерская",
+    "slug": "vishnya-zasakharennaya-konditerskaya"
+  },
+  {
+    "name": "вишня коктейльная",
+    "slug": "vishnya-kokteilnaya"
+  },
+  {
+    "name": "вишня мараскино",
+    "slug": "vishnya-maraskino"
+  },
+  {
+    "name": "вишня, протертая с сахаром",
+    "slug": "vishnya-protertaya-s-sakharom"
+  },
+  {
+    "name": "вода",
+    "slug": "voda"
+  },
+  {
+    "name": "вода минеральная без газа",
+    "slug": "voda-mineralnaya-bez-gaza"
+  },
+  {
+    "name": "вода минеральная газированная",
+    "slug": "voda-mineralnaya-gazirovannaya"
+  },
+  {
+    "name": "водка",
+    "slug": "vodka"
+  },
+  {
+    "name": "водка анисовая",
+    "slug": "vodka-anisovaya"
+  },
+  {
+    "name": "водоросли",
+    "slug": "vodorosli"
+  },
+  {
+    "name": "вустерширский соус",
+    "slug": "vustershirskii-sous"
+  },
+  {
+    "name": "галангал корень",
+    "slug": "galangal-koren"
+  },
+  {
+    "name": "галеты",
+    "slug": "galety"
+  },
+  {
+    "name": "гамбургер",
+    "slug": "gamburger"
+  },
+  {
+    "name": "ганаш",
+    "slug": "ganash"
+  },
+  {
+    "name": "гарам масала",
+    "slug": "garam-masala"
+  },
+  {
+    "name": "гарнир",
+    "slug": "garnir"
+  },
+  {
+    "name": "гаспачо",
+    "slug": "gaspacho"
+  },
+  {
+    "name": "гвоздика",
+    "slug": "gvozdika"
+  },
+  {
+    "name": "гвоздика молотая",
+    "slug": "gvozdika-molotaya"
+  },
+  {
+    "name": "герань листья",
+    "slug": "geran-listya"
+  },
+  {
+    "name": "геркулес",
+    "slug": "gerkules"
+  },
+  {
+    "name": "глазурь",
+    "slug": "glazur"
+  },
+  {
+    "name": "глазурь белая",
+    "slug": "glazur-belaya"
+  },
+  {
+    "name": "глазурь готовая",
+    "slug": "glazur-gotovaya"
+  },
+  {
+    "name": "глазурь черная",
+    "slug": "glazur-chernaya"
+  },
+  {
+    "name": "глазурь шоколадная белая",
+    "slug": "glazur-shokoladnaya-belaya"
+  },
+  {
+    "name": "глутамат натрия",
+    "slug": "glutamat-natriya"
+  },
+  {
+    "name": "глюкоза",
+    "slug": "glyukoza"
+  },
+  {
+    "name": "глюкоза сироп",
+    "slug": "glyukoza-sirop"
+  },
+  {
+    "name": "говядина",
+    "slug": "govyadina"
+  },
+  {
+    "name": "говядина на кости",
+    "slug": "govyadina-na-kosti"
+  },
+  {
+    "name": "говяжий фарш",
+    "slug": "govyazhii-farsh"
+  },
+  {
+    "name": "говяжий язык",
+    "slug": "govyazhii-yazyk"
+  },
+  {
+    "name": "говяжье сердце",
+    "slug": "govyazhe-serdtse"
+  },
+  {
+    "name": "говяжьи бифштексы",
+    "slug": "govyazhi-bifshteksy"
+  },
+  {
+    "name": "говяжьи голяшки",
+    "slug": "govyazhi-golyashki"
+  },
+  {
+    "name": "говяжьи легкие",
+    "slug": "govyazhi-legkie"
+  },
+  {
+    "name": "говяжьи ребра",
+    "slug": "govyazhi-rebra"
+  },
+  {
+    "name": "говяжьи стейки рибай",
+    "slug": "govyazhi-steiki-ribai"
+  },
+  {
+    "name": "говяжья вырезка",
+    "slug": "govyazhya-vyrezka"
+  },
+  {
+    "name": "говяжья грудинка",
+    "slug": "govyazhya-grudinka"
+  },
+  {
+    "name": "говяжья лопатка",
+    "slug": "govyazhya-lopatka"
+  },
+  {
+    "name": "говяжья мозговая кость",
+    "slug": "govyazhya-mozgovaya-kost"
+  },
+  {
+    "name": "говяжья мякоть",
+    "slug": "govyazhya-myakot"
+  },
+  {
+    "name": "говяжья печень",
+    "slug": "govyazhya-pechen"
+  },
+  {
+    "name": "говяжья черева",
+    "slug": "govyazhya-chereva"
+  },
+  {
+    "name": "говяжья шейка",
+    "slug": "govyazhya-sheika"
+  },
+  {
+    "name": "годжи",
+    "slug": "godzhi"
+  },
+  {
+    "name": "голец филе",
+    "slug": "golets-file"
+  },
+  {
+    "name": "голубика",
+    "slug": "golubika"
+  },
+  {
+    "name": "голубика замороженная",
+    "slug": "golubika-zamorozhennaya"
+  },
+  {
+    "name": "голубь",
+    "slug": "golub"
+  },
+  {
+    "name": "горбуша",
+    "slug": "gorbusha"
+  },
+  {
+    "name": "горбуша в собственном соку",
+    "slug": "gorbusha-v-sobstvennom-soku"
+  },
+  {
+    "name": "горбуша филе",
+    "slug": "gorbusha-file"
+  },
+  {
+    "name": "горгонзола",
+    "slug": "gorgonzola"
+  },
+  {
+    "name": "горгонзола пиканте",
+    "slug": "gorgonzola-pikante"
+  },
+  {
+    "name": "горох",
+    "slug": "gorokh"
+  },
+  {
+    "name": "горох колотый",
+    "slug": "gorokh-kolotyi"
+  },
+  {
+    "name": "гороховые ростки",
+    "slug": "gorokhovye-rostki"
+  },
+  {
+    "name": "гороховый суп",
+    "slug": "gorokhovyi-sup"
+  },
+  {
+    "name": "горошек зеленый",
+    "slug": "goroshek-zelenyi"
+  },
+  {
+    "name": "горошек зеленый замороженный",
+    "slug": "goroshek-zelenyi-zamorozhennyi"
+  },
+  {
+    "name": "горошек зеленый консервированный",
+    "slug": "goroshek-zelenyi-konservirovannyi"
+  },
+  {
+    "name": "горошек стручковый свежий",
+    "slug": "goroshek-struchkovyi-svezhii"
+  },
+  {
+    "name": "горчица",
+    "slug": "gorchitsa"
+  },
+  {
+    "name": "горчица дижонская",
+    "slug": "gorchitsa-dizhonskaya"
+  },
+  {
+    "name": "горчица дижонская с медом",
+    "slug": "gorchitsa-dizhonskaya-s-medom"
+  },
+  {
+    "name": "горчица желтая семена",
+    "slug": "gorchitsa-zheltaya-semena"
+  },
+  {
+    "name": "горчица острая",
+    "slug": "gorchitsa-ostraya"
+  },
+  {
+    "name": "горчица русская",
+    "slug": "gorchitsa-russkaya"
+  },
+  {
+    "name": "горчица с зернами",
+    "slug": "gorchitsa-s-zernami"
+  },
+  {
+    "name": "горчица семена",
+    "slug": "gorchitsa-semena"
+  },
+  {
+    "name": "горчица сухая",
+    "slug": "gorchitsa-sukhaya"
+  },
+  {
+    "name": "горчица французская",
+    "slug": "gorchitsa-frantsuzskaya"
+  },
+  {
+    "name": "горчица цитрусовая",
+    "slug": "gorchitsa-tsitrusovaya"
+  },
+  {
+    "name": "горчичное масло",
+    "slug": "gorchichnoe-maslo"
+  },
+  {
+    "name": "горчичный порошок",
+    "slug": "gorchichnyi-poroshok"
+  },
+  {
+    "name": "грана падано",
+    "slug": "grana-padano"
+  },
+  {
+    "name": "гранатные зерна",
+    "slug": "granatnye-zerna"
+  },
+  {
+    "name": "гранатовая паста",
+    "slug": "granatovaya-pasta"
+  },
+  {
+    "name": "гранатовый сироп",
+    "slug": "granatovyi-sirop"
+  },
+  {
+    "name": "гранатовый сок",
+    "slug": "granatovyi-sok"
+  },
+  {
+    "name": "гранатовый сок свежевыжатый",
+    "slug": "granatovyi-sok-svezhevyzhatyi"
+  },
+  {
+    "name": "гранатовый соус",
+    "slug": "granatovyi-sous"
+  },
+  {
+    "name": "гранаты",
+    "slug": "granaty"
+  },
+  {
+    "name": "гранита",
+    "slug": "granita"
+  },
+  {
+    "name": "гранола с орехами",
+    "slug": "granola-s-orekhami"
+  },
+  {
+    "name": "граппа",
+    "slug": "grappa"
+  },
+  {
+    "name": "гратен",
+    "slug": "graten"
+  },
+  {
+    "name": "грейпфрутовая цедра",
+    "slug": "greipfrutovaya-tsedra"
+  },
+  {
+    "name": "грейпфрутовый сок",
+    "slug": "greipfrutovyi-sok"
+  },
+  {
+    "name": "грейпфруты",
+    "slug": "greipfruty"
+  },
+  {
+    "name": "грейпфруты розовые",
+    "slug": "greipfruty-rozovye"
+  },
+  {
+    "name": "гренадин",
+    "slug": "grenadin"
+  },
+  {
+    "name": "гренки",
+    "slug": "grenki"
+  },
+  {
+    "name": "грецкие орехи",
+    "slug": "gretskie-orekhi"
+  },
+  {
+    "name": "грецкие орехи рубленые",
+    "slug": "gretskie-orekhi-rublenye"
+  },
+  {
+    "name": "гречневая крупа",
+    "slug": "grechnevaya-krupa"
+  },
+  {
+    "name": "гречневая крупа зеленая",
+    "slug": "grechnevaya-krupa-zelenaya"
+  },
+  {
+    "name": "гречневая лапша соба",
+    "slug": "grechnevaya-lapsha-soba"
+  },
+  {
+    "name": "гречневая мука",
+    "slug": "grechnevaya-muka"
+  },
+  {
+    "name": "гречневое молоко",
+    "slug": "grechnevoe-moloko"
+  },
+  {
+    "name": "гречневые хлопья",
+    "slug": "grechnevye-khlopya"
+  },
+  {
+    "name": "грибы",
+    "slug": "griby"
+  },
+  {
+    "name": "грибы белые",
+    "slug": "griby-belye"
+  },
+  {
+    "name": "грибы белые замороженные",
+    "slug": "griby-belye-zamorozhennye"
+  },
+  {
+    "name": "грибы белые маринованные",
+    "slug": "griby-belye-marinovannye"
+  },
+  {
+    "name": "грибы белые сухие",
+    "slug": "griby-belye-sukhie"
+  },
+  {
+    "name": "грибы замороженные",
+    "slug": "griby-zamorozhennye"
+  },
+  {
+    "name": "грибы замороженные (опята и маслята)",
+    "slug": "griby-zamorozhennye-opyata-i-maslyata"
+  },
+  {
+    "name": "грибы лесные",
+    "slug": "griby-lesnye"
+  },
+  {
+    "name": "грибы маринованные",
+    "slug": "griby-marinovannye"
+  },
+  {
+    "name": "грибы свежие",
+    "slug": "griby-svezhie"
+  },
+  {
+    "name": "грибы соленые",
+    "slug": "griby-solenye"
+  },
+  {
+    "name": "грибы соломенные консервированные",
+    "slug": "griby-solomennye-konservirovannye"
+  },
+  {
+    "name": "грибы сухие",
+    "slug": "griby-sukhie"
+  },
+  {
+    "name": "грибы шиитаке",
+    "slug": "griby-shiitake"
+  },
+  {
+    "name": "грибы шиитаке сухие",
+    "slug": "griby-shiitake-sukhie"
+  },
+  {
+    "name": "гриль",
+    "slug": "gril"
+  },
+  {
+    "name": "гриссини",
+    "slug": "grissini"
+  },
+  {
+    "name": "грудинка",
+    "slug": "grudinka"
+  },
+  {
+    "name": "грудинка варено-копченая",
+    "slug": "grudinka-vareno-kopchenaya"
+  },
+  {
+    "name": "грудинка копченая",
+    "slug": "grudinka-kopchenaya"
+  },
+  {
+    "name": "грушевое пюре",
+    "slug": "grushevoe-pyure"
+  },
+  {
+    "name": "грушевый ликер",
+    "slug": "grushevyi-liker"
+  },
+  {
+    "name": "грушевый сироп",
+    "slug": "grushevyi-sirop"
+  },
+  {
+    "name": "грушевый сок",
+    "slug": "grushevyi-sok"
+  },
+  {
+    "name": "грушевый уксус",
+    "slug": "grushevyi-uksus"
+  },
+  {
+    "name": "груши",
+    "slug": "grushi"
+  },
+  {
+    "name": "груши вяленые",
+    "slug": "grushi-vyalenye"
+  },
+  {
+    "name": "грюйер",
+    "slug": "gryuier"
+  },
+  {
+    "name": "гуава",
+    "slug": "guava"
+  },
+  {
+    "name": "гуанчиале",
+    "slug": "guanchiale"
+  },
+  {
+    "name": "гурьевская каша",
+    "slug": "gurevskaya-kasha"
+  },
+  {
+    "name": "гусиная грудка копченая",
+    "slug": "gusinaya-grudka-kopchenaya"
+  },
+  {
+    "name": "гусиная печень",
+    "slug": "gusinaya-pechen"
+  },
+  {
+    "name": "гусиный жир",
+    "slug": "gusinyi-zhir"
+  },
+  {
+    "name": "гусь",
+    "slug": "gus"
+  },
+  {
+    "name": "гусь тушка",
+    "slug": "gus-tushka"
+  },
+  {
+    "name": "дайкон",
+    "slug": "daikon"
+  },
+  {
+    "name": "детское питание",
+    "slug": "detskoe-pitanie"
+  },
+  {
+    "name": "джем",
+    "slug": "dzhem"
+  },
+  {
+    "name": "джин",
+    "slug": "dzhin"
+  },
+  {
+    "name": "джусай",
+    "slug": "dzhusai"
+  },
+  {
+    "name": "диоксид титана",
+    "slug": "dioksid-titana"
+  },
+  {
+    "name": "долма",
+    "slug": "dolma"
+  },
+  {
+    "name": "дорада",
+    "slug": "dorada"
+  },
+  {
+    "name": "дорада потрошеная с головой",
+    "slug": "dorada-potroshenaya-s-golovoi"
+  },
+  {
+    "name": "дорада с головой",
+    "slug": "dorada-s-golovoi"
+  },
+  {
+    "name": "дорада тушка",
+    "slug": "dorada-tushka"
+  },
+  {
+    "name": "драже",
+    "slug": "drazhe"
+  },
+  {
+    "name": "дрожжи домашние",
+    "slug": "drozhzhi-domashnie"
+  },
+  {
+    "name": "дрожжи свежие",
+    "slug": "drozhzhi-svezhie"
+  },
+  {
+    "name": "дрожжи сухие",
+    "slug": "drozhzhi-sukhie"
+  },
+  {
+    "name": "дубовая кора",
+    "slug": "dubovaya-kora"
+  },
+  {
+    "name": "душица",
+    "slug": "dushitsa"
+  },
+  {
+    "name": "дыня",
+    "slug": "dynya"
+  },
+  {
+    "name": "ежевика",
+    "slug": "ezhevika"
+  },
+  {
+    "name": "ежевика замороженная",
+    "slug": "ezhevika-zamorozhennaya"
+  },
+  {
+    "name": "желатин",
+    "slug": "zhelatin"
+  },
+  {
+    "name": "желатин листовой",
+    "slug": "zhelatin-listovoi"
+  },
+  {
+    "name": "желе",
+    "slug": "zhele"
+  },
+  {
+    "name": "желе для торта",
+    "slug": "zhele-dlya-torta"
+  },
+  {
+    "name": "желирующее вещество",
+    "slug": "zheliruyushchee-veshchestvo"
+  },
+  {
+    "name": "желирующий сахар",
+    "slug": "zheliruyushchii-sakhar"
+  },
+  {
+    "name": "женьшень",
+    "slug": "zhenshen"
+  },
+  {
+    "name": "жидкий дым",
+    "slug": "zhidkii-dym"
+  },
+  {
+    "name": "жимолость",
+    "slug": "zhimolost"
+  },
+  {
+    "name": "жир",
+    "slug": "zhir"
+  },
+  {
+    "name": "жир вытопленный",
+    "slug": "zhir-vytoplennyi"
+  },
+  {
+    "name": "жир кулинарный",
+    "slug": "zhir-kulinarnyi"
+  },
+  {
+    "name": "жир растительный",
+    "slug": "zhir-rastitelnyi"
+  },
+  {
+    "name": "заатар",
+    "slug": "zaatar"
+  },
+  {
+    "name": "завтрак сухой",
+    "slug": "zavtrak-sukhoi"
+  },
+  {
+    "name": "завтрак сухой подушечки",
+    "slug": "zavtrak-sukhoi-podushechki"
+  },
+  {
+    "name": "загуститель для сливок",
+    "slug": "zagustitel-dlya-slivok"
+  },
+  {
+    "name": "зайчатина",
+    "slug": "zaichatina"
+  },
+  {
+    "name": "закваска",
+    "slug": "zakvaska"
+  },
+  {
+    "name": "закваска вечная",
+    "slug": "zakvaska-vechnaya"
+  },
+  {
+    "name": "заменитель сахара",
+    "slug": "zamenitel-sakhara"
+  },
+  {
+    "name": "заменитель сахара стевия",
+    "slug": "zamenitel-sakhara-steviya"
+  },
+  {
+    "name": "заправка для салатов готовая",
+    "slug": "zapravka-dlya-salatov-gotovaya"
+  },
+  {
+    "name": "зверобой",
+    "slug": "zveroboi"
+  },
+  {
+    "name": "зелень",
+    "slug": "zelen"
+  },
+  {
+    "name": "зелень рубленая",
+    "slug": "zelen-rublenaya"
+  },
+  {
+    "name": "земляника",
+    "slug": "zemlyanika"
+  },
+  {
+    "name": "земляника замороженная",
+    "slug": "zemlyanika-zamorozhennaya"
+  },
+  {
+    "name": "зефир",
+    "slug": "zefir"
+  },
+  {
+    "name": "зира",
+    "slug": "zira"
+  },
+  {
+    "name": "злаковые хлопья",
+    "slug": "zlakovye-khlopya"
+  },
+  {
+    "name": "зубатка",
+    "slug": "zubatka"
+  },
+  {
+    "name": "зубатка филе",
+    "slug": "zubatka-file"
+  },
+  {
+    "name": "изолят соевого протеина",
+    "slug": "izolyat-soevogo-proteina"
+  },
+  {
+    "name": "изюм",
+    "slug": "izyum"
+  },
+  {
+    "name": "изюм без косточек",
+    "slug": "izyum-bez-kostochek"
+  },
+  {
+    "name": "изюм белый",
+    "slug": "izyum-belyi"
+  },
+  {
+    "name": "изюм черный",
+    "slug": "izyum-chernyi"
+  },
+  {
+    "name": "икра",
+    "slug": "ikra"
+  },
+  {
+    "name": "икра вяленой рыбы",
+    "slug": "ikra-vyalenoi-ryby"
+  },
+  {
+    "name": "икра горбуши зернистая",
+    "slug": "ikra-gorbushi-zernistaya"
+  },
+  {
+    "name": "икра красная",
+    "slug": "ikra-krasnaya"
+  },
+  {
+    "name": "икра красной рыбы мелкая",
+    "slug": "ikra-krasnoi-ryby-melkaya"
+  },
+  {
+    "name": "икра летучей рыбы",
+    "slug": "ikra-letuchei-ryby"
+  },
+  {
+    "name": "икра лосося",
+    "slug": "ikra-lososya"
+  },
+  {
+    "name": "икра мойвы",
+    "slug": "ikra-moivy"
+  },
+  {
+    "name": "икра палтуса",
+    "slug": "ikra-paltusa"
+  },
+  {
+    "name": "икра судака",
+    "slug": "ikra-sudaka"
+  },
+  {
+    "name": "икра черная",
+    "slug": "ikra-chernaya"
+  },
+  {
+    "name": "имбирное варенье",
+    "slug": "imbirnoe-varene"
+  },
+  {
+    "name": "имбирное печенье",
+    "slug": "imbirnoe-pechene"
+  },
+  {
+    "name": "имбирные цукаты",
+    "slug": "imbirnye-tsukaty"
+  },
+  {
+    "name": "имбирь",
+    "slug": "imbir"
+  },
+  {
+    "name": "имбирь засахаренный",
+    "slug": "imbir-zasakharennyi"
+  },
+  {
+    "name": "имбирь корень",
+    "slug": "imbir-koren"
+  },
+  {
+    "name": "имбирь маринованный",
+    "slug": "imbir-marinovannyi"
+  },
+  {
+    "name": "имбирь молотый",
+    "slug": "imbir-molotyi"
+  },
+  {
+    "name": "индейка",
+    "slug": "indeika"
+  },
+  {
+    "name": "индейка голень",
+    "slug": "indeika-golen"
+  },
+  {
+    "name": "индейка грудка",
+    "slug": "indeika-grudka"
+  },
+  {
+    "name": "индейка копченая",
+    "slug": "indeika-kopchenaya"
+  },
+  {
+    "name": "индейка тушка",
+    "slug": "indeika-tushka"
+  },
+  {
+    "name": "индейка фарш",
+    "slug": "indeika-farsh"
+  },
+  {
+    "name": "индейка филе",
+    "slug": "indeika-file"
+  },
+  {
+    "name": "индоутка",
+    "slug": "indoutka"
+  },
+  {
+    "name": "индюшачья печень",
+    "slug": "indyushachya-pechen"
+  },
+  {
+    "name": "инжир",
+    "slug": "inzhir"
+  },
+  {
+    "name": "инжир свежий",
+    "slug": "inzhir-svezhii"
+  },
+  {
+    "name": "инжир сушеный",
+    "slug": "inzhir-sushenyi"
+  },
+  {
+    "name": "ирга",
+    "slug": "irga"
+  },
+  {
+    "name": "ириски",
+    "slug": "iriski"
+  },
+  {
+    "name": "итальянские травы",
+    "slug": "italyanskie-travy"
+  },
+  {
+    "name": "йогурт",
+    "slug": "iogurt"
+  },
+  {
+    "name": "йогурт греческий",
+    "slug": "iogurt-grecheskii"
+  },
+  {
+    "name": "йогурт жирный",
+    "slug": "iogurt-zhirnyi"
+  },
+  {
+    "name": "йогурт козий",
+    "slug": "iogurt-kozii"
+  },
+  {
+    "name": "йогурт натуральный",
+    "slug": "iogurt-naturalnyi"
+  },
+  {
+    "name": "йогурт нежирный",
+    "slug": "iogurt-nezhirnyi"
+  },
+  {
+    "name": "йогурт обезжиренный",
+    "slug": "iogurt-obezzhirennyi"
+  },
+  {
+    "name": "йогурт фруктовый",
+    "slug": "iogurt-fruktovyi"
+  },
+  {
+    "name": "кабачки",
+    "slug": "kabachki"
+  },
+  {
+    "name": "кабачки замороженные",
+    "slug": "kabachki-zamorozhennye"
+  },
+  {
+    "name": "кабачки молодые",
+    "slug": "kabachki-molodye"
+  },
+  {
+    "name": "каджунская смесь специй",
+    "slug": "kadzhunskaya-smes-spetsii"
+  },
+  {
+    "name": "какао",
+    "slug": "kakao"
+  },
+  {
+    "name": "какао сгущенное",
+    "slug": "kakao-sgushchennoe"
+  },
+  {
+    "name": "какао-бобы",
+    "slug": "kakao-boby"
+  },
+  {
+    "name": "какао-масло",
+    "slug": "kakao-maslo"
+  },
+  {
+    "name": "какао-порошок",
+    "slug": "kakao-poroshok"
+  },
+  {
+    "name": "какао-порошок обезжиренный",
+    "slug": "kakao-poroshok-obezzhirennyi"
+  },
+  {
+    "name": "калина",
+    "slug": "kalina"
+  },
+  {
+    "name": "калина протертая",
+    "slug": "kalina-protertaya"
+  },
+  {
+    "name": "калинджи семена",
+    "slug": "kalindzhi-semena"
+  },
+  {
+    "name": "кальвадос",
+    "slug": "kalvados"
+  },
+  {
+    "name": "кальмары",
+    "slug": "kalmary"
+  },
+  {
+    "name": "кальмары вареные",
+    "slug": "kalmary-varenye"
+  },
+  {
+    "name": "кальмары замороженные",
+    "slug": "kalmary-zamorozhennye"
+  },
+  {
+    "name": "кальмары консервированные",
+    "slug": "kalmary-konservirovannye"
+  },
+  {
+    "name": "кальмары филе",
+    "slug": "kalmary-file"
+  },
+  {
+    "name": "камамбер",
+    "slug": "kamamber"
+  },
+  {
+    "name": "камбала",
+    "slug": "kambala"
+  },
+  {
+    "name": "камбала филе",
+    "slug": "kambala-file"
+  },
+  {
+    "name": "кампари",
+    "slug": "kampari"
+  },
+  {
+    "name": "кандурин золотой",
+    "slug": "kandurin-zolotoi"
+  },
+  {
+    "name": "каннеллони",
+    "slug": "kannelloni"
+  },
+  {
+    "name": "капеллини",
+    "slug": "kapellini"
+  },
+  {
+    "name": "каперсы",
+    "slug": "kapersy"
+  },
+  {
+    "name": "каперсы в винном уксусе",
+    "slug": "kapersy-v-vinnom-uksuse"
+  },
+  {
+    "name": "каперсы маринованные",
+    "slug": "kapersy-marinovannye"
+  },
+  {
+    "name": "капуста белокочанная",
+    "slug": "kapusta-belokochannaya"
+  },
+  {
+    "name": "капуста брюссельская",
+    "slug": "kapusta-bryusselskaya"
+  },
+  {
+    "name": "капуста брюссельская замороженная",
+    "slug": "kapusta-bryusselskaya-zamorozhennaya"
+  },
+  {
+    "name": "капуста кале",
+    "slug": "kapusta-kale"
+  },
+  {
+    "name": "капуста квашеная",
+    "slug": "kapusta-kvashenaya"
+  },
+  {
+    "name": "капуста кольраби",
+    "slug": "kapusta-kolrabi"
+  },
+  {
+    "name": "капуста краснокочанная",
+    "slug": "kapusta-krasnokochannaya"
+  },
+  {
+    "name": "капуста морская",
+    "slug": "kapusta-morskaya"
+  },
+  {
+    "name": "капуста морская замороженная",
+    "slug": "kapusta-morskaya-zamorozhennaya"
+  },
+  {
+    "name": "капуста морская сушеная",
+    "slug": "kapusta-morskaya-sushenaya"
+  },
+  {
+    "name": "капуста пекинская",
+    "slug": "kapusta-pekinskaya"
+  },
+  {
+    "name": "капуста савойская",
+    "slug": "kapusta-savoiskaya"
+  },
+  {
+    "name": "капуста цветная",
+    "slug": "kapusta-tsvetnaya"
+  },
+  {
+    "name": "капуста цветная замороженная",
+    "slug": "kapusta-tsvetnaya-zamorozhennaya"
+  },
+  {
+    "name": "капустный рассол",
+    "slug": "kapustnyi-rassol"
+  },
+  {
+    "name": "капучино",
+    "slug": "kapuchino"
+  },
+  {
+    "name": "каракатица",
+    "slug": "karakatitsa"
+  },
+  {
+    "name": "каракатица очищенная",
+    "slug": "karakatitsa-ochishchennaya"
+  },
+  {
+    "name": "карамбола",
+    "slug": "karambola"
+  },
+  {
+    "name": "карамель",
+    "slug": "karamel"
+  },
+  {
+    "name": "карамель с начинкой",
+    "slug": "karamel-s-nachinkoi"
+  },
+  {
+    "name": "карамель соленая",
+    "slug": "karamel-solenaya"
+  },
+  {
+    "name": "карамельный соус",
+    "slug": "karamelnyi-sous"
+  },
+  {
+    "name": "карась",
+    "slug": "karas"
+  },
+  {
+    "name": "карбонад",
+    "slug": "karbonad"
+  },
+  {
+    "name": "кардамон",
+    "slug": "kardamon"
+  },
+  {
+    "name": "кардамон зерна",
+    "slug": "kardamon-zerna"
+  },
+  {
+    "name": "кардамон молотый",
+    "slug": "kardamon-molotyi"
+  },
+  {
+    "name": "кардамон стручки",
+    "slug": "kardamon-struchki"
+  },
+  {
+    "name": "каркаде",
+    "slug": "karkade"
+  },
+  {
+    "name": "карп",
+    "slug": "karp"
+  },
+  {
+    "name": "карп зеркальный",
+    "slug": "karp-zerkalnyi"
+  },
+  {
+    "name": "карп филе",
+    "slug": "karp-file"
+  },
+  {
+    "name": "карри",
+    "slug": "karri"
+  },
+  {
+    "name": "карри листья",
+    "slug": "karri-listya"
+  },
+  {
+    "name": "карри паста",
+    "slug": "karri-pasta"
+  },
+  {
+    "name": "картофель",
+    "slug": "kartofel"
+  },
+  {
+    "name": "картофель вареный",
+    "slug": "kartofel-varenyi"
+  },
+  {
+    "name": "картофель вареный в мундире",
+    "slug": "kartofel-varenyi-v-mundire"
+  },
+  {
+    "name": "картофель молодой",
+    "slug": "kartofel-molodoi"
+  },
+  {
+    "name": "картофель печеный",
+    "slug": "kartofel-pechenyi"
+  },
+  {
+    "name": "картофельное пюре",
+    "slug": "kartofelnoe-pyure"
+  },
+  {
+    "name": "картофельные ньокки",
+    "slug": "kartofelnye-nokki"
+  },
+  {
+    "name": "картофельные хлопья",
+    "slug": "kartofelnye-khlopya"
+  },
+  {
+    "name": "картофельные чипсы",
+    "slug": "kartofelnye-chipsy"
+  },
+  {
+    "name": "картофельный крахмал",
+    "slug": "kartofelnyi-krakhmal"
+  },
+  {
+    "name": "картофельный отвар",
+    "slug": "kartofelnyi-otvar"
+  },
+  {
+    "name": "картофельный хэш замороженный",
+    "slug": "kartofelnyi-khesh-zamorozhennyi"
+  },
+  {
+    "name": "катык",
+    "slug": "katyk"
+  },
+  {
+    "name": "каффир-лайм листья",
+    "slug": "kaffir-laim-listya"
+  },
+  {
+    "name": "каша",
+    "slug": "kasha"
+  },
+  {
+    "name": "каша для детского питания",
+    "slug": "kasha-dlya-detskogo-pitaniya"
+  },
+  {
+    "name": "каштановая мука",
+    "slug": "kashtanovaya-muka"
+  },
+  {
+    "name": "каштановый крем",
+    "slug": "kashtanovyi-krem"
+  },
+  {
+    "name": "каштаны",
+    "slug": "kashtany"
+  },
+  {
+    "name": "каштаны вареные",
+    "slug": "kashtany-varenye"
+  },
+  {
+    "name": "каштаны консервированные",
+    "slug": "kashtany-konservirovannye"
+  },
+  {
+    "name": "каштаны очищенные",
+    "slug": "kashtany-ochishchennye"
+  },
+  {
+    "name": "квас",
+    "slug": "kvas"
+  },
+  {
+    "name": "квас хлебный",
+    "slug": "kvas-khlebnyi"
+  },
+  {
+    "name": "квасное сусло",
+    "slug": "kvasnoe-suslo"
+  },
+  {
+    "name": "квасной концентрат сухой",
+    "slug": "kvasnoi-kontsentrat-sukhoi"
+  },
+  {
+    "name": "кедровая мука",
+    "slug": "kedrovaya-muka"
+  },
+  {
+    "name": "кедровые орехи",
+    "slug": "kedrovye-orekhi"
+  },
+  {
+    "name": "кедровые орехи жареные",
+    "slug": "kedrovye-orekhi-zharenye"
+  },
+  {
+    "name": "кета",
+    "slug": "keta"
+  },
+  {
+    "name": "кетчуп острый",
+    "slug": "ketchup-ostryi"
+  },
+  {
+    "name": "кетчуп томатный",
+    "slug": "ketchup-tomatnyi"
+  },
+  {
+    "name": "кетчуп тосканский",
+    "slug": "ketchup-toskanskii"
+  },
+  {
+    "name": "кетчуп шашлычный",
+    "slug": "ketchup-shashlychnyi"
+  },
+  {
+    "name": "кефаль",
+    "slug": "kefal"
+  },
+  {
+    "name": "кефир",
+    "slug": "kefir"
+  },
+  {
+    "name": "кефир 1%",
+    "slug": "kefir-1"
+  },
+  {
+    "name": "кефир 2,5%",
+    "slug": "kefir-25"
+  },
+  {
+    "name": "кефир 3,2%",
+    "slug": "kefir-32"
+  },
+  {
+    "name": "кефир обезжиренный",
+    "slug": "kefir-obezzhirennyi"
+  },
+  {
+    "name": "кешью",
+    "slug": "keshyu"
+  },
+  {
+    "name": "кивано",
+    "slug": "kivano"
+  },
+  {
+    "name": "киви",
+    "slug": "kivi"
+  },
+  {
+    "name": "киви желе",
+    "slug": "kivi-zhele"
+  },
+  {
+    "name": "кижуч",
+    "slug": "kizhuch"
+  },
+  {
+    "name": "кижуч горячего копчения филе",
+    "slug": "kizhuch-goryachego-kopcheniya-file"
+  },
+  {
+    "name": "кизил",
+    "slug": "kizil"
+  },
+  {
+    "name": "килька",
+    "slug": "kilka"
+  },
+  {
+    "name": "кимчи",
+    "slug": "kimchi"
+  },
+  {
+    "name": "кинза свежая",
+    "slug": "kinza-svezhaya"
+  },
+  {
+    "name": "кинза сушеная",
+    "slug": "kinza-sushenaya"
+  },
+  {
+    "name": "киноа",
+    "slug": "kinoa"
+  },
+  {
+    "name": "киноа молотая",
+    "slug": "kinoa-molotaya"
+  },
+  {
+    "name": "кипяток",
+    "slug": "kipyatok"
+  },
+  {
+    "name": "кирш",
+    "slug": "kirsh"
+  },
+  {
+    "name": "кисель",
+    "slug": "kisel"
+  },
+  {
+    "name": "кисель сухой",
+    "slug": "kisel-sukhoi"
+  },
+  {
+    "name": "кисломолочный напиток Тан",
+    "slug": "kislomolochnyi-napitok-tan"
+  },
+  {
+    "name": "кишки",
+    "slug": "kishki"
+  },
+  {
+    "name": "клейковина",
+    "slug": "kleikovina"
+  },
+  {
+    "name": "клементины",
+    "slug": "klementiny"
+  },
+  {
+    "name": "кленовый сироп",
+    "slug": "klenovyi-sirop"
+  },
+  {
+    "name": "клубника",
+    "slug": "klubnika"
+  },
+  {
+    "name": "клубника в сиропе",
+    "slug": "klubnika-v-sirope"
+  },
+  {
+    "name": "клубника замороженная",
+    "slug": "klubnika-zamorozhennaya"
+  },
+  {
+    "name": "клубника сушеная",
+    "slug": "klubnika-sushenaya"
+  },
+  {
+    "name": "клубника, протертая с сахаром",
+    "slug": "klubnika-protertaya-s-sakharom"
+  },
+  {
+    "name": "клубничное варенье",
+    "slug": "klubnichnoe-varene"
+  },
+  {
+    "name": "клубничное желе",
+    "slug": "klubnichnoe-zhele"
+  },
+  {
+    "name": "клубничное пюре",
+    "slug": "klubnichnoe-pyure"
+  },
+  {
+    "name": "клубничный джем",
+    "slug": "klubnichnyi-dzhem"
+  },
+  {
+    "name": "клубничный джем густой",
+    "slug": "klubnichnyi-dzhem-gustoi"
+  },
+  {
+    "name": "клубничный компот",
+    "slug": "klubnichnyi-kompot"
+  },
+  {
+    "name": "клубничный ликер",
+    "slug": "klubnichnyi-liker"
+  },
+  {
+    "name": "клубничный сироп",
+    "slug": "klubnichnyi-sirop"
+  },
+  {
+    "name": "клюква",
+    "slug": "klyukva"
+  },
+  {
+    "name": "клюква вяленая",
+    "slug": "klyukva-vyalenaya"
+  },
+  {
+    "name": "клюква замороженная",
+    "slug": "klyukva-zamorozhennaya"
+  },
+  {
+    "name": "клюква, протертая с сахаром",
+    "slug": "klyukva-protertaya-s-sakharom"
+  },
+  {
+    "name": "клюквенное варенье",
+    "slug": "klyukvennoe-varene"
+  },
+  {
+    "name": "клюквенный джем",
+    "slug": "klyukvennyi-dzhem"
+  },
+  {
+    "name": "клюквенный морс",
+    "slug": "klyukvennyi-mors"
+  },
+  {
+    "name": "клюквенный сироп",
+    "slug": "klyukvennyi-sirop"
+  },
+  {
+    "name": "клюквенный соус",
+    "slug": "klyukvennyi-sous"
+  },
+  {
+    "name": "козлиная печень",
+    "slug": "kozlinaya-pechen"
+  },
+  {
+    "name": "козлятина молодая",
+    "slug": "kozlyatina-molodaya"
+  },
+  {
+    "name": "кока-кола",
+    "slug": "koka-kola"
+  },
+  {
+    "name": "кокосовая вода",
+    "slug": "kokosovaya-voda"
+  },
+  {
+    "name": "кокосовая мука",
+    "slug": "kokosovaya-muka"
+  },
+  {
+    "name": "кокосовая стружка",
+    "slug": "kokosovaya-struzhka"
+  },
+  {
+    "name": "кокосовая стружка цветная",
+    "slug": "kokosovaya-struzhka-tsvetnaya"
+  },
+  {
+    "name": "кокосовое масло",
+    "slug": "kokosovoe-maslo"
+  },
+  {
+    "name": "кокосовое молоко",
+    "slug": "kokosovoe-moloko"
+  },
+  {
+    "name": "кокосовые сливки",
+    "slug": "kokosovye-slivki"
+  },
+  {
+    "name": "кокосовый ликер",
+    "slug": "kokosovyi-liker"
+  },
+  {
+    "name": "кокосовый экстракт",
+    "slug": "kokosovyi-ekstrakt"
+  },
+  {
+    "name": "кокосы",
+    "slug": "kokosy"
+  },
+  {
+    "name": "кола",
+    "slug": "kola"
+  },
+  {
+    "name": "колбаса",
+    "slug": "kolbasa"
+  },
+  {
+    "name": "колбаса вареная",
+    "slug": "kolbasa-varenaya"
+  },
+  {
+    "name": "колбаса варено-копченая",
+    "slug": "kolbasa-vareno-kopchenaya"
+  },
+  {
+    "name": "колбаса копченая",
+    "slug": "kolbasa-kopchenaya"
+  },
+  {
+    "name": "колбаса кровяная",
+    "slug": "kolbasa-krovyanaya"
+  },
+  {
+    "name": "колбаса полукопченая",
+    "slug": "kolbasa-polukopchenaya"
+  },
+  {
+    "name": "колбаса сырокопченая",
+    "slug": "kolbasa-syrokopchenaya"
+  },
+  {
+    "name": "колбаска свиная свежая (salsiccia)",
+    "slug": "kolbaska-svinaya-svezhaya-salsiccia"
+  },
+  {
+    "name": "колбаски",
+    "slug": "kolbaski"
+  },
+  {
+    "name": "колбаски для жарки",
+    "slug": "kolbaski-dlya-zharki"
+  },
+  {
+    "name": "колбаски домашние",
+    "slug": "kolbaski-domashnie"
+  },
+  {
+    "name": "колбаски охотничьи",
+    "slug": "kolbaski-okhotnichi"
+  },
+  {
+    "name": "колбаски сырокопченые",
+    "slug": "kolbaski-syrokopchenye"
+  },
+  {
+    "name": "компот",
+    "slug": "kompot"
+  },
+  {
+    "name": "конопля семена",
+    "slug": "konoplya-semena"
+  },
+  {
+    "name": "конопляное масло",
+    "slug": "konoplyanoe-maslo"
+  },
+  {
+    "name": "конфеты",
+    "slug": "konfety"
+  },
+  {
+    "name": "конфеты M&M’s",
+    "slug": "konfety-mms"
+  },
+  {
+    "name": "конфеты Коровка",
+    "slug": "konfety-korovka"
+  },
+  {
+    "name": "конфеты Трюфель",
+    "slug": "konfety-tryufel"
+  },
+  {
+    "name": "конфеты жевательные лакричные",
+    "slug": "konfety-zhevatelnye-lakrichnye"
+  },
+  {
+    "name": "конфитюр",
+    "slug": "konfityur"
+  },
+  {
+    "name": "конфитюрка",
+    "slug": "konfityurka"
+  },
+  {
+    "name": "коньяк",
+    "slug": "konyak"
+  },
+  {
+    "name": "копчености",
+    "slug": "kopchenosti"
+  },
+  {
+    "name": "коренья",
+    "slug": "korenya"
+  },
+  {
+    "name": "кориандр",
+    "slug": "koriandr"
+  },
+  {
+    "name": "кориандр зелень",
+    "slug": "koriandr-zelen"
+  },
+  {
+    "name": "кориандр молотый",
+    "slug": "koriandr-molotyi"
+  },
+  {
+    "name": "кориандр семена",
+    "slug": "koriandr-semena"
+  },
+  {
+    "name": "коринка",
+    "slug": "korinka"
+  },
+  {
+    "name": "корица",
+    "slug": "koritsa"
+  },
+  {
+    "name": "корица молотая",
+    "slug": "koritsa-molotaya"
+  },
+  {
+    "name": "корнишоны",
+    "slug": "kornishony"
+  },
+  {
+    "name": "корнишоны маринованые",
+    "slug": "kornishony-marinovanye"
+  },
+  {
+    "name": "корюшка",
+    "slug": "koryushka"
+  },
+  {
+    "name": "корюшка горячего копчения",
+    "slug": "koryushka-goryachego-kopcheniya"
+  },
+  {
+    "name": "кости",
+    "slug": "kosti"
+  },
+  {
+    "name": "кости мозговые",
+    "slug": "kosti-mozgovye"
+  },
+  {
+    "name": "кость сахарная",
+    "slug": "kost-sakharnaya"
+  },
+  {
+    "name": "кофе в зернах",
+    "slug": "kofe-v-zernakh"
+  },
+  {
+    "name": "кофе зеленый",
+    "slug": "kofe-zelenyi"
+  },
+  {
+    "name": "кофе молотый",
+    "slug": "kofe-molotyi"
+  },
+  {
+    "name": "кофе растворимый",
+    "slug": "kofe-rastvorimyi"
+  },
+  {
+    "name": "кофе свежесваренный",
+    "slug": "kofe-svezhesvarennyi"
+  },
+  {
+    "name": "кофе черный",
+    "slug": "kofe-chernyi"
+  },
+  {
+    "name": "кофе эспрессо",
+    "slug": "kofe-espresso"
+  },
+  {
+    "name": "кофейные зерна в шоколаде",
+    "slug": "kofeinye-zerna-v-shokolade"
+  },
+  {
+    "name": "кофейный ликер",
+    "slug": "kofeinyi-liker"
+  },
+  {
+    "name": "кофейный ликер Kahlua",
+    "slug": "kofeinyi-liker-kahlua"
+  },
+  {
+    "name": "кофейный напиток",
+    "slug": "kofeinyi-napitok"
+  },
+  {
+    "name": "кофейный сироп",
+    "slug": "kofeinyi-sirop"
+  },
+  {
+    "name": "кофейный экстракт",
+    "slug": "kofeinyi-ekstrakt"
+  },
+  {
+    "name": "краб снежный",
+    "slug": "krab-snezhnyi"
+  },
+  {
+    "name": "крабовое мясо",
+    "slug": "krabovoe-myaso"
+  },
+  {
+    "name": "крабовые палочки",
+    "slug": "krabovye-palochki"
+  },
+  {
+    "name": "крабы",
+    "slug": "kraby"
+  },
+  {
+    "name": "крапива",
+    "slug": "krapiva"
+  },
+  {
+    "name": "краситель пищевой",
+    "slug": "krasitel-pishchevoi"
+  },
+  {
+    "name": "краситель пищевой вишневый",
+    "slug": "krasitel-pishchevoi-vishnevyi"
+  },
+  {
+    "name": "краситель пищевой желтый",
+    "slug": "krasitel-pishchevoi-zheltyi"
+  },
+  {
+    "name": "краситель пищевой зеленый",
+    "slug": "krasitel-pishchevoi-zelenyi"
+  },
+  {
+    "name": "краситель пищевой красный",
+    "slug": "krasitel-pishchevoi-krasnyi"
+  },
+  {
+    "name": "краситель пищевой оранжевый",
+    "slug": "krasitel-pishchevoi-oranzhevyi"
+  },
+  {
+    "name": "краситель пищевой фиолетовый",
+    "slug": "krasitel-pishchevoi-fioletovyi"
+  },
+  {
+    "name": "краситель пищевой черный",
+    "slug": "krasitel-pishchevoi-chernyi"
+  },
+  {
+    "name": "краситель-гель пищевой",
+    "slug": "krasitel-gel-pishchevoi"
+  },
+  {
+    "name": "красная смородина",
+    "slug": "krasnaya-smorodina"
+  },
+  {
+    "name": "красная смородина, протертая с сахаром",
+    "slug": "krasnaya-smorodina-protertaya-s-sakharom"
+  },
+  {
+    "name": "красноперка",
+    "slug": "krasnoperka"
+  },
+  {
+    "name": "красносмородиновое варенье",
+    "slug": "krasnosmorodinovoe-varene"
+  },
+  {
+    "name": "красный винный соус",
+    "slug": "krasnyi-vinnyi-sous"
+  },
+  {
+    "name": "крахмал",
+    "slug": "krakhmal"
+  },
+  {
+    "name": "креветки",
+    "slug": "krevetki"
+  },
+  {
+    "name": "креветки замороженные",
+    "slug": "krevetki-zamorozhennye"
+  },
+  {
+    "name": "креветки королевские",
+    "slug": "krevetki-korolevskie"
+  },
+  {
+    "name": "креветки очищенные",
+    "slug": "krevetki-ochishchennye"
+  },
+  {
+    "name": "креветки очищенные в рассоле",
+    "slug": "krevetki-ochishchennye-v-rassole"
+  },
+  {
+    "name": "креветки салатные",
+    "slug": "krevetki-salatnye"
+  },
+  {
+    "name": "креветки сушеные",
+    "slug": "krevetki-sushenye"
+  },
+  {
+    "name": "креветки тигровые",
+    "slug": "krevetki-tigrovye"
+  },
+  {
+    "name": "крекер",
+    "slug": "kreker"
+  },
+  {
+    "name": "крекер соленый",
+    "slug": "kreker-solenyi"
+  },
+  {
+    "name": "крем заварной",
+    "slug": "krem-zavarnoi"
+  },
+  {
+    "name": "крем заварной порошковый",
+    "slug": "krem-zavarnoi-poroshkovyi"
+  },
+  {
+    "name": "крем-фреш",
+    "slug": "krem-fresh"
+  },
+  {
+    "name": "кресс-салат",
+    "slug": "kress-salat"
+  },
+  {
+    "name": "кровь",
+    "slug": "krov"
+  },
+  {
+    "name": "кролик",
+    "slug": "krolik"
+  },
+  {
+    "name": "кролик тушка",
+    "slug": "krolik-tushka"
+  },
+  {
+    "name": "кролик филе",
+    "slug": "krolik-file"
+  },
+  {
+    "name": "кроличья печень",
+    "slug": "krolichya-pechen"
+  },
+  {
+    "name": "круассаны",
+    "slug": "kruassany"
+  },
+  {
+    "name": "крутоны мелкие",
+    "slug": "krutony-melkie"
+  },
+  {
+    "name": "крыжовник",
+    "slug": "kryzhovnik"
+  },
+  {
+    "name": "крыжовниковое варенье",
+    "slug": "kryzhovnikovoe-varene"
+  },
+  {
+    "name": "кукуруза",
+    "slug": "kukuruza"
+  },
+  {
+    "name": "кукуруза замороженная",
+    "slug": "kukuruza-zamorozhennaya"
+  },
+  {
+    "name": "кукуруза консервированная",
+    "slug": "kukuruza-konservirovannaya"
+  },
+  {
+    "name": "кукуруза обжаренная кикос",
+    "slug": "kukuruza-obzharennaya-kikos"
+  },
+  {
+    "name": "кукурузная крупа",
+    "slug": "kukuruznaya-krupa"
+  },
+  {
+    "name": "кукурузная мука",
+    "slug": "kukuruznaya-muka"
+  },
+  {
+    "name": "кукурузное масло",
+    "slug": "kukuruznoe-maslo"
+  },
+  {
+    "name": "кукурузные лепешки",
+    "slug": "kukuruznye-lepeshki"
+  },
+  {
+    "name": "кукурузные палочки",
+    "slug": "kukuruznye-palochki"
+  },
+  {
+    "name": "кукурузные хлопья",
+    "slug": "kukuruznye-khlopya"
+  },
+  {
+    "name": "кукурузные хлопья глазированные",
+    "slug": "kukuruznye-khlopya-glazirovannye"
+  },
+  {
+    "name": "кукурузные чипсы",
+    "slug": "kukuruznye-chipsy"
+  },
+  {
+    "name": "кукурузный (золотой) сироп",
+    "slug": "kukuruznyi-zolotoi-sirop"
+  },
+  {
+    "name": "кукурузный крахмал",
+    "slug": "kukuruznyi-krakhmal"
+  },
+  {
+    "name": "кумин",
+    "slug": "kumin"
+  },
+  {
+    "name": "кумкваты",
+    "slug": "kumkvaty"
+  },
+  {
+    "name": "кунжут",
+    "slug": "kunzhut"
+  },
+  {
+    "name": "кунжут черный",
+    "slug": "kunzhut-chernyi"
+  },
+  {
+    "name": "кунжутная мука",
+    "slug": "kunzhutnaya-muka"
+  },
+  {
+    "name": "кунжутная паста",
+    "slug": "kunzhutnaya-pasta"
+  },
+  {
+    "name": "кунжутное масло",
+    "slug": "kunzhutnoe-maslo"
+  },
+  {
+    "name": "кунжутные семечки",
+    "slug": "kunzhutnye-semechki"
+  },
+  {
+    "name": "купаты",
+    "slug": "kupaty"
+  },
+  {
+    "name": "курага",
+    "slug": "kuraga"
+  },
+  {
+    "name": "курдючное сало",
+    "slug": "kurdyuchnoe-salo"
+  },
+  {
+    "name": "курдючный жир",
+    "slug": "kurdyuchnyi-zhir"
+  },
+  {
+    "name": "куриная ветчина",
+    "slug": "kurinaya-vetchina"
+  },
+  {
+    "name": "куриная кожа",
+    "slug": "kurinaya-kozha"
+  },
+  {
+    "name": "куриная печень",
+    "slug": "kurinaya-pechen"
+  },
+  {
+    "name": "куриное карпаччо",
+    "slug": "kurinoe-karpachcho"
+  },
+  {
+    "name": "куриное филе",
+    "slug": "kurinoe-file"
+  },
+  {
+    "name": "куриные бедра",
+    "slug": "kurinye-bedra"
+  },
+  {
+    "name": "куриные голени",
+    "slug": "kurinye-goleni"
+  },
+  {
+    "name": "куриные голени копченые",
+    "slug": "kurinye-goleni-kopchenye"
+  },
+  {
+    "name": "куриные грудки",
+    "slug": "kurinye-grudki"
+  },
+  {
+    "name": "куриные грудки вареные",
+    "slug": "kurinye-grudki-varenye"
+  },
+  {
+    "name": "куриные грудки копченые",
+    "slug": "kurinye-grudki-kopchenye"
+  },
+  {
+    "name": "куриные желудочки",
+    "slug": "kurinye-zheludochki"
+  },
+  {
+    "name": "куриные кости",
+    "slug": "kurinye-kosti"
+  },
+  {
+    "name": "куриные крылья",
+    "slug": "kurinye-krylya"
+  },
+  {
+    "name": "куриные окорочка",
+    "slug": "kurinye-okorochka"
+  },
+  {
+    "name": "куриные окорочка копченые",
+    "slug": "kurinye-okorochka-kopchenye"
+  },
+  {
+    "name": "куриные потрошки",
+    "slug": "kurinye-potroshki"
+  },
+  {
+    "name": "куриные сердечки",
+    "slug": "kurinye-serdechki"
+  },
+  {
+    "name": "куриный бульон",
+    "slug": "kurinyi-bulon"
+  },
+  {
+    "name": "куриный паштет",
+    "slug": "kurinyi-pashtet"
+  },
+  {
+    "name": "куриный суповой набор",
+    "slug": "kurinyi-supovoi-nabor"
+  },
+  {
+    "name": "куриный фарш",
+    "slug": "kurinyi-farsh"
+  },
+  {
+    "name": "курица",
+    "slug": "kuritsa"
+  },
+  {
+    "name": "курица вареная",
+    "slug": "kuritsa-varenaya"
+  },
+  {
+    "name": "курица для жарки",
+    "slug": "kuritsa-dlya-zharki"
+  },
+  {
+    "name": "курица копченая",
+    "slug": "kuritsa-kopchenaya"
+  },
+  {
+    "name": "курица тушка",
+    "slug": "kuritsa-tushka"
+  },
+  {
+    "name": "куркума",
+    "slug": "kurkuma"
+  },
+  {
+    "name": "куропатки",
+    "slug": "kuropatki"
+  },
+  {
+    "name": "кускус",
+    "slug": "kuskus"
+  },
+  {
+    "name": "кускус жемчужный",
+    "slug": "kuskus-zhemchuzhnyi"
+  },
+  {
+    "name": "кэроб",
+    "slug": "kerob"
+  },
+  {
+    "name": "лаванда",
+    "slug": "lavanda"
+  },
+  {
+    "name": "лаванда сушеная",
+    "slug": "lavanda-sushenaya"
+  },
+  {
+    "name": "лавандовый краситель",
+    "slug": "lavandovyi-krasitel"
+  },
+  {
+    "name": "лаваш",
+    "slug": "lavash"
+  },
+  {
+    "name": "лаваш армянский",
+    "slug": "lavash-armyanskii"
+  },
+  {
+    "name": "лаваш персидский круглый",
+    "slug": "lavash-persidskii-kruglyi"
+  },
+  {
+    "name": "лаваш тонкий",
+    "slug": "lavash-tonkii"
+  },
+  {
+    "name": "лавровые листья свежие",
+    "slug": "lavrovye-listya-svezhie"
+  },
+  {
+    "name": "лавровый лист",
+    "slug": "lavrovyi-list"
+  },
+  {
+    "name": "лайм",
+    "slug": "laim"
+  },
+  {
+    "name": "лайм листья",
+    "slug": "laim-listya"
+  },
+  {
+    "name": "лаймовая цедра",
+    "slug": "laimovaya-tsedra"
+  },
+  {
+    "name": "лаймовый сок",
+    "slug": "laimovyi-sok"
+  },
+  {
+    "name": "лангустины",
+    "slug": "langustiny"
+  },
+  {
+    "name": "лапша",
+    "slug": "lapsha"
+  },
+  {
+    "name": "лапша для лагмана",
+    "slug": "lapsha-dlya-lagmana"
+  },
+  {
+    "name": "лапша ширатаки",
+    "slug": "lapsha-shirataki"
+  },
+  {
+    "name": "лапша яичная в гнездах",
+    "slug": "lapsha-yaichnaya-v-gnezdakh"
+  },
+  {
+    "name": "латук",
+    "slug": "latuk"
+  },
+  {
+    "name": "легкие",
+    "slug": "legkie"
+  },
+  {
+    "name": "лед",
+    "slug": "led"
+  },
+  {
+    "name": "леди-фиш тушка",
+    "slug": "ledi-fish-tushka"
+  },
+  {
+    "name": "лемонграсс (лимонное сорго)",
+    "slug": "lemongrass-limonnoe-sorgo"
+  },
+  {
+    "name": "лен семена",
+    "slug": "len-semena"
+  },
+  {
+    "name": "лепешки",
+    "slug": "lepeshki"
+  },
+  {
+    "name": "лепешки арабские",
+    "slug": "lepeshki-arabskie"
+  },
+  {
+    "name": "лесные орехи",
+    "slug": "lesnye-orekhi"
+  },
+  {
+    "name": "лечо",
+    "slug": "lecho"
+  },
+  {
+    "name": "ливер",
+    "slug": "liver"
+  },
+  {
+    "name": "ликер",
+    "slug": "liker"
+  },
+  {
+    "name": "ликер Alchermes",
+    "slug": "liker-alchermes"
+  },
+  {
+    "name": "ликер Amaretto",
+    "slug": "liker-amaretto"
+  },
+  {
+    "name": "ликер Baileys",
+    "slug": "liker-baileys"
+  },
+  {
+    "name": "ликер Cointreau",
+    "slug": "liker-cointreau"
+  },
+  {
+    "name": "ликер кремовый",
+    "slug": "liker-kremovyi"
+  },
+  {
+    "name": "ликер сливочный",
+    "slug": "liker-slivochnyi"
+  },
+  {
+    "name": "лимонад",
+    "slug": "limonad"
+  },
+  {
+    "name": "лимонная кислота",
+    "slug": "limonnaya-kislota"
+  },
+  {
+    "name": "лимонная цедра",
+    "slug": "limonnaya-tsedra"
+  },
+  {
+    "name": "лимонник стебель",
+    "slug": "limonnik-stebel"
+  },
+  {
+    "name": "лимонник ягоды",
+    "slug": "limonnik-yagody"
+  },
+  {
+    "name": "лимонные корочки засахаренные",
+    "slug": "limonnye-korochki-zasakharennye"
+  },
+  {
+    "name": "лимонные цукаты",
+    "slug": "limonnye-tsukaty"
+  },
+  {
+    "name": "лимонный сок",
+    "slug": "limonnyi-sok"
+  },
+  {
+    "name": "лимонный уксус",
+    "slug": "limonnyi-uksus"
+  },
+  {
+    "name": "лимонный экстракт",
+    "slug": "limonnyi-ekstrakt"
+  },
+  {
+    "name": "лимончелло",
+    "slug": "limonchello"
+  },
+  {
+    "name": "лимоны",
+    "slug": "limony"
+  },
+  {
+    "name": "лингвине",
+    "slug": "lingvine"
+  },
+  {
+    "name": "лисички",
+    "slug": "lisichki"
+  },
+  {
+    "name": "лисички сушеные",
+    "slug": "lisichki-sushenye"
+  },
+  {
+    "name": "личи",
+    "slug": "lichi"
+  },
+  {
+    "name": "личи компот",
+    "slug": "lichi-kompot"
+  },
+  {
+    "name": "лобстер",
+    "slug": "lobster"
+  },
+  {
+    "name": "лонган",
+    "slug": "longan"
+  },
+  {
+    "name": "лонгконг",
+    "slug": "longkong"
+  },
+  {
+    "name": "лососевые молоки",
+    "slug": "lososevye-moloki"
+  },
+  {
+    "name": "лососевый фарш",
+    "slug": "lososevyi-farsh"
+  },
+  {
+    "name": "лосось",
+    "slug": "losos"
+  },
+  {
+    "name": "лосось горячего копчения",
+    "slug": "losos-goryachego-kopcheniya"
+  },
+  {
+    "name": "лосось копченый",
+    "slug": "losos-kopchenyi"
+  },
+  {
+    "name": "лосось свежесоленый",
+    "slug": "losos-svezhesolenyi"
+  },
+  {
+    "name": "лосось свежий",
+    "slug": "losos-svezhii"
+  },
+  {
+    "name": "лосось свежий филе",
+    "slug": "losos-svezhii-file"
+  },
+  {
+    "name": "лосось слабосоленый",
+    "slug": "losos-slabosolenyi"
+  },
+  {
+    "name": "лосось стейки",
+    "slug": "losos-steiki"
+  },
+  {
+    "name": "лосось филе",
+    "slug": "losos-file"
+  },
+  {
+    "name": "лосось филе на коже",
+    "slug": "losos-file-na-kozhe"
+  },
+  {
+    "name": "лосось холодного копчения",
+    "slug": "losos-kholodnogo-kopcheniya"
+  },
+  {
+    "name": "лосятина",
+    "slug": "losyatina"
+  },
+  {
+    "name": "лук белый",
+    "slug": "luk-belyi"
+  },
+  {
+    "name": "лук зеленый",
+    "slug": "luk-zelenyi"
+  },
+  {
+    "name": "лук красный",
+    "slug": "luk-krasnyi"
+  },
+  {
+    "name": "лук маринованный",
+    "slug": "luk-marinovannyi"
+  },
+  {
+    "name": "лук репчатый",
+    "slug": "luk-repchatyi"
+  },
+  {
+    "name": "лук репчатый мелкий",
+    "slug": "luk-repchatyi-melkii"
+  },
+  {
+    "name": "лук салатный",
+    "slug": "luk-salatnyi"
+  },
+  {
+    "name": "лук сушеный",
+    "slug": "luk-sushenyi"
+  },
+  {
+    "name": "лук-порей",
+    "slug": "luk-porei"
+  },
+  {
+    "name": "лук-резанец",
+    "slug": "luk-rezanets"
+  },
+  {
+    "name": "лук-шалот",
+    "slug": "luk-shalot"
+  },
+  {
+    "name": "лук-шалот красный",
+    "slug": "luk-shalot-krasnyi"
+  },
+  {
+    "name": "луковая шелуха",
+    "slug": "lukovaya-shelukha"
+  },
+  {
+    "name": "луковый порошок",
+    "slug": "lukovyi-poroshok"
+  },
+  {
+    "name": "льняная мука",
+    "slug": "lnyanaya-muka"
+  },
+  {
+    "name": "льняное масло",
+    "slug": "lnyanoe-maslo"
+  },
+  {
+    "name": "льняное семя",
+    "slug": "lnyanoe-semya"
+  },
+  {
+    "name": "льняное семя молотое",
+    "slug": "lnyanoe-semya-molotoe"
+  },
+  {
+    "name": "любисток",
+    "slug": "lyubistok"
+  },
+  {
+    "name": "маасдам",
+    "slug": "maasdam"
+  },
+  {
+    "name": "мадера",
+    "slug": "madera"
+  },
+  {
+    "name": "майонез",
+    "slug": "maionez"
+  },
+  {
+    "name": "майонез «Слобода» Легкий",
+    "slug": "maionez-sloboda-legkii"
+  },
+  {
+    "name": "майонез «Слобода» На перепелиных яйцах",
+    "slug": "maionez-sloboda-na-perepelinykh-yaitsakh"
+  },
+  {
+    "name": "майонез «Слобода» Оливковый",
+    "slug": "maionez-sloboda-olivkovyi"
+  },
+  {
+    "name": "майонез «Слобода» Провансаль",
+    "slug": "maionez-sloboda-provansal"
+  },
+  {
+    "name": "майонез «Слобода» С лимонным соком",
+    "slug": "maionez-sloboda-s-limonnym-sokom"
+  },
+  {
+    "name": "майонез «Слобода» Сметанный",
+    "slug": "maionez-sloboda-smetannyi"
+  },
+  {
+    "name": "майонез домашний",
+    "slug": "maionez-domashnii"
+  },
+  {
+    "name": "майонез легкий",
+    "slug": "maionez-legkii"
+  },
+  {
+    "name": "майонез оливковый",
+    "slug": "maionez-olivkovyi"
+  },
+  {
+    "name": "майонезный соус «Слобода» Постный",
+    "slug": "maioneznyi-sous-sloboda-postnyi"
+  },
+  {
+    "name": "майоран",
+    "slug": "maioran"
+  },
+  {
+    "name": "майоран свежий",
+    "slug": "maioran-svezhii"
+  },
+  {
+    "name": "майоран сушеный",
+    "slug": "maioran-sushenyi"
+  },
+  {
+    "name": "мак",
+    "slug": "mak"
+  },
+  {
+    "name": "мак молотый",
+    "slug": "mak-molotyi"
+  },
+  {
+    "name": "макаронные изделия",
+    "slug": "makaronnye-izdeliya"
+  },
+  {
+    "name": "макаронные изделия мелкие",
+    "slug": "makaronnye-izdeliya-melkie"
+  },
+  {
+    "name": "макароны",
+    "slug": "makarony"
+  },
+  {
+    "name": "макароны баветте",
+    "slug": "makarony-bavette"
+  },
+  {
+    "name": "макароны букатини",
+    "slug": "makarony-bukatini"
+  },
+  {
+    "name": "макароны джильи",
+    "slug": "makarony-dzhili"
+  },
+  {
+    "name": "макароны диталони",
+    "slug": "makarony-ditaloni"
+  },
+  {
+    "name": "макароны орзо",
+    "slug": "makarony-orzo"
+  },
+  {
+    "name": "макароны рисони",
+    "slug": "makarony-risoni"
+  },
+  {
+    "name": "макароны-бабочки (farfalle)",
+    "slug": "makarony-babochki-farfalle"
+  },
+  {
+    "name": "макароны-бабочки (farfalle) мини",
+    "slug": "makarony-babochki-farfalle-mini"
+  },
+  {
+    "name": "макароны-бантики",
+    "slug": "makarony-bantiki"
+  },
+  {
+    "name": "макароны-звездочки",
+    "slug": "makarony-zvezdochki"
+  },
+  {
+    "name": "макароны-ракушки (conchiglie rigate)",
+    "slug": "makarony-rakushki-conchiglie-rigate"
+  },
+  {
+    "name": "макароны-ракушки (conchiglie)",
+    "slug": "makarony-rakushki-conchiglie"
+  },
+  {
+    "name": "макароны-ракушки крупные",
+    "slug": "makarony-rakushki-krupnye"
+  },
+  {
+    "name": "макароны-рожки (pipe rigate)",
+    "slug": "makarony-rozhki-pipe-rigate"
+  },
+  {
+    "name": "макароны-спиральки (fusilli)",
+    "slug": "makarony-spiralki-fusilli"
+  },
+  {
+    "name": "макароны-ушки (orecchiette)",
+    "slug": "makarony-ushki-orecchiette"
+  },
+  {
+    "name": "маккерончини",
+    "slug": "makkeronchini"
+  },
+  {
+    "name": "маковая масса",
+    "slug": "makovaya-massa"
+  },
+  {
+    "name": "малина",
+    "slug": "malina"
+  },
+  {
+    "name": "малина замороженная",
+    "slug": "malina-zamorozhennaya"
+  },
+  {
+    "name": "малина сушеная",
+    "slug": "malina-sushenaya"
+  },
+  {
+    "name": "малина, протертая с сахаром",
+    "slug": "malina-protertaya-s-sakharom"
+  },
+  {
+    "name": "малиновое варенье",
+    "slug": "malinovoe-varene"
+  },
+  {
+    "name": "малиновое желе",
+    "slug": "malinovoe-zhele"
+  },
+  {
+    "name": "малиновое пюре",
+    "slug": "malinovoe-pyure"
+  },
+  {
+    "name": "малиновый джем",
+    "slug": "malinovyi-dzhem"
+  },
+  {
+    "name": "малиновый крем",
+    "slug": "malinovyi-krem"
+  },
+  {
+    "name": "малиновый сироп",
+    "slug": "malinovyi-sirop"
+  },
+  {
+    "name": "малиновый соус",
+    "slug": "malinovyi-sous"
+  },
+  {
+    "name": "малиновый уксус",
+    "slug": "malinovyi-uksus"
+  },
+  {
+    "name": "малиновый чай",
+    "slug": "malinovyi-chai"
+  },
+  {
+    "name": "манго",
+    "slug": "mango"
+  },
+  {
+    "name": "манго консервированное",
+    "slug": "mango-konservirovannoe"
+  },
+  {
+    "name": "манговый сироп",
+    "slug": "mangovyi-sirop"
+  },
+  {
+    "name": "мангольд",
+    "slug": "mangold"
+  },
+  {
+    "name": "мангустин",
+    "slug": "mangustin"
+  },
+  {
+    "name": "мандариновое пюре",
+    "slug": "mandarinovoe-pyure"
+  },
+  {
+    "name": "мандариновые цукаты",
+    "slug": "mandarinovye-tsukaty"
+  },
+  {
+    "name": "мандариновый сок",
+    "slug": "mandarinovyi-sok"
+  },
+  {
+    "name": "мандарины",
+    "slug": "mandariny"
+  },
+  {
+    "name": "мандарины в собственном соку",
+    "slug": "mandariny-v-sobstvennom-soku"
+  },
+  {
+    "name": "манная крупа",
+    "slug": "mannaya-krupa"
+  },
+  {
+    "name": "маракуйя",
+    "slug": "marakuiya"
+  },
+  {
+    "name": "маргарин",
+    "slug": "margarin"
+  },
+  {
+    "name": "маргарин сливочный",
+    "slug": "margarin-slivochnyi"
+  },
+  {
+    "name": "мармелад",
+    "slug": "marmelad"
+  },
+  {
+    "name": "мармелад бутербродный",
+    "slug": "marmelad-buterbrodnyi"
+  },
+  {
+    "name": "марсала",
+    "slug": "marsala"
+  },
+  {
+    "name": "мартини",
+    "slug": "martini"
+  },
+  {
+    "name": "мартини красный",
+    "slug": "martini-krasnyi"
+  },
+  {
+    "name": "марципан",
+    "slug": "martsipan"
+  },
+  {
+    "name": "марципан зеленый",
+    "slug": "martsipan-zelenyi"
+  },
+  {
+    "name": "марципан розовый",
+    "slug": "martsipan-rozovyi"
+  },
+  {
+    "name": "маршмеллоу",
+    "slug": "marshmellou"
+  },
+  {
+    "name": "маршмеллоу крем",
+    "slug": "marshmellou-krem"
+  },
+  {
+    "name": "маршмеллоу мини",
+    "slug": "marshmellou-mini"
+  },
+  {
+    "name": "маскарпоне",
+    "slug": "maskarpone"
+  },
+  {
+    "name": "маслины",
+    "slug": "masliny"
+  },
+  {
+    "name": "маслины без косточек",
+    "slug": "masliny-bez-kostochek"
+  },
+  {
+    "name": "масло авокадо",
+    "slug": "maslo-avokado"
+  },
+  {
+    "name": "масло виноградных косточек",
+    "slug": "maslo-vinogradnykh-kostochek"
+  },
+  {
+    "name": "масло грецкого ореха",
+    "slug": "maslo-gretskogo-orekha"
+  },
+  {
+    "name": "масло для фритюра",
+    "slug": "maslo-dlya-frityura"
+  },
+  {
+    "name": "масло кедрового ореха",
+    "slug": "maslo-kedrovogo-orekha"
+  },
+  {
+    "name": "маслята",
+    "slug": "maslyata"
+  },
+  {
+    "name": "мастика",
+    "slug": "mastika"
+  },
+  {
+    "name": "мастика желатиновая",
+    "slug": "mastika-zhelatinovaya"
+  },
+  {
+    "name": "мастика шоколадная",
+    "slug": "mastika-shokoladnaya"
+  },
+  {
+    "name": "матча",
+    "slug": "matcha"
+  },
+  {
+    "name": "мафальдине",
+    "slug": "mafaldine"
+  },
+  {
+    "name": "маца",
+    "slug": "matsa"
+  },
+  {
+    "name": "мацони",
+    "slug": "matsoni"
+  },
+  {
+    "name": "маш",
+    "slug": "mash"
+  },
+  {
+    "name": "мед",
+    "slug": "med"
+  },
+  {
+    "name": "мед акации",
+    "slug": "med-akatsii"
+  },
+  {
+    "name": "мед гречишный",
+    "slug": "med-grechishnyi"
+  },
+  {
+    "name": "мед жидкий",
+    "slug": "med-zhidkii"
+  },
+  {
+    "name": "мед лавандовый",
+    "slug": "med-lavandovyi"
+  },
+  {
+    "name": "мелисса",
+    "slug": "melissa"
+  },
+  {
+    "name": "меренги",
+    "slug": "merengi"
+  },
+  {
+    "name": "мидии",
+    "slug": "midii"
+  },
+  {
+    "name": "мидии в раковинах",
+    "slug": "midii-v-rakovinakh"
+  },
+  {
+    "name": "мидии в раковинах крупные черные",
+    "slug": "midii-v-rakovinakh-krupnye-chernye"
+  },
+  {
+    "name": "мидии в раковинах мелкие зеленые",
+    "slug": "midii-v-rakovinakh-melkie-zelenye"
+  },
+  {
+    "name": "мидии замороженные",
+    "slug": "midii-zamorozhennye"
+  },
+  {
+    "name": "мидии копченые в масле",
+    "slug": "midii-kopchenye-v-masle"
+  },
+  {
+    "name": "микрозелень",
+    "slug": "mikrozelen"
+  },
+  {
+    "name": "миндаль",
+    "slug": "mindal"
+  },
+  {
+    "name": "миндаль жареный",
+    "slug": "mindal-zharenyi"
+  },
+  {
+    "name": "миндаль измельченный",
+    "slug": "mindal-izmelchennyi"
+  },
+  {
+    "name": "миндаль очищенный",
+    "slug": "mindal-ochishchennyi"
+  },
+  {
+    "name": "миндаль рубленый",
+    "slug": "mindal-rublenyi"
+  },
+  {
+    "name": "миндальная масса",
+    "slug": "mindalnaya-massa"
+  },
+  {
+    "name": "миндальная мука",
+    "slug": "mindalnaya-muka"
+  },
+  {
+    "name": "миндальная паста",
+    "slug": "mindalnaya-pasta"
+  },
+  {
+    "name": "миндальная эссенция",
+    "slug": "mindalnaya-essentsiya"
+  },
+  {
+    "name": "миндальное масло",
+    "slug": "mindalnoe-maslo"
+  },
+  {
+    "name": "миндальное молоко",
+    "slug": "mindalnoe-moloko"
+  },
+  {
+    "name": "миндальное печенье",
+    "slug": "mindalnoe-pechene"
+  },
+  {
+    "name": "миндальное пралине",
+    "slug": "mindalnoe-praline"
+  },
+  {
+    "name": "миндальные лепестки",
+    "slug": "mindalnye-lepestki"
+  },
+  {
+    "name": "миндальный ликер",
+    "slug": "mindalnyi-liker"
+  },
+  {
+    "name": "миндальный сироп",
+    "slug": "mindalnyi-sirop"
+  },
+  {
+    "name": "миндальный экстракт",
+    "slug": "mindalnyi-ekstrakt"
+  },
+  {
+    "name": "мини-кукуруза",
+    "slug": "mini-kukuruza"
+  },
+  {
+    "name": "минога",
+    "slug": "minoga"
+  },
+  {
+    "name": "минтай",
+    "slug": "mintai"
+  },
+  {
+    "name": "минтай печень",
+    "slug": "mintai-pechen"
+  },
+  {
+    "name": "минтай филе",
+    "slug": "mintai-file"
+  },
+  {
+    "name": "мисо-паста",
+    "slug": "miso-pasta"
+  },
+  {
+    "name": "мисо-суп",
+    "slug": "miso-sup"
+  },
+  {
+    "name": "можжевельник ягоды",
+    "slug": "mozhzhevelnik-yagody"
+  },
+  {
+    "name": "мойва",
+    "slug": "moiva"
+  },
+  {
+    "name": "моллюски",
+    "slug": "mollyuski"
+  },
+  {
+    "name": "молоко",
+    "slug": "moloko"
+  },
+  {
+    "name": "молоко 0,5%",
+    "slug": "moloko-05"
+  },
+  {
+    "name": "молоко 1,5%",
+    "slug": "moloko-15"
+  },
+  {
+    "name": "молоко 2,5%",
+    "slug": "moloko-25"
+  },
+  {
+    "name": "молоко 3,2%",
+    "slug": "moloko-32"
+  },
+  {
+    "name": "молоко 3,6%",
+    "slug": "moloko-36"
+  },
+  {
+    "name": "молоко 4%",
+    "slug": "moloko-4"
+  },
+  {
+    "name": "молоко 6%",
+    "slug": "moloko-6"
+  },
+  {
+    "name": "молоко козье",
+    "slug": "moloko-koze"
+  },
+  {
+    "name": "молоко концентрированное",
+    "slug": "moloko-kontsentrirovannoe"
+  },
+  {
+    "name": "молоко рисовое",
+    "slug": "moloko-risovoe"
+  },
+  {
+    "name": "молоко сгущенное",
+    "slug": "moloko-sgushchennoe"
+  },
+  {
+    "name": "молоко сгущенное вареное",
+    "slug": "moloko-sgushchennoe-varenoe"
+  },
+  {
+    "name": "молоко сгущенное с какао",
+    "slug": "moloko-sgushchennoe-s-kakao"
+  },
+  {
+    "name": "молоко сухое",
+    "slug": "moloko-sukhoe"
+  },
+  {
+    "name": "молоко сухое обезжиренное",
+    "slug": "moloko-sukhoe-obezzhirennoe"
+  },
+  {
+    "name": "молоко топленое",
+    "slug": "moloko-toplenoe"
+  },
+  {
+    "name": "молочная смесь",
+    "slug": "molochnaya-smes"
+  },
+  {
+    "name": "молочные продукты",
+    "slug": "molochnye-produkty"
+  },
+  {
+    "name": "морепродукты",
+    "slug": "moreprodukty"
+  },
+  {
+    "name": "морковное пюре",
+    "slug": "morkovnoe-pyure"
+  },
+  {
+    "name": "морковь",
+    "slug": "morkov"
+  },
+  {
+    "name": "морковь вареная",
+    "slug": "morkov-varenaya"
+  },
+  {
+    "name": "морковь крупная",
+    "slug": "morkov-krupnaya"
+  },
+  {
+    "name": "морковь молодая",
+    "slug": "morkov-molodaya"
+  },
+  {
+    "name": "морковь по-корейски",
+    "slug": "morkov-po-koreiski"
+  },
+  {
+    "name": "морковь тертая",
+    "slug": "morkov-tertaya"
+  },
+  {
+    "name": "мороженое",
+    "slug": "morozhenoe"
+  },
+  {
+    "name": "мороженое ванильное",
+    "slug": "morozhenoe-vanilnoe"
+  },
+  {
+    "name": "мороженое клубничное",
+    "slug": "morozhenoe-klubnichnoe"
+  },
+  {
+    "name": "мороженое лимонное",
+    "slug": "morozhenoe-limonnoe"
+  },
+  {
+    "name": "мороженое малиновое",
+    "slug": "morozhenoe-malinovoe"
+  },
+  {
+    "name": "мороженое пломбир",
+    "slug": "morozhenoe-plombir"
+  },
+  {
+    "name": "мороженое шоколадное",
+    "slug": "morozhenoe-shokoladnoe"
+  },
+  {
+    "name": "морошка",
+    "slug": "moroshka"
+  },
+  {
+    "name": "морские гребешки",
+    "slug": "morskie-grebeshki"
+  },
+  {
+    "name": "морской коктейль",
+    "slug": "morskoi-kokteil"
+  },
+  {
+    "name": "морской коктейль в масле",
+    "slug": "morskoi-kokteil-v-masle"
+  },
+  {
+    "name": "морской коктейль замороженный",
+    "slug": "morskoi-kokteil-zamorozhennyi"
+  },
+  {
+    "name": "морской черт",
+    "slug": "morskoi-chert"
+  },
+  {
+    "name": "морской язык",
+    "slug": "morskoi-yazyk"
+  },
+  {
+    "name": "морской язык филе",
+    "slug": "morskoi-yazyk-file"
+  },
+  {
+    "name": "мортаделла",
+    "slug": "mortadella"
+  },
+  {
+    "name": "моцарелла",
+    "slug": "motsarella"
+  },
+  {
+    "name": "моцарелла для запекания",
+    "slug": "motsarella-dlya-zapekaniya"
+  },
+  {
+    "name": "моцарелла для пиццы",
+    "slug": "motsarella-dlya-pitstsy"
+  },
+  {
+    "name": "моцарелла мини",
+    "slug": "motsarella-mini"
+  },
+  {
+    "name": "моцарелла с травами",
+    "slug": "motsarella-s-travami"
+  },
+  {
+    "name": "моцарелла шарик большой",
+    "slug": "motsarella-sharik-bolshoi"
+  },
+  {
+    "name": "мука",
+    "slug": "muka"
+  },
+  {
+    "name": "мука 1 сорт",
+    "slug": "muka-1-sort"
+  },
+  {
+    "name": "мука 2 сорт",
+    "slug": "muka-2-sort"
+  },
+  {
+    "name": "мука «Аладушкин»",
+    "slug": "muka-aladushkin"
+  },
+  {
+    "name": "мука грубого помола",
+    "slug": "muka-grubogo-pomola"
+  },
+  {
+    "name": "мука для темпуры",
+    "slug": "muka-dlya-tempury"
+  },
+  {
+    "name": "мука из пророщенной пшеницы",
+    "slug": "muka-iz-proroshchennoi-pshenitsy"
+  },
+  {
+    "name": "мука манитоба",
+    "slug": "muka-manitoba"
+  },
+  {
+    "name": "мука с отрубями",
+    "slug": "muka-s-otrubyami"
+  },
+  {
+    "name": "мука с семечками",
+    "slug": "muka-s-semechkami"
+  },
+  {
+    "name": "мука самоподнимающаяся",
+    "slug": "muka-samopodnimayushchayasya"
+  },
+  {
+    "name": "мука хлебопекарная",
+    "slug": "muka-khlebopekarnaya"
+  },
+  {
+    "name": "мука цельнозерновая",
+    "slug": "muka-tselnozernovaya"
+  },
+  {
+    "name": "мускат белый",
+    "slug": "muskat-belyi"
+  },
+  {
+    "name": "мускатное вино",
+    "slug": "muskatnoe-vino"
+  },
+  {
+    "name": "мускатный орех",
+    "slug": "muskatnyi-orekh"
+  },
+  {
+    "name": "мускатный орех молотый",
+    "slug": "muskatnyi-orekh-molotyi"
+  },
+  {
+    "name": "мюсли",
+    "slug": "myusli"
+  },
+  {
+    "name": "мягкий творог",
+    "slug": "myagkii-tvorog"
+  },
+  {
+    "name": "мясной бульон",
+    "slug": "myasnoi-bulon"
+  },
+  {
+    "name": "мясной фарш",
+    "slug": "myasnoi-farsh"
+  },
+  {
+    "name": "мясо",
+    "slug": "myaso"
+  },
+  {
+    "name": "мясо дикого кабана",
+    "slug": "myaso-dikogo-kabana"
+  },
+  {
+    "name": "мясо криля",
+    "slug": "myaso-krilya"
+  },
+  {
+    "name": "мясо на косточке",
+    "slug": "myaso-na-kostochke"
+  },
+  {
+    "name": "мята",
+    "slug": "myata"
+  },
+  {
+    "name": "мята сушеная",
+    "slug": "myata-sushenaya"
+  },
+  {
+    "name": "мятный сироп",
+    "slug": "myatnyi-sirop"
+  },
+  {
+    "name": "мятный шнапс",
+    "slug": "myatnyi-shnaps"
+  },
+  {
+    "name": "нардек",
+    "slug": "nardek"
+  },
+  {
+    "name": "нектарины",
+    "slug": "nektariny"
+  },
+  {
+    "name": "нога ягненка без кости",
+    "slug": "noga-yagnenka-bez-kosti"
+  },
+  {
+    "name": "нори",
+    "slug": "nori"
+  },
+  {
+    "name": "нуга",
+    "slug": "nuga"
+  },
+  {
+    "name": "нуга с орехами",
+    "slug": "nuga-s-orekhami"
+  },
+  {
+    "name": "нут",
+    "slug": "nut"
+  },
+  {
+    "name": "нут консервированный",
+    "slug": "nut-konservirovannyi"
+  },
+  {
+    "name": "нутелла",
+    "slug": "nutella"
+  },
+  {
+    "name": "нутовая мука",
+    "slug": "nutovaya-muka"
+  },
+  {
+    "name": "облепиха",
+    "slug": "oblepikha"
+  },
+  {
+    "name": "облепиха замороженная",
+    "slug": "oblepikha-zamorozhennaya"
+  },
+  {
+    "name": "облепиховый сироп",
+    "slug": "oblepikhovyi-sirop"
+  },
+  {
+    "name": "овощи",
+    "slug": "ovoshchi"
+  },
+  {
+    "name": "овощная смесь",
+    "slug": "ovoshchnaya-smes"
+  },
+  {
+    "name": "овощная смесь замороженная",
+    "slug": "ovoshchnaya-smes-zamorozhennaya"
+  },
+  {
+    "name": "овощная смесь замороженная для wok",
+    "slug": "ovoshchnaya-smes-zamorozhennaya-dlya-wok"
+  },
+  {
+    "name": "овощная смесь по-китайски",
+    "slug": "ovoshchnaya-smes-po-kitaiski"
+  },
+  {
+    "name": "овощной бульон",
+    "slug": "ovoshchnoi-bulon"
+  },
+  {
+    "name": "овсяная мука",
+    "slug": "ovsyanaya-muka"
+  },
+  {
+    "name": "овсяное молоко",
+    "slug": "ovsyanoe-moloko"
+  },
+  {
+    "name": "овсяное печенье",
+    "slug": "ovsyanoe-pechene"
+  },
+  {
+    "name": "овсяное толокно",
+    "slug": "ovsyanoe-tolokno"
+  },
+  {
+    "name": "овсяные зерна",
+    "slug": "ovsyanye-zerna"
+  },
+  {
+    "name": "овсяные отруби",
+    "slug": "ovsyanye-otrubi"
+  },
+  {
+    "name": "овсяные хлопья",
+    "slug": "ovsyanye-khlopya"
+  },
+  {
+    "name": "овсяные хлопья быстрого приготовления",
+    "slug": "ovsyanye-khlopya-bystrogo-prigotovleniya"
+  },
+  {
+    "name": "огуречный рассол",
+    "slug": "ogurechnyi-rassol"
+  },
+  {
+    "name": "огурцы",
+    "slug": "ogurtsy"
+  },
+  {
+    "name": "огурцы консервированные",
+    "slug": "ogurtsy-konservirovannye"
+  },
+  {
+    "name": "огурцы малосольные",
+    "slug": "ogurtsy-malosolnye"
+  },
+  {
+    "name": "огурцы маринованные",
+    "slug": "ogurtsy-marinovannye"
+  },
+  {
+    "name": "огурцы свежие",
+    "slug": "ogurtsy-svezhie"
+  },
+  {
+    "name": "огурцы соленые",
+    "slug": "ogurtsy-solenye"
+  },
+  {
+    "name": "одуванчики",
+    "slug": "oduvanchiki"
+  },
+  {
+    "name": "окорок",
+    "slug": "okorok"
+  },
+  {
+    "name": "окорок варено-копченый",
+    "slug": "okorok-vareno-kopchenyi"
+  },
+  {
+    "name": "окунь",
+    "slug": "okun"
+  },
+  {
+    "name": "окунь красный филе",
+    "slug": "okun-krasnyi-file"
+  },
+  {
+    "name": "окунь морской",
+    "slug": "okun-morskoi"
+  },
+  {
+    "name": "окунь морской филе",
+    "slug": "okun-morskoi-file"
+  },
+  {
+    "name": "окунь филе",
+    "slug": "okun-file"
+  },
+  {
+    "name": "оленина",
+    "slug": "olenina"
+  },
+  {
+    "name": "оливки",
+    "slug": "olivki"
+  },
+  {
+    "name": "оливки без косточек",
+    "slug": "olivki-bez-kostochek"
+  },
+  {
+    "name": "оливки зеленые",
+    "slug": "olivki-zelenye"
+  },
+  {
+    "name": "оливки зеленые консервированные",
+    "slug": "olivki-zelenye-konservirovannye"
+  },
+  {
+    "name": "оливки каламата",
+    "slug": "olivki-kalamata"
+  },
+  {
+    "name": "оливки консервированные",
+    "slug": "olivki-konservirovannye"
+  },
+  {
+    "name": "оливки черные",
+    "slug": "olivki-chernye"
+  },
+  {
+    "name": "оливки, фаршированные анчоусами",
+    "slug": "olivki-farshirovannye-anchousami"
+  },
+  {
+    "name": "оливковая паста",
+    "slug": "olivkovaya-pasta"
+  },
+  {
+    "name": "оливковое масло",
+    "slug": "olivkovoe-maslo"
+  },
+  {
+    "name": "оливковое масло Extra Virgin",
+    "slug": "olivkovoe-maslo-extra-virgin"
+  },
+  {
+    "name": "опунция плоды",
+    "slug": "opuntsiya-plody"
+  },
+  {
+    "name": "опята",
+    "slug": "opyata"
+  },
+  {
+    "name": "опята замороженные",
+    "slug": "opyata-zamorozhennye"
+  },
+  {
+    "name": "опята маринованные",
+    "slug": "opyata-marinovannye"
+  },
+  {
+    "name": "орегано",
+    "slug": "oregano"
+  },
+  {
+    "name": "орегано свежий",
+    "slug": "oregano-svezhii"
+  },
+  {
+    "name": "орегано сушеный",
+    "slug": "oregano-sushenyi"
+  },
+  {
+    "name": "орехи",
+    "slug": "orekhi"
+  },
+  {
+    "name": "орехи бразильские",
+    "slug": "orekhi-brazilskie"
+  },
+  {
+    "name": "орехи макадамия",
+    "slug": "orekhi-makadamiya"
+  },
+  {
+    "name": "орехи пекан",
+    "slug": "orekhi-pekan"
+  },
+  {
+    "name": "орехи пинии",
+    "slug": "orekhi-pinii"
+  },
+  {
+    "name": "ореховая крошка",
+    "slug": "orekhovaya-kroshka"
+  },
+  {
+    "name": "ореховая паста",
+    "slug": "orekhovaya-pasta"
+  },
+  {
+    "name": "ореховое масло",
+    "slug": "orekhovoe-maslo"
+  },
+  {
+    "name": "ореховый ликер",
+    "slug": "orekhovyi-liker"
+  },
+  {
+    "name": "ореховый соус",
+    "slug": "orekhovyi-sous"
+  },
+  {
+    "name": "осетр",
+    "slug": "osetr"
+  },
+  {
+    "name": "осетрина холодного копчения",
+    "slug": "osetrina-kholodnogo-kopcheniya"
+  },
+  {
+    "name": "осьминог",
+    "slug": "osminog"
+  },
+  {
+    "name": "осьминоги консервированные",
+    "slug": "osminogi-konservirovannye"
+  },
+  {
+    "name": "осьминоги мини",
+    "slug": "osminogi-mini"
+  },
+  {
+    "name": "отруби",
+    "slug": "otrubi"
+  },
+  {
+    "name": "ошеек",
+    "slug": "osheek"
+  },
+  {
+    "name": "пагр",
+    "slug": "pagr"
+  },
+  {
+    "name": "пажитник",
+    "slug": "pazhitnik"
+  },
+  {
+    "name": "пажитник семена",
+    "slug": "pazhitnik-semena"
+  },
+  {
+    "name": "палтус",
+    "slug": "paltus"
+  },
+  {
+    "name": "пальмовое масло",
+    "slug": "palmovoe-maslo"
+  },
+  {
+    "name": "пангасиус",
+    "slug": "pangasius"
+  },
+  {
+    "name": "панеттоне",
+    "slug": "panettone"
+  },
+  {
+    "name": "панчетта",
+    "slug": "panchetta"
+  },
+  {
+    "name": "папайя",
+    "slug": "papaiya"
+  },
+  {
+    "name": "папайя консервированная в собственном соку",
+    "slug": "papaiya-konservirovannaya-v-sobstvennom-soku"
+  },
+  {
+    "name": "папоротник",
+    "slug": "paporotnik"
+  },
+  {
+    "name": "папоротник соленый",
+    "slug": "paporotnik-solenyi"
+  },
+  {
+    "name": "паппарделле",
+    "slug": "pappardelle"
+  },
+  {
+    "name": "паприка",
+    "slug": "paprika"
+  },
+  {
+    "name": "паприка копченая",
+    "slug": "paprika-kopchenaya"
+  },
+  {
+    "name": "паприка красная",
+    "slug": "paprika-krasnaya"
+  },
+  {
+    "name": "паприка красная молотая",
+    "slug": "paprika-krasnaya-molotaya"
+  },
+  {
+    "name": "паприка острая копченая",
+    "slug": "paprika-ostraya-kopchenaya"
+  },
+  {
+    "name": "паприка сладкая",
+    "slug": "paprika-sladkaya"
+  },
+  {
+    "name": "паприка сладкая копченая",
+    "slug": "paprika-sladkaya-kopchenaya"
+  },
+  {
+    "name": "паприка сладкая хлопьями",
+    "slug": "paprika-sladkaya-khlopyami"
+  },
+  {
+    "name": "пармезан",
+    "slug": "parmezan"
+  },
+  {
+    "name": "паста",
+    "slug": "pasta"
+  },
+  {
+    "name": "паста веджимайт",
+    "slug": "pasta-vedzhimait"
+  },
+  {
+    "name": "паста тахини",
+    "slug": "pasta-takhini"
+  },
+  {
+    "name": "паста хариса",
+    "slug": "pasta-kharisa"
+  },
+  {
+    "name": "пастернак",
+    "slug": "pasternak"
+  },
+  {
+    "name": "пастила",
+    "slug": "pastila"
+  },
+  {
+    "name": "пастила виноградная",
+    "slug": "pastila-vinogradnaya"
+  },
+  {
+    "name": "патиссоны",
+    "slug": "patissony"
+  },
+  {
+    "name": "патока",
+    "slug": "patoka"
+  },
+  {
+    "name": "патока крахмальная",
+    "slug": "patoka-krakhmalnaya"
+  },
+  {
+    "name": "патока черная (меласса)",
+    "slug": "patoka-chernaya-melassa"
+  },
+  {
+    "name": "пахта",
+    "slug": "pakhta"
+  },
+  {
+    "name": "паштет",
+    "slug": "pashtet"
+  },
+  {
+    "name": "пекарский порошок",
+    "slug": "pekarskii-poroshok"
+  },
+  {
+    "name": "пекорино",
+    "slug": "pekorino"
+  },
+  {
+    "name": "пектин",
+    "slug": "pektin"
+  },
+  {
+    "name": "пеленгас",
+    "slug": "pelengas"
+  },
+  {
+    "name": "пельмени",
+    "slug": "pelmeni"
+  },
+  {
+    "name": "пенне",
+    "slug": "penne"
+  },
+  {
+    "name": "пенне ригате",
+    "slug": "penne-rigate"
+  },
+  {
+    "name": "пеперончино",
+    "slug": "peperonchino"
+  },
+  {
+    "name": "пеперончино молотый",
+    "slug": "peperonchino-molotyi"
+  },
+  {
+    "name": "переводной лист для шоколада",
+    "slug": "perevodnoi-list-dlya-shokolada"
+  },
+  {
+    "name": "перепелки",
+    "slug": "perepelki"
+  },
+  {
+    "name": "перец",
+    "slug": "perets"
+  },
+  {
+    "name": "перец белый",
+    "slug": "perets-belyi"
+  },
+  {
+    "name": "перец белый горошком",
+    "slug": "perets-belyi-goroshkom"
+  },
+  {
+    "name": "перец белый молотый",
+    "slug": "perets-belyi-molotyi"
+  },
+  {
+    "name": "перец белый свежемолотый",
+    "slug": "perets-belyi-svezhemolotyi"
+  },
+  {
+    "name": "перец болгарский",
+    "slug": "perets-bolgarskii"
+  },
+  {
+    "name": "перец болгарский желтый",
+    "slug": "perets-bolgarskii-zheltyi"
+  },
+  {
+    "name": "перец болгарский зеленый",
+    "slug": "perets-bolgarskii-zelenyi"
+  },
+  {
+    "name": "перец болгарский красный",
+    "slug": "perets-bolgarskii-krasnyi"
+  },
+  {
+    "name": "перец горошком",
+    "slug": "perets-goroshkom"
+  },
+  {
+    "name": "перец горошком смесь",
+    "slug": "perets-goroshkom-smes"
+  },
+  {
+    "name": "перец душистый",
+    "slug": "perets-dushistyi"
+  },
+  {
+    "name": "перец душистый горошком",
+    "slug": "perets-dushistyi-goroshkom"
+  },
+  {
+    "name": "перец душистый молотый",
+    "slug": "perets-dushistyi-molotyi"
+  },
+  {
+    "name": "перец испанский острый",
+    "slug": "perets-ispanskii-ostryi"
+  },
+  {
+    "name": "перец кайенский",
+    "slug": "perets-kaienskii"
+  },
+  {
+    "name": "перец кайенский красный",
+    "slug": "perets-kaienskii-krasnyi"
+  },
+  {
+    "name": "перец кайенский молотый",
+    "slug": "perets-kaienskii-molotyi"
+  },
+  {
+    "name": "перец красный",
+    "slug": "perets-krasnyi"
+  },
+  {
+    "name": "перец красный горошком",
+    "slug": "perets-krasnyi-goroshkom"
+  },
+  {
+    "name": "перец красный жгучий",
+    "slug": "perets-krasnyi-zhguchii"
+  },
+  {
+    "name": "перец красный молотый",
+    "slug": "perets-krasnyi-molotyi"
+  },
+  {
+    "name": "перец красный острый",
+    "slug": "perets-krasnyi-ostryi"
+  },
+  {
+    "name": "перец красный острый молотый",
+    "slug": "perets-krasnyi-ostryi-molotyi"
+  },
+  {
+    "name": "перец красный хлопьями",
+    "slug": "perets-krasnyi-khlopyami"
+  },
+  {
+    "name": "перец лимонный",
+    "slug": "perets-limonnyi"
+  },
+  {
+    "name": "перец маринованный",
+    "slug": "perets-marinovannyi"
+  },
+  {
+    "name": "перец острый",
+    "slug": "perets-ostryi"
+  },
+  {
+    "name": "перец острый зеленый",
+    "slug": "perets-ostryi-zelenyi"
+  },
+  {
+    "name": "перец острый молотый",
+    "slug": "perets-ostryi-molotyi"
+  },
+  {
+    "name": "перец падрон",
+    "slug": "perets-padron"
+  },
+  {
+    "name": "перец пеперони",
+    "slug": "perets-peperoni"
+  },
+  {
+    "name": "перец пеперони красный",
+    "slug": "perets-peperoni-krasnyi"
+  },
+  {
+    "name": "перец розовый горошком",
+    "slug": "perets-rozovyi-goroshkom"
+  },
+  {
+    "name": "перец свежемолотый смесь",
+    "slug": "perets-svezhemolotyi-smes"
+  },
+  {
+    "name": "перец сенегальский",
+    "slug": "perets-senegalskii"
+  },
+  {
+    "name": "перец сладкий",
+    "slug": "perets-sladkii"
+  },
+  {
+    "name": "перец сладкий желтый",
+    "slug": "perets-sladkii-zheltyi"
+  },
+  {
+    "name": "перец сладкий зеленый",
+    "slug": "perets-sladkii-zelenyi"
+  },
+  {
+    "name": "перец сладкий красный",
+    "slug": "perets-sladkii-krasnyi"
+  },
+  {
+    "name": "перец сладкий красный маринованный",
+    "slug": "perets-sladkii-krasnyi-marinovannyi"
+  },
+  {
+    "name": "перец сладкий красный молотый",
+    "slug": "perets-sladkii-krasnyi-molotyi"
+  },
+  {
+    "name": "перец сладкий оранжевый",
+    "slug": "perets-sladkii-oranzhevyi"
+  },
+  {
+    "name": "перец сладкий сушеный",
+    "slug": "perets-sladkii-sushenyi"
+  },
+  {
+    "name": "перец сычуаньский",
+    "slug": "perets-sychuanskii"
+  },
+  {
+    "name": "перец халапеньо",
+    "slug": "perets-khalapeno"
+  },
+  {
+    "name": "перец халапеньо маринованный",
+    "slug": "perets-khalapeno-marinovannyi"
+  },
+  {
+    "name": "перец черный",
+    "slug": "perets-chernyi"
+  },
+  {
+    "name": "перец черный горошком",
+    "slug": "perets-chernyi-goroshkom"
+  },
+  {
+    "name": "перец черный молотый",
+    "slug": "perets-chernyi-molotyi"
+  },
+  {
+    "name": "перец черный свежемолотый",
+    "slug": "perets-chernyi-svezhemolotyi"
+  },
+  {
+    "name": "перец чили",
+    "slug": "perets-chili"
+  },
+  {
+    "name": "перец чили зеленый",
+    "slug": "perets-chili-zelenyi"
+  },
+  {
+    "name": "перец чили красный",
+    "slug": "perets-chili-krasnyi"
+  },
+  {
+    "name": "перец чили маринованный",
+    "slug": "perets-chili-marinovannyi"
+  },
+  {
+    "name": "перец чили молотый",
+    "slug": "perets-chili-molotyi"
+  },
+  {
+    "name": "перец чили сухой",
+    "slug": "perets-chili-sukhoi"
+  },
+  {
+    "name": "перец чили хлопьями",
+    "slug": "perets-chili-khlopyami"
+  },
+  {
+    "name": "перец ямайский",
+    "slug": "perets-yamaiskii"
+  },
+  {
+    "name": "перловая крупа",
+    "slug": "perlovaya-krupa"
+  },
+  {
+    "name": "перловая мука",
+    "slug": "perlovaya-muka"
+  },
+  {
+    "name": "персики",
+    "slug": "persiki"
+  },
+  {
+    "name": "персики консервированные",
+    "slug": "persiki-konservirovannye"
+  },
+  {
+    "name": "персики сушеные",
+    "slug": "persiki-sushenye"
+  },
+  {
+    "name": "персиковое пюре",
+    "slug": "persikovoe-pyure"
+  },
+  {
+    "name": "персиковый джем",
+    "slug": "persikovyi-dzhem"
+  },
+  {
+    "name": "персиковый мармелад",
+    "slug": "persikovyi-marmelad"
+  },
+  {
+    "name": "персиковый сироп",
+    "slug": "persikovyi-sirop"
+  },
+  {
+    "name": "персиковый сок",
+    "slug": "persikovyi-sok"
+  },
+  {
+    "name": "перцовая паста",
+    "slug": "pertsovaya-pasta"
+  },
+  {
+    "name": "петрушка",
+    "slug": "petrushka"
+  },
+  {
+    "name": "петрушка зелень",
+    "slug": "petrushka-zelen"
+  },
+  {
+    "name": "петрушка итальянская",
+    "slug": "petrushka-italyanskaya"
+  },
+  {
+    "name": "петрушка корень",
+    "slug": "petrushka-koren"
+  },
+  {
+    "name": "петрушка рубленая",
+    "slug": "petrushka-rublenaya"
+  },
+  {
+    "name": "петрушка сушеная",
+    "slug": "petrushka-sushenaya"
+  },
+  {
+    "name": "печень",
+    "slug": "pechen"
+  },
+  {
+    "name": "печенье",
+    "slug": "pechene"
+  },
+  {
+    "name": "печенье Oreo",
+    "slug": "pechene-oreo"
+  },
+  {
+    "name": "печенье «Дамские пальчики»",
+    "slug": "pechene-damskie-palchiki"
+  },
+  {
+    "name": "печенье Амаретти",
+    "slug": "pechene-amaretti"
+  },
+  {
+    "name": "печенье Савоярди",
+    "slug": "pechene-savoyardi"
+  },
+  {
+    "name": "печенье Юбилейное молочное",
+    "slug": "pechene-yubileinoe-molochnoe"
+  },
+  {
+    "name": "печенье бисквитное",
+    "slug": "pechene-biskvitnoe"
+  },
+  {
+    "name": "печенье галетное",
+    "slug": "pechene-galetnoe"
+  },
+  {
+    "name": "печенье песочное",
+    "slug": "pechene-pesochnoe"
+  },
+  {
+    "name": "печенье рассыпчатое",
+    "slug": "pechene-rassypchatoe"
+  },
+  {
+    "name": "печенье сахарное",
+    "slug": "pechene-sakharnoe"
+  },
+  {
+    "name": "печенье сладкое",
+    "slug": "pechene-sladkoe"
+  },
+  {
+    "name": "печенье сухое",
+    "slug": "pechene-sukhoe"
+  },
+  {
+    "name": "печенье шоколадное",
+    "slug": "pechene-shokoladnoe"
+  },
+  {
+    "name": "пиво",
+    "slug": "pivo"
+  },
+  {
+    "name": "пиво имбирное",
+    "slug": "pivo-imbirnoe"
+  },
+  {
+    "name": "пиво нефильтрованное",
+    "slug": "pivo-nefiltrovannoe"
+  },
+  {
+    "name": "пиво светлое",
+    "slug": "pivo-svetloe"
+  },
+  {
+    "name": "пиво темное",
+    "slug": "pivo-temnoe"
+  },
+  {
+    "name": "пикша",
+    "slug": "piksha"
+  },
+  {
+    "name": "питы",
+    "slug": "pity"
+  },
+  {
+    "name": "повидло",
+    "slug": "povidlo"
+  },
+  {
+    "name": "подсолнечное масло",
+    "slug": "podsolnechnoe-maslo"
+  },
+  {
+    "name": "подсолнечные семечки",
+    "slug": "podsolnechnye-semechki"
+  },
+  {
+    "name": "полба",
+    "slug": "polba"
+  },
+  {
+    "name": "полба недозрелая",
+    "slug": "polba-nedozrelaya"
+  },
+  {
+    "name": "полента",
+    "slug": "polenta"
+  },
+  {
+    "name": "полента быстрого приготовления",
+    "slug": "polenta-bystrogo-prigotovleniya"
+  },
+  {
+    "name": "помело",
+    "slug": "pomelo"
+  },
+  {
+    "name": "помидоры",
+    "slug": "pomidory"
+  },
+  {
+    "name": "помидоры бурые",
+    "slug": "pomidory-burye"
+  },
+  {
+    "name": "помидоры вяленые",
+    "slug": "pomidory-vyalenye"
+  },
+  {
+    "name": "помидоры вяленые в масле",
+    "slug": "pomidory-vyalenye-v-masle"
+  },
+  {
+    "name": "помидоры желтые",
+    "slug": "pomidory-zheltye"
+  },
+  {
+    "name": "помидоры зеленые",
+    "slug": "pomidory-zelenye"
+  },
+  {
+    "name": "помидоры консервированные",
+    "slug": "pomidory-konservirovannye"
+  },
+  {
+    "name": "помидоры консервированные в собственном соку",
+    "slug": "pomidory-konservirovannye-v-sobstvennom-soku"
+  },
+  {
+    "name": "помидоры консервированные в собственном соку с базиликом",
+    "slug": "pomidory-konservirovannye-v-sobstvennom-soku-s-bazilikom"
+  },
+  {
+    "name": "помидоры протертые пассата",
+    "slug": "pomidory-protertye-passata"
+  },
+  {
+    "name": "помидоры соленые",
+    "slug": "pomidory-solenye"
+  },
+  {
+    "name": "помидоры сушеные хлопьями",
+    "slug": "pomidory-sushenye-khlopyami"
+  },
+  {
+    "name": "помидоры черри",
+    "slug": "pomidory-cherri"
+  },
+  {
+    "name": "помидоры черри желтые",
+    "slug": "pomidory-cherri-zheltye"
+  },
+  {
+    "name": "попкорн",
+    "slug": "popkorn"
+  },
+  {
+    "name": "поросенок",
+    "slug": "porosenok"
+  },
+  {
+    "name": "портвейн",
+    "slug": "portvein"
+  },
+  {
+    "name": "портобелло",
+    "slug": "portobello"
+  },
+  {
+    "name": "портулак",
+    "slug": "portulak"
+  },
+  {
+    "name": "посыпка кондитерская",
+    "slug": "posypka-konditerskaya"
+  },
+  {
+    "name": "почки",
+    "slug": "pochki"
+  },
+  {
+    "name": "приправа 4 перца",
+    "slug": "priprava-4-pertsa"
+  },
+  {
+    "name": "приправа 5 специй (five spice)",
+    "slug": "priprava-5-spetsii-five-spice"
+  },
+  {
+    "name": "приправа для баранины",
+    "slug": "priprava-dlya-baraniny"
+  },
+  {
+    "name": "приправа для картофеля",
+    "slug": "priprava-dlya-kartofelya"
+  },
+  {
+    "name": "приправа для курицы",
+    "slug": "priprava-dlya-kuritsy"
+  },
+  {
+    "name": "приправа для макарон",
+    "slug": "priprava-dlya-makaron"
+  },
+  {
+    "name": "приправа для маринования свинины",
+    "slug": "priprava-dlya-marinovaniya-svininy"
+  },
+  {
+    "name": "приправа для морепродуктов",
+    "slug": "priprava-dlya-moreproduktov"
+  },
+  {
+    "name": "приправа для мяса",
+    "slug": "priprava-dlya-myasa"
+  },
+  {
+    "name": "приправа для паэльи",
+    "slug": "priprava-dlya-paeli"
+  },
+  {
+    "name": "приправа для пиццы",
+    "slug": "priprava-dlya-pitstsy"
+  },
+  {
+    "name": "приправа для плова",
+    "slug": "priprava-dlya-plova"
+  },
+  {
+    "name": "приправа для птицы",
+    "slug": "priprava-dlya-ptitsy"
+  },
+  {
+    "name": "приправа для рыбы",
+    "slug": "priprava-dlya-ryby"
+  },
+  {
+    "name": "приправа для салатов",
+    "slug": "priprava-dlya-salatov"
+  },
+  {
+    "name": "приправа заатар",
+    "slug": "priprava-zaatar"
+  },
+  {
+    "name": "приправа креольская",
+    "slug": "priprava-kreolskaya"
+  },
+  {
+    "name": "приправа с сушеными грибами",
+    "slug": "priprava-s-sushenymi-gribami"
+  },
+  {
+    "name": "приправы",
+    "slug": "pripravy"
+  },
+  {
+    "name": "прованские травы",
+    "slug": "provanskie-travy"
+  },
+  {
+    "name": "проволоне",
+    "slug": "provolone"
+  },
+  {
+    "name": "просекко",
+    "slug": "prosekko"
+  },
+  {
+    "name": "простокваша",
+    "slug": "prostokvasha"
+  },
+  {
+    "name": "протеин сывороточный",
+    "slug": "protein-syvorotochnyi"
+  },
+  {
+    "name": "прошутто",
+    "slug": "proshutto"
+  },
+  {
+    "name": "пряники",
+    "slug": "pryaniki"
+  },
+  {
+    "name": "пряничные специи",
+    "slug": "pryanichnye-spetsii"
+  },
+  {
+    "name": "пряности",
+    "slug": "pryanosti"
+  },
+  {
+    "name": "псиллиум",
+    "slug": "psillium"
+  },
+  {
+    "name": "птитим",
+    "slug": "ptitim"
+  },
+  {
+    "name": "пудинг",
+    "slug": "puding"
+  },
+  {
+    "name": "пудинг ванильный",
+    "slug": "puding-vanilnyi"
+  },
+  {
+    "name": "пудинг ванильный инстант",
+    "slug": "puding-vanilnyi-instant"
+  },
+  {
+    "name": "пудинг карамельный",
+    "slug": "puding-karamelnyi"
+  },
+  {
+    "name": "пшеница",
+    "slug": "pshenitsa"
+  },
+  {
+    "name": "пшеничная крупа",
+    "slug": "pshenichnaya-krupa"
+  },
+  {
+    "name": "пшеничная мука",
+    "slug": "pshenichnaya-muka"
+  },
+  {
+    "name": "пшеничная мука цельнозерновая",
+    "slug": "pshenichnaya-muka-tselnozernovaya"
+  },
+  {
+    "name": "пшеничные зародыши",
+    "slug": "pshenichnye-zarodyshi"
+  },
+  {
+    "name": "пшеничные отруби",
+    "slug": "pshenichnye-otrubi"
+  },
+  {
+    "name": "пшеничные ростки",
+    "slug": "pshenichnye-rostki"
+  },
+  {
+    "name": "пшеничные хлопья",
+    "slug": "pshenichnye-khlopya"
+  },
+  {
+    "name": "пшенные хлопья",
+    "slug": "pshennye-khlopya"
+  },
+  {
+    "name": "пшено",
+    "slug": "psheno"
+  },
+  {
+    "name": "пыльца цветочная",
+    "slug": "pyltsa-tsvetochnaya"
+  },
+  {
+    "name": "пюре",
+    "slug": "pyure"
+  },
+  {
+    "name": "радиккио",
+    "slug": "radikkio"
+  },
+  {
+    "name": "разрыхлитель",
+    "slug": "razrykhlitel"
+  },
+  {
+    "name": "раки",
+    "slug": "raki"
+  },
+  {
+    "name": "раковые шейки",
+    "slug": "rakovye-sheiki"
+  },
+  {
+    "name": "раковые шейки в рассоле",
+    "slug": "rakovye-sheiki-v-rassole"
+  },
+  {
+    "name": "рамбутан",
+    "slug": "rambutan"
+  },
+  {
+    "name": "рапаны",
+    "slug": "rapany"
+  },
+  {
+    "name": "рапсовое масло",
+    "slug": "rapsovoe-maslo"
+  },
+  {
+    "name": "рассол",
+    "slug": "rassol"
+  },
+  {
+    "name": "рассол от каперсов",
+    "slug": "rassol-ot-kapersov"
+  },
+  {
+    "name": "рассол от оливок",
+    "slug": "rassol-ot-olivok"
+  },
+  {
+    "name": "растительное масло",
+    "slug": "rastitelnoe-maslo"
+  },
+  {
+    "name": "растительное масло для жарки",
+    "slug": "rastitelnoe-maslo-dlya-zharki"
+  },
+  {
+    "name": "растительное масло нерафинированное",
+    "slug": "rastitelnoe-maslo-nerafinirovannoe"
+  },
+  {
+    "name": "растительное масло рафинированное",
+    "slug": "rastitelnoe-maslo-rafinirovannoe"
+  },
+  {
+    "name": "растительное молоко",
+    "slug": "rastitelnoe-moloko"
+  },
+  {
+    "name": "ревень",
+    "slug": "reven"
+  },
+  {
+    "name": "реган",
+    "slug": "regan"
+  },
+  {
+    "name": "редис",
+    "slug": "redis"
+  },
+  {
+    "name": "редька",
+    "slug": "redka"
+  },
+  {
+    "name": "редька белая",
+    "slug": "redka-belaya"
+  },
+  {
+    "name": "редька зеленая",
+    "slug": "redka-zelenaya"
+  },
+  {
+    "name": "редька черная",
+    "slug": "redka-chernaya"
+  },
+  {
+    "name": "репа",
+    "slug": "repa"
+  },
+  {
+    "name": "репа белая",
+    "slug": "repa-belaya"
+  },
+  {
+    "name": "ржаная закваска",
+    "slug": "rzhanaya-zakvaska"
+  },
+  {
+    "name": "ржаная закваска густая",
+    "slug": "rzhanaya-zakvaska-gustaya"
+  },
+  {
+    "name": "ржаная мука",
+    "slug": "rzhanaya-muka"
+  },
+  {
+    "name": "ржаные отруби",
+    "slug": "rzhanye-otrubi"
+  },
+  {
+    "name": "ригатони",
+    "slug": "rigatoni"
+  },
+  {
+    "name": "рикотта",
+    "slug": "rikotta"
+  },
+  {
+    "name": "рикотта твердая",
+    "slug": "rikotta-tverdaya"
+  },
+  {
+    "name": "рис",
+    "slug": "ris"
+  },
+  {
+    "name": "рис арборио",
+    "slug": "ris-arborio"
+  },
+  {
+    "name": "рис басмати",
+    "slug": "ris-basmati"
+  },
+  {
+    "name": "рис бурый",
+    "slug": "ris-buryi"
+  },
+  {
+    "name": "рис бурый и дикий смесь",
+    "slug": "ris-buryi-i-dikii-smes"
+  },
+  {
+    "name": "рис вареный",
+    "slug": "ris-varenyi"
+  },
+  {
+    "name": "рис виола",
+    "slug": "ris-viola"
+  },
+  {
+    "name": "рис девзира",
+    "slug": "ris-devzira"
+  },
+  {
+    "name": "рис дикий",
+    "slug": "ris-dikii"
+  },
+  {
+    "name": "рис дикий и золотистый смесь",
+    "slug": "ris-dikii-i-zolotistyi-smes"
+  },
+  {
+    "name": "рис длиннозерный",
+    "slug": "ris-dlinnozernyi"
+  },
+  {
+    "name": "рис длиннозерный золотистый",
+    "slug": "ris-dlinnozernyi-zolotistyi"
+  },
+  {
+    "name": "рис для плова",
+    "slug": "ris-dlya-plova"
+  },
+  {
+    "name": "рис для пудинга",
+    "slug": "ris-dlya-pudinga"
+  },
+  {
+    "name": "рис для ризотто",
+    "slug": "ris-dlya-rizotto"
+  },
+  {
+    "name": "рис для суши",
+    "slug": "ris-dlya-sushi"
+  },
+  {
+    "name": "рис жасминовый",
+    "slug": "ris-zhasminovyi"
+  },
+  {
+    "name": "рис золотистый",
+    "slug": "ris-zolotistyi"
+  },
+  {
+    "name": "рис индика",
+    "slug": "ris-indika"
+  },
+  {
+    "name": "рис италика",
+    "slug": "ris-italika"
+  },
+  {
+    "name": "рис карнароли",
+    "slug": "ris-karnaroli"
+  },
+  {
+    "name": "рис красный",
+    "slug": "ris-krasnyi"
+  },
+  {
+    "name": "рис круглозерный",
+    "slug": "ris-kruglozernyi"
+  },
+  {
+    "name": "рис кубанский",
+    "slug": "ris-kubanskii"
+  },
+  {
+    "name": "рис пропаренный",
+    "slug": "ris-proparennyi"
+  },
+  {
+    "name": "рис пропаренный и дикий смесь",
+    "slug": "ris-proparennyi-i-dikii-smes"
+  },
+  {
+    "name": "рис японика",
+    "slug": "ris-yaponika"
+  },
+  {
+    "name": "рисовая бумага",
+    "slug": "risovaya-bumaga"
+  },
+  {
+    "name": "рисовая лапша",
+    "slug": "risovaya-lapsha"
+  },
+  {
+    "name": "рисовая мука",
+    "slug": "risovaya-muka"
+  },
+  {
+    "name": "рисовое вино",
+    "slug": "risovoe-vino"
+  },
+  {
+    "name": "рисовые хлопья",
+    "slug": "risovye-khlopya"
+  },
+  {
+    "name": "рисовые шарики воздушные",
+    "slug": "risovye-shariki-vozdushnye"
+  },
+  {
+    "name": "рисовый крахмал",
+    "slug": "risovyi-krakhmal"
+  },
+  {
+    "name": "рисовый уксус",
+    "slug": "risovyi-uksus"
+  },
+  {
+    "name": "рожь",
+    "slug": "rozh"
+  },
+  {
+    "name": "розмарин",
+    "slug": "rozmarin"
+  },
+  {
+    "name": "розмарин сушеный",
+    "slug": "rozmarin-sushenyi"
+  },
+  {
+    "name": "розовая вода",
+    "slug": "rozovaya-voda"
+  },
+  {
+    "name": "розовые бутоны сушеные",
+    "slug": "rozovye-butony-sushenye"
+  },
+  {
+    "name": "розовые лепестки",
+    "slug": "rozovye-lepestki"
+  },
+  {
+    "name": "розы",
+    "slug": "rozy"
+  },
+  {
+    "name": "рокфор",
+    "slug": "rokfor"
+  },
+  {
+    "name": "ром",
+    "slug": "rom"
+  },
+  {
+    "name": "ром темный",
+    "slug": "rom-temnyi"
+  },
+  {
+    "name": "ромашка сушеная",
+    "slug": "romashka-sushenaya"
+  },
+  {
+    "name": "ромовый экстракт",
+    "slug": "romovyi-ekstrakt"
+  },
+  {
+    "name": "ростбиф",
+    "slug": "rostbif"
+  },
+  {
+    "name": "рукола",
+    "slug": "rukola"
+  },
+  {
+    "name": "рулька",
+    "slug": "rulka"
+  },
+  {
+    "name": "рыба",
+    "slug": "ryba"
+  },
+  {
+    "name": "рыба белая",
+    "slug": "ryba-belaya"
+  },
+  {
+    "name": "рыба белая филе",
+    "slug": "ryba-belaya-file"
+  },
+  {
+    "name": "рыба консервированная",
+    "slug": "ryba-konservirovannaya"
+  },
+  {
+    "name": "рыба копченая",
+    "slug": "ryba-kopchenaya"
+  },
+  {
+    "name": "рыба копченая филе",
+    "slug": "ryba-kopchenaya-file"
+  },
+  {
+    "name": "рыба красная",
+    "slug": "ryba-krasnaya"
+  },
+  {
+    "name": "рыба красная соленая",
+    "slug": "ryba-krasnaya-solenaya"
+  },
+  {
+    "name": "рыба красная филе",
+    "slug": "ryba-krasnaya-file"
+  },
+  {
+    "name": "рыба морская",
+    "slug": "ryba-morskaya"
+  },
+  {
+    "name": "рыба солнечник филе",
+    "slug": "ryba-solnechnik-file"
+  },
+  {
+    "name": "рыба-меч",
+    "slug": "ryba-mech"
+  },
+  {
+    "name": "рыба-соль",
+    "slug": "ryba-sol"
+  },
+  {
+    "name": "рыбное филе",
+    "slug": "rybnoe-file"
+  },
+  {
+    "name": "рыбные консервы",
+    "slug": "rybnye-konservy"
+  },
+  {
+    "name": "рыбные кости",
+    "slug": "rybnye-kosti"
+  },
+  {
+    "name": "рыбные обрезки, головы, плавники",
+    "slug": "rybnye-obrezki-golovy-plavniki"
+  },
+  {
+    "name": "рыбный бульон",
+    "slug": "rybnyi-bulon"
+  },
+  {
+    "name": "рыбный соус",
+    "slug": "rybnyi-sous"
+  },
+  {
+    "name": "рыбный соус Nam Pla",
+    "slug": "rybnyi-sous-nam-pla"
+  },
+  {
+    "name": "рыбный соус тайский",
+    "slug": "rybnyi-sous-taiskii"
+  },
+  {
+    "name": "рыбный фарш",
+    "slug": "rybnyi-farsh"
+  },
+  {
+    "name": "рябина черноплодная",
+    "slug": "ryabina-chernoplodnaya"
+  },
+  {
+    "name": "рябчик",
+    "slug": "ryabchik"
+  },
+  {
+    "name": "ряженка",
+    "slug": "ryazhenka"
+  },
+  {
+    "name": "ряженка 4%",
+    "slug": "ryazhenka-4"
+  },
+  {
+    "name": "сайда",
+    "slug": "saida"
+  },
+  {
+    "name": "сайда филе",
+    "slug": "saida-file"
+  },
+  {
+    "name": "сайра",
+    "slug": "saira"
+  },
+  {
+    "name": "сайра консервированная",
+    "slug": "saira-konservirovannaya"
+  },
+  {
+    "name": "саке",
+    "slug": "sake"
+  },
+  {
+    "name": "салака",
+    "slug": "salaka"
+  },
+  {
+    "name": "салат",
+    "slug": "salat"
+  },
+  {
+    "name": "салат айсберг",
+    "slug": "salat-aisberg"
+  },
+  {
+    "name": "салат китайский",
+    "slug": "salat-kitaiskii"
+  },
+  {
+    "name": "салат корн",
+    "slug": "salat-korn"
+  },
+  {
+    "name": "салат кочанный",
+    "slug": "salat-kochannyi"
+  },
+  {
+    "name": "салат кучерявый",
+    "slug": "salat-kucheryavyi"
+  },
+  {
+    "name": "салат листовой",
+    "slug": "salat-listovoi"
+  },
+  {
+    "name": "салат романо",
+    "slug": "salat-romano"
+  },
+  {
+    "name": "салат фриссе",
+    "slug": "salat-frisse"
+  },
+  {
+    "name": "салатный микс",
+    "slug": "salatnyi-miks"
+  },
+  {
+    "name": "сало",
+    "slug": "salo"
+  },
+  {
+    "name": "сало копченое в перце",
+    "slug": "salo-kopchenoe-v-pertse"
+  },
+  {
+    "name": "сало копченое с мясными прослойками",
+    "slug": "salo-kopchenoe-s-myasnymi-prosloikami"
+  },
+  {
+    "name": "сало с мясными прослойками",
+    "slug": "salo-s-myasnymi-prosloikami"
+  },
+  {
+    "name": "сальник",
+    "slug": "salnik"
+  },
+  {
+    "name": "сальса",
+    "slug": "salsa"
+  },
+  {
+    "name": "сальса верде",
+    "slug": "salsa-verde"
+  },
+  {
+    "name": "салями",
+    "slug": "salyami"
+  },
+  {
+    "name": "салями итальянская",
+    "slug": "salyami-italyanskaya"
+  },
+  {
+    "name": "сардельки",
+    "slug": "sardelki"
+  },
+  {
+    "name": "сардельки копченые",
+    "slug": "sardelki-kopchenye"
+  },
+  {
+    "name": "сардинки маленькие",
+    "slug": "sardinki-malenkie"
+  },
+  {
+    "name": "сардины",
+    "slug": "sardiny"
+  },
+  {
+    "name": "сардины в масле",
+    "slug": "sardiny-v-masle"
+  },
+  {
+    "name": "сахар",
+    "slug": "sakhar"
+  },
+  {
+    "name": "сахар ванильный",
+    "slug": "sakhar-vanilnyi"
+  },
+  {
+    "name": "сахар демерара",
+    "slug": "sakhar-demerara"
+  },
+  {
+    "name": "сахар жемчужный",
+    "slug": "sakhar-zhemchuzhnyi"
+  },
+  {
+    "name": "сахар коричневый",
+    "slug": "sakhar-korichnevyi"
+  },
+  {
+    "name": "сахар коричневый крупнокристаллический",
+    "slug": "sakhar-korichnevyi-krupnokristallicheskii"
+  },
+  {
+    "name": "сахар мусковадо",
+    "slug": "sakhar-muskovado"
+  },
+  {
+    "name": "сахар пальмовый",
+    "slug": "sakhar-palmovyi"
+  },
+  {
+    "name": "сахар тростниковый",
+    "slug": "sakhar-trostnikovyi"
+  },
+  {
+    "name": "сахар-рафинад",
+    "slug": "sakhar-rafinad"
+  },
+  {
+    "name": "сахар-рафинад с корицей",
+    "slug": "sakhar-rafinad-s-koritsei"
+  },
+  {
+    "name": "сахарная пудра",
+    "slug": "sakharnaya-pudra"
+  },
+  {
+    "name": "сахарная пудра апельсиновая",
+    "slug": "sakharnaya-pudra-apelsinovaya"
+  },
+  {
+    "name": "сахарная пудра ванильная",
+    "slug": "sakharnaya-pudra-vanilnaya"
+  },
+  {
+    "name": "сахарные жемчужинки",
+    "slug": "sakharnye-zhemchuzhinki"
+  },
+  {
+    "name": "сахарные кондитерские украшения",
+    "slug": "sakharnye-konditerskie-ukrasheniya"
+  },
+  {
+    "name": "сахарный песок",
+    "slug": "sakharnyi-pesok"
+  },
+  {
+    "name": "сахарный песок крупный",
+    "slug": "sakharnyi-pesok-krupnyi"
+  },
+  {
+    "name": "сахарный песок мелкий",
+    "slug": "sakharnyi-pesok-melkii"
+  },
+  {
+    "name": "сахарный сироп",
+    "slug": "sakharnyi-sirop"
+  },
+  {
+    "name": "сванская соль",
+    "slug": "svanskaya-sol"
+  },
+  {
+    "name": "свекла",
+    "slug": "svekla"
+  },
+  {
+    "name": "свекла вареная",
+    "slug": "svekla-varenaya"
+  },
+  {
+    "name": "свекольная ботва",
+    "slug": "svekolnaya-botva"
+  },
+  {
+    "name": "свекольные листья",
+    "slug": "svekolnye-listya"
+  },
+  {
+    "name": "свиная вырезка",
+    "slug": "svinaya-vyrezka"
+  },
+  {
+    "name": "свиная голова",
+    "slug": "svinaya-golova"
+  },
+  {
+    "name": "свиная грудинка",
+    "slug": "svinaya-grudinka"
+  },
+  {
+    "name": "свиная корейка",
+    "slug": "svinaya-koreika"
+  },
+  {
+    "name": "свиная корейка копченая",
+    "slug": "svinaya-koreika-kopchenaya"
+  },
+  {
+    "name": "свиная корейка на кости",
+    "slug": "svinaya-koreika-na-kosti"
+  },
+  {
+    "name": "свиная лопатка варено-копченая",
+    "slug": "svinaya-lopatka-vareno-kopchenaya"
+  },
+  {
+    "name": "свиная мякоть",
+    "slug": "svinaya-myakot"
+  },
+  {
+    "name": "свиная пашина",
+    "slug": "svinaya-pashina"
+  },
+  {
+    "name": "свиная печень",
+    "slug": "svinaya-pechen"
+  },
+  {
+    "name": "свиная рулька",
+    "slug": "svinaya-rulka"
+  },
+  {
+    "name": "свиная рулька варено-копченая",
+    "slug": "svinaya-rulka-vareno-kopchenaya"
+  },
+  {
+    "name": "свиная рулька копченая",
+    "slug": "svinaya-rulka-kopchenaya"
+  },
+  {
+    "name": "свиная шейка",
+    "slug": "svinaya-sheika"
+  },
+  {
+    "name": "свинина",
+    "slug": "svinina"
+  },
+  {
+    "name": "свинина вареная",
+    "slug": "svinina-varenaya"
+  },
+  {
+    "name": "свинина нежирная",
+    "slug": "svinina-nezhirnaya"
+  },
+  {
+    "name": "свинина с жирком",
+    "slug": "svinina-s-zhirkom"
+  },
+  {
+    "name": "свиное сердце",
+    "slug": "svinoe-serdtse"
+  },
+  {
+    "name": "свиное филе",
+    "slug": "svinoe-file"
+  },
+  {
+    "name": "свиной подчеревок",
+    "slug": "svinoi-podcherevok"
+  },
+  {
+    "name": "свиной фарш",
+    "slug": "svinoi-farsh"
+  },
+  {
+    "name": "свиной язык",
+    "slug": "svinoi-yazyk"
+  },
+  {
+    "name": "свиные котлеты на косточке",
+    "slug": "svinye-kotlety-na-kostochke"
+  },
+  {
+    "name": "свиные легкие",
+    "slug": "svinye-legkie"
+  },
+  {
+    "name": "свиные ножки",
+    "slug": "svinye-nozhki"
+  },
+  {
+    "name": "свиные отбивные",
+    "slug": "svinye-otbivnye"
+  },
+  {
+    "name": "свиные отбивные на косточке",
+    "slug": "svinye-otbivnye-na-kostochke"
+  },
+  {
+    "name": "свиные ребра",
+    "slug": "svinye-rebra"
+  },
+  {
+    "name": "свиные уши",
+    "slug": "svinye-ushi"
+  },
+  {
+    "name": "свиные щечки",
+    "slug": "svinye-shchechki"
+  },
+  {
+    "name": "свити",
+    "slug": "sviti"
+  },
+  {
+    "name": "сельдерей",
+    "slug": "selderei"
+  },
+  {
+    "name": "сельдерей зелень",
+    "slug": "selderei-zelen"
+  },
+  {
+    "name": "сельдерей корень",
+    "slug": "selderei-koren"
+  },
+  {
+    "name": "сельдерей корень сушеный",
+    "slug": "selderei-koren-sushenyi"
+  },
+  {
+    "name": "сельдерей семена",
+    "slug": "selderei-semena"
+  },
+  {
+    "name": "сельдерей стебли",
+    "slug": "selderei-stebli"
+  },
+  {
+    "name": "сельдерейная соль",
+    "slug": "seldereinaya-sol"
+  },
+  {
+    "name": "сельдь",
+    "slug": "seld"
+  },
+  {
+    "name": "сельдь слабосоленая",
+    "slug": "seld-slabosolenaya"
+  },
+  {
+    "name": "сельдь соленая",
+    "slug": "seld-solenaya"
+  },
+  {
+    "name": "сельдь филе",
+    "slug": "seld-file"
+  },
+  {
+    "name": "семга",
+    "slug": "semga"
+  },
+  {
+    "name": "семга копченая",
+    "slug": "semga-kopchenaya"
+  },
+  {
+    "name": "семга свежая",
+    "slug": "semga-svezhaya"
+  },
+  {
+    "name": "семга соленая",
+    "slug": "semga-solenaya"
+  },
+  {
+    "name": "семга филе на коже",
+    "slug": "semga-file-na-kozhe"
+  },
+  {
+    "name": "семечки",
+    "slug": "semechki"
+  },
+  {
+    "name": "семечки смесь",
+    "slug": "semechki-smes"
+  },
+  {
+    "name": "семолина",
+    "slug": "semolina"
+  },
+  {
+    "name": "сервелат варено-копченый",
+    "slug": "servelat-vareno-kopchenyi"
+  },
+  {
+    "name": "сибас",
+    "slug": "sibas"
+  },
+  {
+    "name": "сидр",
+    "slug": "sidr"
+  },
+  {
+    "name": "сироп",
+    "slug": "sirop"
+  },
+  {
+    "name": "сироп от консервированных груш",
+    "slug": "sirop-ot-konservirovannykh-grush"
+  },
+  {
+    "name": "сироп от консервированных персиков",
+    "slug": "sirop-ot-konservirovannykh-persikov"
+  },
+  {
+    "name": "сироп топинамбура",
+    "slug": "sirop-topinambura"
+  },
+  {
+    "name": "скумбрия",
+    "slug": "skumbriya"
+  },
+  {
+    "name": "скумбрия свежая",
+    "slug": "skumbriya-svezhaya"
+  },
+  {
+    "name": "скумбрия филе",
+    "slug": "skumbriya-file"
+  },
+  {
+    "name": "скумбрия холодного копчения",
+    "slug": "skumbriya-kholodnogo-kopcheniya"
+  },
+  {
+    "name": "сливки",
+    "slug": "slivki"
+  },
+  {
+    "name": "сливки 10-20%",
+    "slug": "slivki-10-20"
+  },
+  {
+    "name": "сливки 15%",
+    "slug": "slivki-15"
+  },
+  {
+    "name": "сливки 20%",
+    "slug": "slivki-20"
+  },
+  {
+    "name": "сливки 33-35%",
+    "slug": "slivki-33-35"
+  },
+  {
+    "name": "сливки жирные",
+    "slug": "slivki-zhirnye"
+  },
+  {
+    "name": "сливки кондитерские",
+    "slug": "slivki-konditerskie"
+  },
+  {
+    "name": "сливовая паста",
+    "slug": "slivovaya-pasta"
+  },
+  {
+    "name": "сливовое варенье",
+    "slug": "slivovoe-varene"
+  },
+  {
+    "name": "сливовое вино",
+    "slug": "slivovoe-vino"
+  },
+  {
+    "name": "сливовый джем",
+    "slug": "slivovyi-dzhem"
+  },
+  {
+    "name": "сливовый ликер",
+    "slug": "slivovyi-liker"
+  },
+  {
+    "name": "сливовый соус",
+    "slug": "slivovyi-sous"
+  },
+  {
+    "name": "сливочное масло",
+    "slug": "slivochnoe-maslo"
+  },
+  {
+    "name": "сливы",
+    "slug": "slivy"
+  },
+  {
+    "name": "сливы замороженные",
+    "slug": "slivy-zamorozhennye"
+  },
+  {
+    "name": "смалец",
+    "slug": "smalets"
+  },
+  {
+    "name": "смесь для кекса",
+    "slug": "smes-dlya-keksa"
+  },
+  {
+    "name": "смесь для оладий",
+    "slug": "smes-dlya-oladii"
+  },
+  {
+    "name": "смесь для хлеба 8 злаков",
+    "slug": "smes-dlya-khleba-8-zlakov"
+  },
+  {
+    "name": "сметана",
+    "slug": "smetana"
+  },
+  {
+    "name": "сметана 10%",
+    "slug": "smetana-10"
+  },
+  {
+    "name": "сметана 15%",
+    "slug": "smetana-15"
+  },
+  {
+    "name": "сметана 18%",
+    "slug": "smetana-18"
+  },
+  {
+    "name": "сметана 20%",
+    "slug": "smetana-20"
+  },
+  {
+    "name": "сметана 25%",
+    "slug": "smetana-25"
+  },
+  {
+    "name": "сметана 30%",
+    "slug": "smetana-30"
+  },
+  {
+    "name": "сметана 35%",
+    "slug": "smetana-35"
+  },
+  {
+    "name": "сметана жирная",
+    "slug": "smetana-zhirnaya"
+  },
+  {
+    "name": "сметана нежирная",
+    "slug": "smetana-nezhirnaya"
+  },
+  {
+    "name": "сметана некислая",
+    "slug": "smetana-nekislaya"
+  },
+  {
+    "name": "смородина сушеная",
+    "slug": "smorodina-sushenaya"
+  },
+  {
+    "name": "смородиновые листья",
+    "slug": "smorodinovye-listya"
+  },
+  {
+    "name": "сморчки сухие",
+    "slug": "smorchki-sukhie"
+  },
+  {
+    "name": "снежок",
+    "slug": "snezhok"
+  },
+  {
+    "name": "сныть",
+    "slug": "snyt"
+  },
+  {
+    "name": "сода",
+    "slug": "soda"
+  },
+  {
+    "name": "соевая мука",
+    "slug": "soevaya-muka"
+  },
+  {
+    "name": "соевое масло",
+    "slug": "soevoe-maslo"
+  },
+  {
+    "name": "соевое молоко",
+    "slug": "soevoe-moloko"
+  },
+  {
+    "name": "соевые ростки",
+    "slug": "soevye-rostki"
+  },
+  {
+    "name": "соевый соус",
+    "slug": "soevyi-sous"
+  },
+  {
+    "name": "сок",
+    "slug": "sok"
+  },
+  {
+    "name": "сок из красных апельсинов",
+    "slug": "sok-iz-krasnykh-apelsinov"
+  },
+  {
+    "name": "сок мультивитаминный",
+    "slug": "sok-multivitaminnyi"
+  },
+  {
+    "name": "сок юзу",
+    "slug": "sok-yuzu"
+  },
+  {
+    "name": "солод",
+    "slug": "solod"
+  },
+  {
+    "name": "солод жидкий",
+    "slug": "solod-zhidkii"
+  },
+  {
+    "name": "солод темный",
+    "slug": "solod-temnyi"
+  },
+  {
+    "name": "солодовый экстракт",
+    "slug": "solodovyi-ekstrakt"
+  },
+  {
+    "name": "соломка",
+    "slug": "solomka"
+  },
+  {
+    "name": "соль",
+    "slug": "sol"
+  },
+  {
+    "name": "соль гималайская",
+    "slug": "sol-gimalaiskaya"
+  },
+  {
+    "name": "соль крупного помола",
+    "slug": "sol-krupnogo-pomola"
+  },
+  {
+    "name": "соль морская",
+    "slug": "sol-morskaya"
+  },
+  {
+    "name": "сом филе",
+    "slug": "som-file"
+  },
+  {
+    "name": "сосиски",
+    "slug": "sosiski"
+  },
+  {
+    "name": "сосиски из куриного фарша",
+    "slug": "sosiski-iz-kurinogo-farsha"
+  },
+  {
+    "name": "сосиски копченые",
+    "slug": "sosiski-kopchenye"
+  },
+  {
+    "name": "соус",
+    "slug": "sous"
+  },
+  {
+    "name": "соус black bean",
+    "slug": "sous-black-bean"
+  },
+  {
+    "name": "соус sambal oelek",
+    "slug": "sous-sambal-oelek"
+  },
+  {
+    "name": "соус барбекю",
+    "slug": "sous-barbekyu"
+  },
+  {
+    "name": "соус краснодарский",
+    "slug": "sous-krasnodarskii"
+  },
+  {
+    "name": "соус красный острый",
+    "slug": "sous-krasnyi-ostryi"
+  },
+  {
+    "name": "соус мирин",
+    "slug": "sous-mirin"
+  },
+  {
+    "name": "соус наршараб",
+    "slug": "sous-narsharab"
+  },
+  {
+    "name": "соус острый",
+    "slug": "sous-ostryi"
+  },
+  {
+    "name": "соус песто",
+    "slug": "sous-pesto"
+  },
+  {
+    "name": "соус сацебели",
+    "slug": "sous-satsebeli"
+  },
+  {
+    "name": "соус табаско",
+    "slug": "sous-tabasko"
+  },
+  {
+    "name": "соус терияки",
+    "slug": "sous-teriyaki"
+  },
+  {
+    "name": "соус ткемали",
+    "slug": "sous-tkemali"
+  },
+  {
+    "name": "соус ткемали благородный",
+    "slug": "sous-tkemali-blagorodnyi"
+  },
+  {
+    "name": "соус ткемали ранний",
+    "slug": "sous-tkemali-rannii"
+  },
+  {
+    "name": "соус устричный",
+    "slug": "sous-ustrichnyi"
+  },
+  {
+    "name": "соус чили",
+    "slug": "sous-chili"
+  },
+  {
+    "name": "соус чили сладкий",
+    "slug": "sous-chili-sladkii"
+  },
+  {
+    "name": "соус экзотический",
+    "slug": "sous-ekzoticheskii"
+  },
+  {
+    "name": "соя",
+    "slug": "soya"
+  },
+  {
+    "name": "спагетти",
+    "slug": "spagetti"
+  },
+  {
+    "name": "спагетти лунги",
+    "slug": "spagetti-lungi"
+  },
+  {
+    "name": "спагетти № 3",
+    "slug": "spagetti--3"
+  },
+  {
+    "name": "спагетти № 5",
+    "slug": "spagetti--5"
+  },
+  {
+    "name": "спаржа",
+    "slug": "sparzha"
+  },
+  {
+    "name": "спаржа белая",
+    "slug": "sparzha-belaya"
+  },
+  {
+    "name": "спаржа зеленая",
+    "slug": "sparzha-zelenaya"
+  },
+  {
+    "name": "спаржа молодая",
+    "slug": "sparzha-molodaya"
+  },
+  {
+    "name": "спек",
+    "slug": "spek"
+  },
+  {
+    "name": "спельта",
+    "slug": "spelta"
+  },
+  {
+    "name": "спельтовая (полбяная) мука",
+    "slug": "speltovaya-polbyanaya-muka"
+  },
+  {
+    "name": "специи",
+    "slug": "spetsii"
+  },
+  {
+    "name": "спирт",
+    "slug": "spirt"
+  },
+  {
+    "name": "спирулина порошок",
+    "slug": "spirulina-poroshok"
+  },
+  {
+    "name": "спред",
+    "slug": "spred"
+  },
+  {
+    "name": "ставрида",
+    "slug": "stavrida"
+  },
+  {
+    "name": "стейк семги",
+    "slug": "steik-semgi"
+  },
+  {
+    "name": "стеклянная лапша",
+    "slug": "steklyannaya-lapsha"
+  },
+  {
+    "name": "страчателла",
+    "slug": "strachatella"
+  },
+  {
+    "name": "судак",
+    "slug": "sudak"
+  },
+  {
+    "name": "судак филе",
+    "slug": "sudak-file"
+  },
+  {
+    "name": "судак филе на коже",
+    "slug": "sudak-file-na-kozhe"
+  },
+  {
+    "name": "сулугуни",
+    "slug": "suluguni"
+  },
+  {
+    "name": "сулугуни копченый",
+    "slug": "suluguni-kopchenyi"
+  },
+  {
+    "name": "сумах",
+    "slug": "sumakh"
+  },
+  {
+    "name": "суповой набор",
+    "slug": "supovoi-nabor"
+  },
+  {
+    "name": "сухари",
+    "slug": "sukhari"
+  },
+  {
+    "name": "сухари белые",
+    "slug": "sukhari-belye"
+  },
+  {
+    "name": "сухари молотые",
+    "slug": "sukhari-molotye"
+  },
+  {
+    "name": "сухари панировочные",
+    "slug": "sukhari-panirovochnye"
+  },
+  {
+    "name": "сухари ржаные",
+    "slug": "sukhari-rzhanye"
+  },
+  {
+    "name": "сухарная крошка",
+    "slug": "sukharnaya-kroshka"
+  },
+  {
+    "name": "сухофрукты",
+    "slug": "sukhofrukty"
+  },
+  {
+    "name": "сухофрукты тропические",
+    "slug": "sukhofrukty-tropicheskie"
+  },
+  {
+    "name": "сушки",
+    "slug": "sushki"
+  },
+  {
+    "name": "сыворотка",
+    "slug": "syvorotka"
+  },
+  {
+    "name": "сыр",
+    "slug": "syr"
+  },
+  {
+    "name": "сыр tete de moine",
+    "slug": "syr-tete-de-moine"
+  },
+  {
+    "name": "сыр Австрия блю",
+    "slug": "syr-avstriya-blyu"
+  },
+  {
+    "name": "сыр Маскарпоне",
+    "slug": "syr-maskarpone"
+  },
+  {
+    "name": "сыр адыгейский",
+    "slug": "syr-adygeiskii"
+  },
+  {
+    "name": "сыр бри",
+    "slug": "syr-bri"
+  },
+  {
+    "name": "сыр буко",
+    "slug": "syr-buko"
+  },
+  {
+    "name": "сыр гауда",
+    "slug": "syr-gauda"
+  },
+  {
+    "name": "сыр гойя",
+    "slug": "syr-goiya"
+  },
+  {
+    "name": "сыр голландский",
+    "slug": "syr-gollandskii"
+  },
+  {
+    "name": "сыр голубой",
+    "slug": "syr-goluboi"
+  },
+  {
+    "name": "сыр гравьера",
+    "slug": "syr-gravera"
+  },
+  {
+    "name": "сыр джугас",
+    "slug": "syr-dzhugas"
+  },
+  {
+    "name": "сыр домашний",
+    "slug": "syr-domashnii"
+  },
+  {
+    "name": "сыр дорблю",
+    "slug": "syr-dorblyu"
+  },
+  {
+    "name": "сыр имеретинский",
+    "slug": "syr-imeretinskii"
+  },
+  {
+    "name": "сыр кефалотири",
+    "slug": "syr-kefalotiri"
+  },
+  {
+    "name": "сыр козий мягкий",
+    "slug": "syr-kozii-myagkii"
+  },
+  {
+    "name": "сыр козий твердый",
+    "slug": "syr-kozii-tverdyi"
+  },
+  {
+    "name": "сыр колбасный",
+    "slug": "syr-kolbasnyi"
+  },
+  {
+    "name": "сыр копченый",
+    "slug": "syr-kopchenyi"
+  },
+  {
+    "name": "сыр коттедж",
+    "slug": "syr-kottedzh"
+  },
+  {
+    "name": "сыр мраморный",
+    "slug": "syr-mramornyi"
+  },
+  {
+    "name": "сыр мягкий",
+    "slug": "syr-myagkii"
+  },
+  {
+    "name": "сыр овечий",
+    "slug": "syr-ovechii"
+  },
+  {
+    "name": "сыр панир",
+    "slug": "syr-panir"
+  },
+  {
+    "name": "сыр пеше миньон",
+    "slug": "syr-peshe-minon"
+  },
+  {
+    "name": "сыр плавленый",
+    "slug": "syr-plavlenyi"
+  },
+  {
+    "name": "сыр плавленый шоколадный",
+    "slug": "syr-plavlenyi-shokoladnyi"
+  },
+  {
+    "name": "сыр пластинками",
+    "slug": "syr-plastinkami"
+  },
+  {
+    "name": "сыр полутвердый",
+    "slug": "syr-polutverdyi"
+  },
+  {
+    "name": "сыр провола",
+    "slug": "syr-provola"
+  },
+  {
+    "name": "сыр российский",
+    "slug": "syr-rossiiskii"
+  },
+  {
+    "name": "сыр с плесенью",
+    "slug": "syr-s-plesenyu"
+  },
+  {
+    "name": "сыр с плесенью мягкий",
+    "slug": "syr-s-plesenyu-myagkii"
+  },
+  {
+    "name": "сыр скаморца",
+    "slug": "syr-skamortsa"
+  },
+  {
+    "name": "сыр скаморца копченый",
+    "slug": "syr-skamortsa-kopchenyi"
+  },
+  {
+    "name": "сыр сливочный",
+    "slug": "syr-slivochnyi"
+  },
+  {
+    "name": "сыр твердый",
+    "slug": "syr-tverdyi"
+  },
+  {
+    "name": "сыр филадельфия",
+    "slug": "syr-filadelfiya"
+  },
+  {
+    "name": "сыр фонтина",
+    "slug": "syr-fontina"
+  },
+  {
+    "name": "сыр хаварти",
+    "slug": "syr-khavarti"
+  },
+  {
+    "name": "сыр швейцарский",
+    "slug": "syr-shveitsarskii"
+  },
+  {
+    "name": "сырки творожные",
+    "slug": "syrki-tvorozhnye"
+  },
+  {
+    "name": "сычужный фермент",
+    "slug": "sychuzhnyi-ferment"
+  },
+  {
+    "name": "таледжо",
+    "slug": "taledzho"
+  },
+  {
+    "name": "тальолини",
+    "slug": "talolini"
+  },
+  {
+    "name": "тальятелле",
+    "slug": "talyatelle"
+  },
+  {
+    "name": "тальятелле-гнезда",
+    "slug": "talyatelle-gnezda"
+  },
+  {
+    "name": "тамаринд",
+    "slug": "tamarind"
+  },
+  {
+    "name": "тамариндовая паста",
+    "slug": "tamarindovaya-pasta"
+  },
+  {
+    "name": "тапиока",
+    "slug": "tapioka"
+  },
+  {
+    "name": "тарталетки",
+    "slug": "tartaletki"
+  },
+  {
+    "name": "тартар",
+    "slug": "tartar"
+  },
+  {
+    "name": "тархун",
+    "slug": "tarkhun"
+  },
+  {
+    "name": "творог",
+    "slug": "tvorog"
+  },
+  {
+    "name": "творог 18%",
+    "slug": "tvorog-18"
+  },
+  {
+    "name": "творог 2%",
+    "slug": "tvorog-2"
+  },
+  {
+    "name": "творог 5%",
+    "slug": "tvorog-5"
+  },
+  {
+    "name": "творог 9%",
+    "slug": "tvorog-9"
+  },
+  {
+    "name": "творог жирный",
+    "slug": "tvorog-zhirnyi"
+  },
+  {
+    "name": "творог зерненый",
+    "slug": "tvorog-zernenyi"
+  },
+  {
+    "name": "творог обезжиренный",
+    "slug": "tvorog-obezzhirennyi"
+  },
+  {
+    "name": "творожная масса",
+    "slug": "tvorozhnaya-massa"
+  },
+  {
+    "name": "творожная паста",
+    "slug": "tvorozhnaya-pasta"
+  },
+  {
+    "name": "творожный сыр",
+    "slug": "tvorozhnyi-syr"
+  },
+  {
+    "name": "творожный сыр соленый",
+    "slug": "tvorozhnyi-syr-solenyi"
+  },
+  {
+    "name": "творожок клубничный",
+    "slug": "tvorozhok-klubnichnyi"
+  },
+  {
+    "name": "текила",
+    "slug": "tekila"
+  },
+  {
+    "name": "телятина",
+    "slug": "telyatina"
+  },
+  {
+    "name": "телятина вареная",
+    "slug": "telyatina-varenaya"
+  },
+  {
+    "name": "телячий фарш",
+    "slug": "telyachii-farsh"
+  },
+  {
+    "name": "телячьи отбивные на косточке",
+    "slug": "telyachi-otbivnye-na-kostochke"
+  },
+  {
+    "name": "телячьи шницели",
+    "slug": "telyachi-shnitseli"
+  },
+  {
+    "name": "телячьи эскалопы",
+    "slug": "telyachi-eskalopy"
+  },
+  {
+    "name": "телячья вырезка",
+    "slug": "telyachya-vyrezka"
+  },
+  {
+    "name": "телячья печень",
+    "slug": "telyachya-pechen"
+  },
+  {
+    "name": "телячья щека",
+    "slug": "telyachya-shcheka"
+  },
+  {
+    "name": "тесто бездрожжевое",
+    "slug": "testo-bezdrozhzhevoe"
+  },
+  {
+    "name": "тесто готовое",
+    "slug": "testo-gotovoe"
+  },
+  {
+    "name": "тесто для вонтонов",
+    "slug": "testo-dlya-vontonov"
+  },
+  {
+    "name": "тесто для пиццы",
+    "slug": "testo-dlya-pitstsy"
+  },
+  {
+    "name": "тесто дрожжевое",
+    "slug": "testo-drozhzhevoe"
+  },
+  {
+    "name": "тесто катаифи",
+    "slug": "testo-kataifi"
+  },
+  {
+    "name": "тесто макаронное",
+    "slug": "testo-makaronnoe"
+  },
+  {
+    "name": "тесто макаронное для лазаньи",
+    "slug": "testo-makaronnoe-dlya-lazani"
+  },
+  {
+    "name": "тесто пельменное",
+    "slug": "testo-pelmennoe"
+  },
+  {
+    "name": "тесто песочное",
+    "slug": "testo-pesochnoe"
+  },
+  {
+    "name": "тесто пресное",
+    "slug": "testo-presnoe"
+  },
+  {
+    "name": "тесто пряничное",
+    "slug": "testo-pryanichnoe"
+  },
+  {
+    "name": "тесто слоеное",
+    "slug": "testo-sloenoe"
+  },
+  {
+    "name": "тесто слоеное бездрожжевое",
+    "slug": "testo-sloenoe-bezdrozhzhevoe"
+  },
+  {
+    "name": "тесто слоеное дрожжевое",
+    "slug": "testo-sloenoe-drozhzhevoe"
+  },
+  {
+    "name": "тесто фило",
+    "slug": "testo-filo"
+  },
+  {
+    "name": "тилапия",
+    "slug": "tilapiya"
+  },
+  {
+    "name": "тилапия филе",
+    "slug": "tilapiya-file"
+  },
+  {
+    "name": "тильзитер",
+    "slug": "tilziter"
+  },
+  {
+    "name": "тимьян",
+    "slug": "timyan"
+  },
+  {
+    "name": "тимьян лимонный",
+    "slug": "timyan-limonnyi"
+  },
+  {
+    "name": "тимьян свежий",
+    "slug": "timyan-svezhii"
+  },
+  {
+    "name": "тимьян сушеный",
+    "slug": "timyan-sushenyi"
+  },
+  {
+    "name": "ткемали",
+    "slug": "tkemali"
+  },
+  {
+    "name": "тмин",
+    "slug": "tmin"
+  },
+  {
+    "name": "тмин молотый",
+    "slug": "tmin-molotyi"
+  },
+  {
+    "name": "томатная паста",
+    "slug": "tomatnaya-pasta"
+  },
+  {
+    "name": "томатное пюре",
+    "slug": "tomatnoe-pyure"
+  },
+  {
+    "name": "томатный концентрат",
+    "slug": "tomatnyi-kontsentrat"
+  },
+  {
+    "name": "томатный порошок",
+    "slug": "tomatnyi-poroshok"
+  },
+  {
+    "name": "томатный сок",
+    "slug": "tomatnyi-sok"
+  },
+  {
+    "name": "томатный соус",
+    "slug": "tomatnyi-sous"
+  },
+  {
+    "name": "томатный соус итальянский",
+    "slug": "tomatnyi-sous-italyanskii"
+  },
+  {
+    "name": "томатный соус острый",
+    "slug": "tomatnyi-sous-ostryi"
+  },
+  {
+    "name": "томатный соус с базиликом",
+    "slug": "tomatnyi-sous-s-bazilikom"
+  },
+  {
+    "name": "тоник",
+    "slug": "tonik"
+  },
+  {
+    "name": "топинамбур",
+    "slug": "topinambur"
+  },
+  {
+    "name": "топленое масло",
+    "slug": "toplenoe-maslo"
+  },
+  {
+    "name": "тортильи",
+    "slug": "tortili"
+  },
+  {
+    "name": "тортильони",
+    "slug": "tortiloni"
+  },
+  {
+    "name": "тофу",
+    "slug": "tofu"
+  },
+  {
+    "name": "травы ароматные",
+    "slug": "travy-aromatnye"
+  },
+  {
+    "name": "травы пряные с перцем",
+    "slug": "travy-pryanye-s-pertsem"
+  },
+  {
+    "name": "травы сухие",
+    "slug": "travy-sukhie"
+  },
+  {
+    "name": "треска",
+    "slug": "treska"
+  },
+  {
+    "name": "треска печень",
+    "slug": "treska-pechen"
+  },
+  {
+    "name": "треска филе",
+    "slug": "treska-file"
+  },
+  {
+    "name": "трюфель",
+    "slug": "tryufel"
+  },
+  {
+    "name": "трюфель черный",
+    "slug": "tryufel-chernyi"
+  },
+  {
+    "name": "трюфельная крошка",
+    "slug": "tryufelnaya-kroshka"
+  },
+  {
+    "name": "трюфельное масло",
+    "slug": "tryufelnoe-maslo"
+  },
+  {
+    "name": "тунец",
+    "slug": "tunets"
+  },
+  {
+    "name": "тунец консервированный",
+    "slug": "tunets-konservirovannyi"
+  },
+  {
+    "name": "тунец филе",
+    "slug": "tunets-file"
+  },
+  {
+    "name": "тушенка",
+    "slug": "tushenka"
+  },
+  {
+    "name": "тыква",
+    "slug": "tykva"
+  },
+  {
+    "name": "тыквенное масло",
+    "slug": "tykvennoe-maslo"
+  },
+  {
+    "name": "тыквенное пюре",
+    "slug": "tykvennoe-pyure"
+  },
+  {
+    "name": "тыквенные семечки",
+    "slug": "tykvennye-semechki"
+  },
+  {
+    "name": "тюлька свежая",
+    "slug": "tyulka-svezhaya"
+  },
+  {
+    "name": "угорь",
+    "slug": "ugor"
+  },
+  {
+    "name": "угорь копченый",
+    "slug": "ugor-kopchenyi"
+  },
+  {
+    "name": "угурт",
+    "slug": "ugurt"
+  },
+  {
+    "name": "укроп",
+    "slug": "ukrop"
+  },
+  {
+    "name": "укроп свежий",
+    "slug": "ukrop-svezhii"
+  },
+  {
+    "name": "укроп сушеный",
+    "slug": "ukrop-sushenyi"
+  },
+  {
+    "name": "укропное семя",
+    "slug": "ukropnoe-semya"
+  },
+  {
+    "name": "уксус",
+    "slug": "uksus"
+  },
+  {
+    "name": "уксус 9%",
+    "slug": "uksus-9"
+  },
+  {
+    "name": "уксус из сидра",
+    "slug": "uksus-iz-sidra"
+  },
+  {
+    "name": "уксус столовый",
+    "slug": "uksus-stolovyi"
+  },
+  {
+    "name": "уксусная эссенция",
+    "slug": "uksusnaya-essentsiya"
+  },
+  {
+    "name": "улитки",
+    "slug": "ulitki"
+  },
+  {
+    "name": "улитки виноградные",
+    "slug": "ulitki-vinogradnye"
+  },
+  {
+    "name": "урюк",
+    "slug": "uryuk"
+  },
+  {
+    "name": "устрицы",
+    "slug": "ustritsy"
+  },
+  {
+    "name": "утиная грудка",
+    "slug": "utinaya-grudka"
+  },
+  {
+    "name": "утиная печень",
+    "slug": "utinaya-pechen"
+  },
+  {
+    "name": "утиное филе",
+    "slug": "utinoe-file"
+  },
+  {
+    "name": "утиные бедрышки",
+    "slug": "utinye-bedryshki"
+  },
+  {
+    "name": "утиные ножки",
+    "slug": "utinye-nozhki"
+  },
+  {
+    "name": "утка",
+    "slug": "utka"
+  },
+  {
+    "name": "утка печеная",
+    "slug": "utka-pechenaya"
+  },
+  {
+    "name": "утка тушка",
+    "slug": "utka-tushka"
+  },
+  {
+    "name": "уцхо-сунели",
+    "slug": "utskho-suneli"
+  },
+  {
+    "name": "фазан",
+    "slug": "fazan"
+  },
+  {
+    "name": "фарш (баранина и говядина)",
+    "slug": "farsh-baranina-i-govyadina"
+  },
+  {
+    "name": "фарш (свинина и курица)",
+    "slug": "farsh-svinina-i-kuritsa"
+  },
+  {
+    "name": "фасоль",
+    "slug": "fasol"
+  },
+  {
+    "name": "фасоль белая",
+    "slug": "fasol-belaya"
+  },
+  {
+    "name": "фасоль белая консервированная",
+    "slug": "fasol-belaya-konservirovannaya"
+  },
+  {
+    "name": "фасоль белая лима",
+    "slug": "fasol-belaya-lima"
+  },
+  {
+    "name": "фасоль зеленая стручковая",
+    "slug": "fasol-zelenaya-struchkovaya"
+  },
+  {
+    "name": "фасоль кенийская",
+    "slug": "fasol-keniiskaya"
+  },
+  {
+    "name": "фасоль кидни красная",
+    "slug": "fasol-kidni-krasnaya"
+  },
+  {
+    "name": "фасоль консервированная",
+    "slug": "fasol-konservirovannaya"
+  },
+  {
+    "name": "фасоль красная",
+    "slug": "fasol-krasnaya"
+  },
+  {
+    "name": "фасоль красная вареная",
+    "slug": "fasol-krasnaya-varenaya"
+  },
+  {
+    "name": "фасоль красная консервированная",
+    "slug": "fasol-krasnaya-konservirovannaya"
+  },
+  {
+    "name": "фасоль молодая замороженная",
+    "slug": "fasol-molodaya-zamorozhennaya"
+  },
+  {
+    "name": "фасоль пинто",
+    "slug": "fasol-pinto"
+  },
+  {
+    "name": "фасоль спаржевая вареная",
+    "slug": "fasol-sparzhevaya-varenaya"
+  },
+  {
+    "name": "фасоль стручковая",
+    "slug": "fasol-struchkovaya"
+  },
+  {
+    "name": "фасоль стручковая замороженная",
+    "slug": "fasol-struchkovaya-zamorozhennaya"
+  },
+  {
+    "name": "фасоль стручковая консервированная",
+    "slug": "fasol-struchkovaya-konservirovannaya"
+  },
+  {
+    "name": "фасоль черный глаз",
+    "slug": "fasol-chernyi-glaz"
+  },
+  {
+    "name": "фейхоа",
+    "slug": "feikhoa"
+  },
+  {
+    "name": "фенхель",
+    "slug": "fenkhel"
+  },
+  {
+    "name": "фенхель семена",
+    "slug": "fenkhel-semena"
+  },
+  {
+    "name": "фенхель семена молотые",
+    "slug": "fenkhel-semena-molotye"
+  },
+  {
+    "name": "фестонате",
+    "slug": "festonate"
+  },
+  {
+    "name": "фета",
+    "slug": "feta"
+  },
+  {
+    "name": "фетаки",
+    "slug": "fetaki"
+  },
+  {
+    "name": "фетакса",
+    "slug": "fetaksa"
+  },
+  {
+    "name": "феттучине",
+    "slug": "fettuchine"
+  },
+  {
+    "name": "фиалки засахаренные",
+    "slug": "fialki-zasakharennye"
+  },
+  {
+    "name": "фиалковый сироп",
+    "slug": "fialkovyi-sirop"
+  },
+  {
+    "name": "физалис",
+    "slug": "fizalis"
+  },
+  {
+    "name": "филе красного окуня",
+    "slug": "file-krasnogo-okunya"
+  },
+  {
+    "name": "филе лосося",
+    "slug": "file-lososya"
+  },
+  {
+    "name": "филе палтуса",
+    "slug": "file-paltusa"
+  },
+  {
+    "name": "финики",
+    "slug": "finiki"
+  },
+  {
+    "name": "финики без косточек",
+    "slug": "finiki-bez-kostochek"
+  },
+  {
+    "name": "финики иранские",
+    "slug": "finiki-iranskie"
+  },
+  {
+    "name": "финики иранские без косточек",
+    "slug": "finiki-iranskie-bez-kostochek"
+  },
+  {
+    "name": "фисташки",
+    "slug": "fistashki"
+  },
+  {
+    "name": "фисташки очищенные",
+    "slug": "fistashki-ochishchennye"
+  },
+  {
+    "name": "фисташки очищенные несоленые",
+    "slug": "fistashki-ochishchennye-nesolenye"
+  },
+  {
+    "name": "фисташки рубленые",
+    "slug": "fistashki-rublenye"
+  },
+  {
+    "name": "фисташковая мука",
+    "slug": "fistashkovaya-muka"
+  },
+  {
+    "name": "фисташковая паста",
+    "slug": "fistashkovaya-pasta"
+  },
+  {
+    "name": "фисташковое масло",
+    "slug": "fistashkovoe-maslo"
+  },
+  {
+    "name": "фокачча",
+    "slug": "fokachcha"
+  },
+  {
+    "name": "форель",
+    "slug": "forel"
+  },
+  {
+    "name": "форель вареная",
+    "slug": "forel-varenaya"
+  },
+  {
+    "name": "форель горячего копчения",
+    "slug": "forel-goryachego-kopcheniya"
+  },
+  {
+    "name": "форель озерная свежая",
+    "slug": "forel-ozernaya-svezhaya"
+  },
+  {
+    "name": "форель слабосоленая",
+    "slug": "forel-slabosolenaya"
+  },
+  {
+    "name": "форель стейки",
+    "slug": "forel-steiki"
+  },
+  {
+    "name": "форель филе",
+    "slug": "forel-file"
+  },
+  {
+    "name": "форель холодного копчения",
+    "slug": "forel-kholodnogo-kopcheniya"
+  },
+  {
+    "name": "фрикадельки",
+    "slug": "frikadelki"
+  },
+  {
+    "name": "фрукт дракона",
+    "slug": "frukt-drakona"
+  },
+  {
+    "name": "фруктовый сироп",
+    "slug": "fruktovyi-sirop"
+  },
+  {
+    "name": "фруктовый сок",
+    "slug": "fruktovyi-sok"
+  },
+  {
+    "name": "фруктовый сок без сахара",
+    "slug": "fruktovyi-sok-bez-sakhara"
+  },
+  {
+    "name": "фруктоза",
+    "slug": "fruktoza"
+  },
+  {
+    "name": "фрукты",
+    "slug": "frukty"
+  },
+  {
+    "name": "фрукты консервированные",
+    "slug": "frukty-konservirovannye"
+  },
+  {
+    "name": "фундук",
+    "slug": "funduk"
+  },
+  {
+    "name": "фундучная мука",
+    "slug": "funduchnaya-muka"
+  },
+  {
+    "name": "фунчоза",
+    "slug": "funchoza"
+  },
+  {
+    "name": "халва",
+    "slug": "khalva"
+  },
+  {
+    "name": "халва ванильная",
+    "slug": "khalva-vanilnaya"
+  },
+  {
+    "name": "халва подсолнечная",
+    "slug": "khalva-podsolnechnaya"
+  },
+  {
+    "name": "халуми",
+    "slug": "khalumi"
+  },
+  {
+    "name": "хамон",
+    "slug": "khamon"
+  },
+  {
+    "name": "хек",
+    "slug": "khek"
+  },
+  {
+    "name": "хек филе",
+    "slug": "khek-file"
+  },
+  {
+    "name": "херес",
+    "slug": "kheres"
+  },
+  {
+    "name": "хересный уксус",
+    "slug": "kheresnyi-uksus"
+  },
+  {
+    "name": "хлеб",
+    "slug": "khleb"
+  },
+  {
+    "name": "хлеб 7 злаков",
+    "slug": "khleb-7-zlakov"
+  },
+  {
+    "name": "хлеб белый",
+    "slug": "khleb-belyi"
+  },
+  {
+    "name": "хлеб белый сухой",
+    "slug": "khleb-belyi-sukhoi"
+  },
+  {
+    "name": "хлеб бородинский",
+    "slug": "khleb-borodinskii"
+  },
+  {
+    "name": "хлеб датский ржаной",
+    "slug": "khleb-datskii-rzhanoi"
+  },
+  {
+    "name": "хлеб для сэндвичей",
+    "slug": "khleb-dlya-sendvichei"
+  },
+  {
+    "name": "хлеб ржаной",
+    "slug": "khleb-rzhanoi"
+  },
+  {
+    "name": "хлеб с кунжутом",
+    "slug": "khleb-s-kunzhutom"
+  },
+  {
+    "name": "хлеб серый",
+    "slug": "khleb-seryi"
+  },
+  {
+    "name": "хлеб цельнозерновой",
+    "slug": "khleb-tselnozernovoi"
+  },
+  {
+    "name": "хлебная крошка",
+    "slug": "khlebnaya-kroshka"
+  },
+  {
+    "name": "хлебцы пшенично-ржаные цельнозерновые",
+    "slug": "khlebtsy-pshenichno-rzhanye-tselnozernovye"
+  },
+  {
+    "name": "хлопья 4 злака",
+    "slug": "khlopya-4-zlaka"
+  },
+  {
+    "name": "хлопья 5 злаков",
+    "slug": "khlopya-5-zlakov"
+  },
+  {
+    "name": "хлопья 7 злаков",
+    "slug": "khlopya-7-zlakov"
+  },
+  {
+    "name": "хлопья быстрого приготовления",
+    "slug": "khlopya-bystrogo-prigotovleniya"
+  },
+  {
+    "name": "хлорид кальция",
+    "slug": "khlorid-kaltsiya"
+  },
+  {
+    "name": "хмели-сунели",
+    "slug": "khmeli-suneli"
+  },
+  {
+    "name": "хмель",
+    "slug": "khmel"
+  },
+  {
+    "name": "хрен",
+    "slug": "khren"
+  },
+  {
+    "name": "хрен протертый",
+    "slug": "khren-protertyi"
+  },
+  {
+    "name": "хрен со сливками",
+    "slug": "khren-so-slivkami"
+  },
+  {
+    "name": "хурма",
+    "slug": "khurma"
+  },
+  {
+    "name": "хурма спелая",
+    "slug": "khurma-spelaya"
+  },
+  {
+    "name": "цесарка тушка",
+    "slug": "tsesarka-tushka"
+  },
+  {
+    "name": "цикорий",
+    "slug": "tsikorii"
+  },
+  {
+    "name": "цитроновые цукаты",
+    "slug": "tsitronovye-tsukaty"
+  },
+  {
+    "name": "цитрусовые цукаты",
+    "slug": "tsitrusovye-tsukaty"
+  },
+  {
+    "name": "цитрусовый свежевыжатый сок",
+    "slug": "tsitrusovyi-svezhevyzhatyi-sok"
+  },
+  {
+    "name": "цукаты",
+    "slug": "tsukaty"
+  },
+  {
+    "name": "цукини",
+    "slug": "tsukini"
+  },
+  {
+    "name": "цукини цветы",
+    "slug": "tsukini-tsvety"
+  },
+  {
+    "name": "цыплята",
+    "slug": "tsyplyata"
+  },
+  {
+    "name": "цыплята-корнишоны",
+    "slug": "tsyplyata-kornishony"
+  },
+  {
+    "name": "чабер",
+    "slug": "chaber"
+  },
+  {
+    "name": "чабрец",
+    "slug": "chabrets"
+  },
+  {
+    "name": "чабрец сушеный",
+    "slug": "chabrets-sushenyi"
+  },
+  {
+    "name": "чай дарджилинг",
+    "slug": "chai-dardzhiling"
+  },
+  {
+    "name": "чай жасминовый",
+    "slug": "chai-zhasminovyi"
+  },
+  {
+    "name": "чай зеленый",
+    "slug": "chai-zelenyi"
+  },
+  {
+    "name": "чай копченый лапсанг сушонг",
+    "slug": "chai-kopchenyi-lapsang-sushong"
+  },
+  {
+    "name": "чай красный",
+    "slug": "chai-krasnyi"
+  },
+  {
+    "name": "чай ройбуш",
+    "slug": "chai-roibush"
+  },
+  {
+    "name": "чай черный",
+    "slug": "chai-chernyi"
+  },
+  {
+    "name": "чай черный крупнолистовой",
+    "slug": "chai-chernyi-krupnolistovoi"
+  },
+  {
+    "name": "чай черный со специями",
+    "slug": "chai-chernyi-so-spetsiyami"
+  },
+  {
+    "name": "чай эрл грей",
+    "slug": "chai-erl-grei"
+  },
+  {
+    "name": "чатни манго",
+    "slug": "chatni-mango"
+  },
+  {
+    "name": "чеддер",
+    "slug": "chedder"
+  },
+  {
+    "name": "черемуха",
+    "slug": "cheremukha"
+  },
+  {
+    "name": "черемуховая мука",
+    "slug": "cheremukhovaya-muka"
+  },
+  {
+    "name": "черемша",
+    "slug": "cheremsha"
+  },
+  {
+    "name": "черешневый джем",
+    "slug": "chereshnevyi-dzhem"
+  },
+  {
+    "name": "черешня",
+    "slug": "chereshnya"
+  },
+  {
+    "name": "черешня консервированная без косточек",
+    "slug": "chereshnya-konservirovannaya-bez-kostochek"
+  },
+  {
+    "name": "черная смородина",
+    "slug": "chernaya-smorodina"
+  },
+  {
+    "name": "черника",
+    "slug": "chernika"
+  },
+  {
+    "name": "черника замороженная",
+    "slug": "chernika-zamorozhennaya"
+  },
+  {
+    "name": "чернила каракатицы",
+    "slug": "chernila-karakatitsy"
+  },
+  {
+    "name": "черничный джем",
+    "slug": "chernichnyi-dzhem"
+  },
+  {
+    "name": "чернослив",
+    "slug": "chernosliv"
+  },
+  {
+    "name": "чернослив без косточек",
+    "slug": "chernosliv-bez-kostochek"
+  },
+  {
+    "name": "чернослив вяленый",
+    "slug": "chernosliv-vyalenyi"
+  },
+  {
+    "name": "чернослив копченый без косточек",
+    "slug": "chernosliv-kopchenyi-bez-kostochek"
+  },
+  {
+    "name": "черносмородиновое варенье",
+    "slug": "chernosmorodinovoe-varene"
+  },
+  {
+    "name": "черносмородиновый джем",
+    "slug": "chernosmorodinovyi-dzhem"
+  },
+  {
+    "name": "чеснок",
+    "slug": "chesnok"
+  },
+  {
+    "name": "чеснок молодой",
+    "slug": "chesnok-molodoi"
+  },
+  {
+    "name": "чеснок сушеный",
+    "slug": "chesnok-sushenyi"
+  },
+  {
+    "name": "чесночная соль",
+    "slug": "chesnochnaya-sol"
+  },
+  {
+    "name": "чесночное масло",
+    "slug": "chesnochnoe-maslo"
+  },
+  {
+    "name": "чесночный порошок",
+    "slug": "chesnochnyi-poroshok"
+  },
+  {
+    "name": "чечевица",
+    "slug": "chechevitsa"
+  },
+  {
+    "name": "чечевица вареная",
+    "slug": "chechevitsa-varenaya"
+  },
+  {
+    "name": "чечевица зеленая",
+    "slug": "chechevitsa-zelenaya"
+  },
+  {
+    "name": "чечевица красная",
+    "slug": "chechevitsa-krasnaya"
+  },
+  {
+    "name": "чечил спагетти",
+    "slug": "chechil-spagetti"
+  },
+  {
+    "name": "чиа семена",
+    "slug": "chia-semena"
+  },
+  {
+    "name": "чиабатта",
+    "slug": "chiabatta"
+  },
+  {
+    "name": "чипотле молотый",
+    "slug": "chipotle-molotyi"
+  },
+  {
+    "name": "чипсы",
+    "slug": "chipsy"
+  },
+  {
+    "name": "чоризо",
+    "slug": "chorizo"
+  },
+  {
+    "name": "шалфей",
+    "slug": "shalfei"
+  },
+  {
+    "name": "шалфей свежий",
+    "slug": "shalfei-svezhii"
+  },
+  {
+    "name": "шалфей сушеный",
+    "slug": "shalfei-sushenyi"
+  },
+  {
+    "name": "шампанское",
+    "slug": "shampanskoe"
+  },
+  {
+    "name": "шампанское советское",
+    "slug": "shampanskoe-sovetskoe"
+  },
+  {
+    "name": "шампанское сухое",
+    "slug": "shampanskoe-sukhoe"
+  },
+  {
+    "name": "шампиньоны",
+    "slug": "shampinony"
+  },
+  {
+    "name": "шампиньоны замороженные",
+    "slug": "shampinony-zamorozhennye"
+  },
+  {
+    "name": "шампиньоны консервированные",
+    "slug": "shampinony-konservirovannye"
+  },
+  {
+    "name": "шампиньоны маринованные",
+    "slug": "shampinony-marinovannye"
+  },
+  {
+    "name": "шампиньоны свежие",
+    "slug": "shampinony-svezhie"
+  },
+  {
+    "name": "шафран",
+    "slug": "shafran"
+  },
+  {
+    "name": "шафран имеретинский",
+    "slug": "shafran-imeretinskii"
+  },
+  {
+    "name": "шафран молотый",
+    "slug": "shafran-molotyi"
+  },
+  {
+    "name": "шафран нити",
+    "slug": "shafran-niti"
+  },
+  {
+    "name": "шелковица",
+    "slug": "shelkovitsa"
+  },
+  {
+    "name": "шелковица сушеная",
+    "slug": "shelkovitsa-sushenaya"
+  },
+  {
+    "name": "шиповник",
+    "slug": "shipovnik"
+  },
+  {
+    "name": "шиповниковый сироп",
+    "slug": "shipovnikovyi-sirop"
+  },
+  {
+    "name": "шнапс",
+    "slug": "shnaps"
+  },
+  {
+    "name": "шнитт-лук",
+    "slug": "shnitt-luk"
+  },
+  {
+    "name": "шоколад",
+    "slug": "shokolad"
+  },
+  {
+    "name": "шоколад белый",
+    "slug": "shokolad-belyi"
+  },
+  {
+    "name": "шоколад горький с апельсиновой цедрой",
+    "slug": "shokolad-gorkii-s-apelsinovoi-tsedroi"
+  },
+  {
+    "name": "шоколад молочный",
+    "slug": "shokolad-molochnyi"
+  },
+  {
+    "name": "шоколад мятный",
+    "slug": "shokolad-myatnyi"
+  },
+  {
+    "name": "шоколад полусладкий",
+    "slug": "shokolad-polusladkii"
+  },
+  {
+    "name": "шоколад с орехами",
+    "slug": "shokolad-s-orekhami"
+  },
+  {
+    "name": "шоколад черный горький",
+    "slug": "shokolad-chernyi-gorkii"
+  },
+  {
+    "name": "шоколад черный горький 70%",
+    "slug": "shokolad-chernyi-gorkii-70"
+  },
+  {
+    "name": "шоколад черный горький 75%",
+    "slug": "shokolad-chernyi-gorkii-75"
+  },
+  {
+    "name": "шоколад черный горький 85%",
+    "slug": "shokolad-chernyi-gorkii-85"
+  },
+  {
+    "name": "шоколадная паста",
+    "slug": "shokoladnaya-pasta"
+  },
+  {
+    "name": "шоколадная стружка",
+    "slug": "shokoladnaya-struzhka"
+  },
+  {
+    "name": "шоколадно-ореховая паста",
+    "slug": "shokoladno-orekhovaya-pasta"
+  },
+  {
+    "name": "шоколадное масло",
+    "slug": "shokoladnoe-maslo"
+  },
+  {
+    "name": "шоколадные горошины",
+    "slug": "shokoladnye-goroshiny"
+  },
+  {
+    "name": "шоколадные капли",
+    "slug": "shokoladnye-kapli"
+  },
+  {
+    "name": "шоколадные капли белые",
+    "slug": "shokoladnye-kapli-belye"
+  },
+  {
+    "name": "шоколадные конфеты",
+    "slug": "shokoladnye-konfety"
+  },
+  {
+    "name": "шоколадные хлопья",
+    "slug": "shokoladnye-khlopya"
+  },
+  {
+    "name": "шоколадные шарики из готовых завтраков",
+    "slug": "shokoladnye-shariki-iz-gotovykh-zavtrakov"
+  },
+  {
+    "name": "шоколадный ликер",
+    "slug": "shokoladnyi-liker"
+  },
+  {
+    "name": "шоколадный сироп",
+    "slug": "shokoladnyi-sirop"
+  },
+  {
+    "name": "шоколадный соус",
+    "slug": "shokoladnyi-sous"
+  },
+  {
+    "name": "шортенинг",
+    "slug": "shortening"
+  },
+  {
+    "name": "шпик",
+    "slug": "shpik"
+  },
+  {
+    "name": "шпик копченый",
+    "slug": "shpik-kopchenyi"
+  },
+  {
+    "name": "шпинат",
+    "slug": "shpinat"
+  },
+  {
+    "name": "шпинат замороженный",
+    "slug": "shpinat-zamorozhennyi"
+  },
+  {
+    "name": "шпинат молодой",
+    "slug": "shpinat-molodoi"
+  },
+  {
+    "name": "шпинат свежий",
+    "slug": "shpinat-svezhii"
+  },
+  {
+    "name": "шпроты",
+    "slug": "shproty"
+  },
+  {
+    "name": "шпроты в масле",
+    "slug": "shproty-v-masle"
+  },
+  {
+    "name": "шрот",
+    "slug": "shrot"
+  },
+  {
+    "name": "щавель замороженный",
+    "slug": "shchavel-zamorozhennyi"
+  },
+  {
+    "name": "щавель свежий",
+    "slug": "shchavel-svezhii"
+  },
+  {
+    "name": "щука",
+    "slug": "shchuka"
+  },
+  {
+    "name": "щука филе",
+    "slug": "shchuka-file"
+  },
+  {
+    "name": "эгг-ног",
+    "slug": "egg-nog"
+  },
+  {
+    "name": "эдам",
+    "slug": "edam"
+  },
+  {
+    "name": "эль",
+    "slug": "el"
+  },
+  {
+    "name": "эмменталь",
+    "slug": "emmental"
+  },
+  {
+    "name": "эскалоп",
+    "slug": "eskalop"
+  },
+  {
+    "name": "эстрагон",
+    "slug": "estragon"
+  },
+  {
+    "name": "эстрагон сушеный",
+    "slug": "estragon-sushenyi"
+  },
+  {
+    "name": "яблоки",
+    "slug": "yabloki"
+  },
+  {
+    "name": "яблоки антоновка",
+    "slug": "yabloki-antonovka"
+  },
+  {
+    "name": "яблоки гала",
+    "slug": "yabloki-gala"
+  },
+  {
+    "name": "яблоки голден",
+    "slug": "yabloki-golden"
+  },
+  {
+    "name": "яблоки гренни смит",
+    "slug": "yabloki-grenni-smit"
+  },
+  {
+    "name": "яблоки зеленые",
+    "slug": "yabloki-zelenye"
+  },
+  {
+    "name": "яблоки красные",
+    "slug": "yabloki-krasnye"
+  },
+  {
+    "name": "яблоки моченые",
+    "slug": "yabloki-mochenye"
+  },
+  {
+    "name": "яблоки нетвердых сортов",
+    "slug": "yabloki-netverdykh-sortov"
+  },
+  {
+    "name": "яблоки сладкие",
+    "slug": "yabloki-sladkie"
+  },
+  {
+    "name": "яблоки сушеные",
+    "slug": "yabloki-sushenye"
+  },
+  {
+    "name": "яблочная эссенция",
+    "slug": "yablochnaya-essentsiya"
+  },
+  {
+    "name": "яблочное варенье",
+    "slug": "yablochnoe-varene"
+  },
+  {
+    "name": "яблочное повидло",
+    "slug": "yablochnoe-povidlo"
+  },
+  {
+    "name": "яблочное пюре",
+    "slug": "yablochnoe-pyure"
+  },
+  {
+    "name": "яблочные чипсы",
+    "slug": "yablochnye-chipsy"
+  },
+  {
+    "name": "яблочный джем",
+    "slug": "yablochnyi-dzhem"
+  },
+  {
+    "name": "яблочный сироп",
+    "slug": "yablochnyi-sirop"
+  },
+  {
+    "name": "яблочный сок",
+    "slug": "yablochnyi-sok"
+  },
+  {
+    "name": "яблочный соус",
+    "slug": "yablochnyi-sous"
+  },
+  {
+    "name": "яблочный уксус",
+    "slug": "yablochnyi-uksus"
+  },
+  {
+    "name": "ягнятина",
+    "slug": "yagnyatina"
+  },
+  {
+    "name": "ягнятина кострец",
+    "slug": "yagnyatina-kostrets"
+  },
+  {
+    "name": "ягнятина фарш",
+    "slug": "yagnyatina-farsh"
+  },
+  {
+    "name": "ягнячьи отбивные на косточке",
+    "slug": "yagnyachi-otbivnye-na-kostochke"
+  },
+  {
+    "name": "ягнячья голень нарубленная",
+    "slug": "yagnyachya-golen-narublennaya"
+  },
+  {
+    "name": "ягнячья корейка",
+    "slug": "yagnyachya-koreika"
+  },
+  {
+    "name": "ягодное варенье",
+    "slug": "yagodnoe-varene"
+  },
+  {
+    "name": "ягодное желе",
+    "slug": "yagodnoe-zhele"
+  },
+  {
+    "name": "ягодный сироп",
+    "slug": "yagodnyi-sirop"
+  },
+  {
+    "name": "ягодный сок",
+    "slug": "yagodnyi-sok"
+  },
+  {
+    "name": "ягодный соус кислый",
+    "slug": "yagodnyi-sous-kislyi"
+  },
+  {
+    "name": "ягоды",
+    "slug": "yagody"
+  },
+  {
+    "name": "ягоды вяленые",
+    "slug": "yagody-vyalenye"
+  },
+  {
+    "name": "ягоды замороженные",
+    "slug": "yagody-zamorozhennye"
+  },
+  {
+    "name": "ягоды лесные",
+    "slug": "yagody-lesnye"
+  },
+  {
+    "name": "ягоды лесные замороженные",
+    "slug": "yagody-lesnye-zamorozhennye"
+  },
+  {
+    "name": "яичные белки",
+    "slug": "yaichnye-belki"
+  },
+  {
+    "name": "яичные желтки",
+    "slug": "yaichnye-zheltki"
+  },
+  {
+    "name": "яичные желтки вареные",
+    "slug": "yaichnye-zheltki-varenye"
+  },
+  {
+    "name": "яичные желтки крупные",
+    "slug": "yaichnye-zheltki-krupnye"
+  },
+  {
+    "name": "яичный меланж",
+    "slug": "yaichnyi-melanzh"
+  },
+  {
+    "name": "яичный порошок",
+    "slug": "yaichnyi-poroshok"
+  },
+  {
+    "name": "яйца куриные",
+    "slug": "yaitsa-kurinye"
+  },
+  {
+    "name": "яйца куриные крупные",
+    "slug": "yaitsa-kurinye-krupnye"
+  },
+  {
+    "name": "яйца перепелиные",
+    "slug": "yaitsa-perepelinye"
+  },
+  {
+    "name": "японская крошка панко",
+    "slug": "yaponskaya-kroshka-panko"
+  },
+  {
+    "name": "ячменные хлопья",
+    "slug": "yachmennye-khlopya"
+  },
+  {
+    "name": "ячмень",
+    "slug": "yachmen"
+  },
+  {
+    "name": "ячневая крупа",
+    "slug": "yachnevaya-krupa"
+  },
+  {
+    "name": "ёрш",
+    "slug": "ersh"
+  },
+  {
+    "name": "ёрш-носарь",
+    "slug": "ersh-nosar"
+  }
+]
