@@ -2,7 +2,7 @@ version: '3.3'
 
 volumes:
   pg_data:
-  static:
+  backend_static:
   media:
 
 services:
@@ -15,18 +15,20 @@ services:
     image: zxcded/foodgram_backend
     env_file: .env
     volumes:
-      - static:/static_backend/
+      - backend_static:/django_static/
       - media:/media/
   frontend:
+    container_name: foodgram-front
     image: zxcded/foodgram_frontend
-    command: cp -r /app/build/. /frontend_static/
     volumes:
-      - static:/static_frontend
+      - ../frontend/:/app/result_build/
   nginx:
     build:
-      context: ./gateway
+      context: ./nginx
     ports:
       - 8000:80
     volumes:
-      - static:/static/
+      - backend_static:/django_static/
       - media:/media/
+      - ../frontend/build:/usr/share/nginx/html/
+      - ../docs/:/usr/share/nginx/html/api/docs/
