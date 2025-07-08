@@ -1,7 +1,6 @@
 import json
 import sqlite3
 
-
 with open('../data/ingredients.json', 'r', encoding='utf-8') as f:
     ingredients = json.load(f)
 
