@@ -1,8 +1,7 @@
 from django.urls import include, path
-from rest_framework.routers import DefaultRouter
-
 from recipes.views import (DownloadCartView, FavoriteView, IngredientViewSet,
                            RecipeViewSet, ShoppingCartView, TagViewSet)
+from rest_framework.routers import DefaultRouter
 
 from .views import CustomUserViewSet, SubscribeView, SubscriptionsListView
 

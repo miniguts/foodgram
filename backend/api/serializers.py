@@ -1,7 +1,6 @@
+from core.fields import Base64ImageField
 from django.contrib.auth import authenticate, get_user_model
 from rest_framework import serializers
-
-from core.fields import Base64ImageField
 from users.models import Subscription
 
 User = get_user_model()
