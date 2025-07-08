@@ -164,3 +164,7 @@ DEFAULT_FROM_EMAIL = 'ggg@foodgram.local'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://foodgram-ads.servemp3.com',
+]
