@@ -1,8 +1,9 @@
 from rest_framework import serializers
 
-from core.fields import Base64ImageField
-from .models import Ingredient, Tag, IngredientInRecipe, Recipe
 from api.serializers import UserSerializer
+from core.fields import Base64ImageField
+
+from .models import Ingredient, IngredientInRecipe, Recipe, Tag
 
 
 class IngredientSerializer(serializers.ModelSerializer):

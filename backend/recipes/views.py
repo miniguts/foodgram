@@ -1,27 +1,24 @@
 import hashlib
+
 from django.conf import settings
 from django.db.models import Sum
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404
 from django_filters.rest_framework import DjangoFilterBackend
-from rest_framework import permissions, filters
+from rest_framework import filters, permissions
 from rest_framework.decorators import action
 from rest_framework.response import Response
-from rest_framework.viewsets import ReadOnlyModelViewSet, ModelViewSet
 from rest_framework.views import APIView
+from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
 
 from core.filters import RecipeFilter
 from core.permissions import IsAuthorOrReadOnly
-from .models import (
-    Ingredient, Tag, Recipe,
-    Favorite, ShoppingCart,
-    IngredientInRecipe
-)
-from .serializers import (
-    IngredientSerializer, TagSerializer,
-    RecipeReadSerializer, RecipeWriteSerializer,
-    ShortRecipeSerializer
-)
+
+from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
+                     ShoppingCart, Tag)
+from .serializers import (IngredientSerializer, RecipeReadSerializer,
+                          RecipeWriteSerializer, ShortRecipeSerializer,
+                          TagSerializer)
 
 
 class IngredientViewSet(ReadOnlyModelViewSet):
