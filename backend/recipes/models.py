@@ -1,15 +1,20 @@
 from django.contrib.auth import get_user_model
 from django.db import models
 
+from core.constatns import (
+    MAX_NAME_LENGTH, MAX_SLUG_LENGTH,
+    MAX_MEASUREMENT_UNIT_LENGTH
+)
+
 User = get_user_model()
 
 
 class Tag(models.Model):
     name = models.CharField(
-        max_length=200, unique=True, verbose_name='Название'
+        max_length=MAX_NAME_LENGTH, unique=True, verbose_name='Название'
     )
     slug = models.SlugField(
-        max_length=200, unique=True, verbose_name='Слаг'
+        max_length=MAX_SLUG_LENGTH, unique=True, verbose_name='Слаг'
     )
 
     class Meta:
@@ -22,9 +27,12 @@ class Tag(models.Model):
 
 
 class Ingredient(models.Model):
-    name = models.CharField(max_length=200, verbose_name='Название')
+    name = models.CharField(
+        max_length=MAX_NAME_LENGTH, verbose_name='Название'
+    )
     measurement_unit = models.CharField(
-        max_length=50, verbose_name='Единица измерения'
+        max_length=MAX_MEASUREMENT_UNIT_LENGTH,
+        verbose_name='Единица измерения'
     )
 
     class Meta:
@@ -45,7 +53,7 @@ class Recipe(models.Model):
         verbose_name='Автор'
     )
     name = models.CharField(
-        max_length=200, verbose_name='Название'
+        max_length=MAX_NAME_LENGTH, verbose_name='Название'
     )
     image = models.ImageField(
         upload_to='recipes/images/', verbose_name='Изображение'

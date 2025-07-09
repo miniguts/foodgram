@@ -1,24 +1,25 @@
 import hashlib
 
+from core.filters import RecipeFilter
+from core.permissions import IsAuthorOrReadOnly
+from .models import (
+    Favorite, Ingredient, IngredientInRecipe,
+    Recipe, ShoppingCart, Tag
+)
+from .serializers import (
+    IngredientSerializer, RecipeReadSerializer, RecipeWriteSerializer,
+    ShortRecipeSerializer, TagSerializer)
+
 from django.conf import settings
 from django.db.models import Sum
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404
 from django_filters.rest_framework import DjangoFilterBackend
-from rest_framework import filters, permissions
+from rest_framework import filters, permissions, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
-
-from core.filters import RecipeFilter
-from core.permissions import IsAuthorOrReadOnly
-
-from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
-                     ShoppingCart, Tag)
-from .serializers import (IngredientSerializer, RecipeReadSerializer,
-                          RecipeWriteSerializer, ShortRecipeSerializer,
-                          TagSerializer)
 
 
 class IngredientViewSet(ReadOnlyModelViewSet):
@@ -76,8 +77,8 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         )
         if not created:
-            return Response({'errors': 'Уже добавлено'}, status=400)
-        return Response(ShortRecipeSerializer(recipe).data, status=201)
+            return Response({'errors': 'Уже добавлено'}, status=status.HTTP_400_BAD_REQUEST)
+        return Response(ShortRecipeSerializer(recipe).data, status=status.HTTP_201_CREATED)
 
     def delete(self, request, recipe_id):
         recipe = get_object_or_404(Recipe, id=recipe_id)
@@ -85,8 +86,8 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         ).delete()
         if not deleted:
-            return Response({'errors': 'Не найдено'}, status=400)
-        return Response(status=204)
+            return Response({'errors': 'Не найдено'}, status=status.HTTP_400_BAD_REQUEST)
+        return Response(status=status.HTTP_204_NO_CONTENT)
 
 
 class FavoriteView(AddRemoveRecipeBaseView):
