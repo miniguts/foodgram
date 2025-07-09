@@ -75,8 +75,10 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         )
         if not created:
-            return Response({'errors': 'Уже добавлено'}, status=status.HTTP_400_BAD_REQUEST)
-        return Response(ShortRecipeSerializer(recipe).data, status=status.HTTP_201_CREATED)
+            return Response({'errors': 'Уже добавлено'},
+                            status=status.HTTP_400_BAD_REQUEST)
+        return Response(ShortRecipeSerializer(recipe).data,
+                        status=status.HTTP_201_CREATED)
 
     def delete(self, request, recipe_id):
         recipe = get_object_or_404(Recipe, id=recipe_id)
@@ -84,7 +86,8 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         ).delete()
         if not deleted:
-            return Response({'errors': 'Не найдено'}, status=status.HTTP_400_BAD_REQUEST)
+            return Response({'errors': 'Не найдено'},
+                            status=status.HTTP_400_BAD_REQUEST)
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 
