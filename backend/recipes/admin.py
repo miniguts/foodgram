@@ -1,11 +1,38 @@
 from django.contrib import admin
+from django import forms
+from django.core.exceptions import ValidationError
 
 from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
                      ShoppingCart, Tag)
 
 
+class RecipeAdminForm(forms.ModelForm):
+    """Custom admin form for Recipe model."""
+    class Meta:
+        model = Recipe
+        fields = '__all__'
+
+    def clean_cooking_time(self):
+        cooking_time = self.cleaned_data.get('cooking_time')
+        if cooking_time is not None and cooking_time <= 0:
+            raise ValidationError(
+                'Время приготовления должно быть больше 0.'
+            )
+        return cooking_time
+
+    def clean(self):
+        cleaned_data = super().clean()
+        ingredients = cleaned_data.get('ingredients')
+        if not ingredients or ingredients.count() == 0:
+            raise ValidationError(
+                'Рецепт должен содержать хотя бы один ингредиент.'
+            )
+        return cleaned_data
+
+
 @admin.register(Recipe)
 class RecipeAdmin(admin.ModelAdmin):
+    form = RecipeAdminForm
     list_display = ('name', 'author', 'favorites_count')
     search_fields = ('name', 'author__username', 'author__email')
     list_filter = ('tags',)
