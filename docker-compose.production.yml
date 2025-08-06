@@ -30,6 +30,5 @@ services:
     volumes:
       - backend_static:/django_static/
       - media:/media/
-      - ./backend/data:/app/data
       - ../frontend/build:/usr/share/nginx/html/
       - ../docs/:/usr/share/nginx/html/api/docs/

@@ -150,8 +150,3 @@ media/
 
 # Others
 node_modules
-
-.github/
-
-!backend/data/ingredients.json
-!backend/data/tags.json
