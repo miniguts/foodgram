@@ -1,7 +1,9 @@
 from django import forms
 from django.contrib import admin
 from django.core.exceptions import ValidationError
+from import_export.admin import ImportExportModelAdmin
 
+from .resources import TagResource, IngredientResource
 from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
                      ShoppingCart, Tag)
 
@@ -42,16 +44,18 @@ class RecipeAdmin(admin.ModelAdmin):
         return obj.favorites.count()
 
 
-@admin.register(Ingredient)
-class IngredientAdmin(admin.ModelAdmin):
-    list_display = ('name', 'measurement_unit')
-    search_fields = ('name',)
-
-
 @admin.register(Tag)
-class TagAdmin(admin.ModelAdmin):
+class TagAdmin(ImportExportModelAdmin):
+    resource_class = TagResource
     list_display = ('name', 'slug')
     search_fields = ('name', 'slug')
+
+
+@admin.register(Ingredient)
+class IngredientAdmin(ImportExportModelAdmin):
+    resource_class = IngredientResource
+    list_display = ('name', 'measurement_unit')
+    search_fields = ('name',)
 
 
 @admin.register(IngredientInRecipe)
