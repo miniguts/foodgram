@@ -37,7 +37,7 @@ class RecipeAdmin(admin.ModelAdmin):
     form = RecipeAdminForm
     list_display = ('name', 'author', 'favorites_count')
     search_fields = ('name', 'author__username', 'author__email')
-    filter_horizontal = ('tags',)
+    filter_horizontal = ('tags', 'ingredients')
 
     @admin.display(description='В избранном')
     def favorites_count(self, obj):
