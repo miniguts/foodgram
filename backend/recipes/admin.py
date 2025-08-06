@@ -32,12 +32,19 @@ class RecipeAdminForm(forms.ModelForm):
         return cleaned_data
 
 
+class IngredientInRecipeInline(admin.TabularInline):
+    model = IngredientInRecipe
+    extra = 1
+    autocomplete_fields = ['ingredient']
+
+
 @admin.register(Recipe)
 class RecipeAdmin(admin.ModelAdmin):
     form = RecipeAdminForm
     list_display = ('name', 'author', 'favorites_count')
     search_fields = ('name', 'author__username', 'author__email')
-    filter_horizontal = ('tags', 'ingredients')
+    filter_horizontal = ('tags',)
+    inlines = [IngredientInRecipeInline]
 
     @admin.display(description='В избранном')
     def favorites_count(self, obj):
