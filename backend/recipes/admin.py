@@ -1,6 +1,7 @@
 from django import forms
-from django.contrib import admin
+from django.contrib import admin, messages
 from django.core.exceptions import ValidationError
+from django.http import HttpResponseRedirect
 from import_export.admin import ImportExportModelAdmin
 
 from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
@@ -44,9 +45,11 @@ class RecipeAdmin(admin.ModelAdmin):
     def save_related(self, request, form, formsets, change):
         super().save_related(request, form, formsets, change)
         if form.instance.ingredients.count() == 0:
-            raise ValidationError(
-                'Рецепт должен содержать хотя бы один ингредиент.'
+            self.message_user(
+                request, 'Рецепт должен содержать хотя бы один ингредиент.',
+                level=messages.ERROR
             )
+            return HttpResponseRedirect(request.path)
 
 
 @admin.register(Tag)
