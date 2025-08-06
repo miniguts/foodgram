@@ -1,3 +1,4 @@
+from core.pagination import LimitPageNumberPagination
 from django.contrib.auth import get_user_model
 from django.shortcuts import get_object_or_404
 from rest_framework import mixins, permissions, status, viewsets
@@ -5,8 +6,6 @@ from rest_framework.decorators import action
 from rest_framework.generics import GenericAPIView
 from rest_framework.response import Response
 from rest_framework.views import APIView
-
-from core.pagination import LimitPageNumberPagination
 from users.models import Subscription
 
 from .serializers import (AvatarSerializer, SetPasswordSerializer,
