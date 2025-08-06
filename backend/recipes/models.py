@@ -1,7 +1,9 @@
+from django.contrib.auth import get_user_model
+from django.core.exceptions import ValidationError
+from django.db import models
+
 from core.constatns import (MAX_MEASUREMENT_UNIT_LENGTH, MAX_NAME_LENGTH,
                             MAX_SLUG_LENGTH)
-from django.contrib.auth import get_user_model
-from django.db import models
 
 User = get_user_model()
 
@@ -78,6 +80,13 @@ class Recipe(models.Model):
         ordering = ['-pub_date']
         verbose_name = 'Рецепт'
         verbose_name_plural = 'Рецепты'
+
+    def clean(self):
+        super().clean()
+        if self.pk and self.ingredients.count() == 0:
+            raise ValidationError(
+                'Рецепт должен содержать хотя бы один ингредиент.'
+            )
 
     def __str__(self):
         return self.name

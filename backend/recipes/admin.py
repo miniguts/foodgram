@@ -22,14 +22,12 @@ class RecipeAdminForm(forms.ModelForm):
             )
         return cooking_time
 
-    def clean(self):
-        cleaned_data = super().clean()
-        ingredients = cleaned_data.get('ingredients')
-        if not ingredients or ingredients.count() == 0:
+    def save_related(self, request, form, formsets, change):
+        super().save_related(request, form, formsets, change)
+        if form.instance.ingredients.count() == 0:
             raise ValidationError(
                 'Рецепт должен содержать хотя бы один ингредиент.'
             )
-        return cleaned_data
 
 
 class IngredientInRecipeInline(admin.TabularInline):
