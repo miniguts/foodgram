@@ -1,9 +1,8 @@
+from core.constatns import (MAX_MEASUREMENT_UNIT_LENGTH, MAX_NAME_LENGTH,
+                            MAX_SLUG_LENGTH)
 from django.contrib.auth import get_user_model
 from django.core.exceptions import ValidationError
 from django.db import models
-
-from core.constatns import (MAX_MEASUREMENT_UNIT_LENGTH, MAX_NAME_LENGTH,
-                            MAX_SLUG_LENGTH)
 
 User = get_user_model()
 

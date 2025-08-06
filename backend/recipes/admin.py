@@ -44,7 +44,9 @@ class RecipeAdmin(admin.ModelAdmin):
     def save_related(self, request, form, formsets, change):
         super().save_related(request, form, formsets, change)
         if form.instance.ingredients.count() == 0:
-            raise ValidationError('Рецепт должен содержать хотя бы один ингредиент.')
+            raise ValidationError(
+                'Рецепт должен содержать хотя бы один ингредиент.'
+            )
 
 
 @admin.register(Tag)
