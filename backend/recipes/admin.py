@@ -22,13 +22,6 @@ class RecipeAdminForm(forms.ModelForm):
             )
         return cooking_time
 
-    def save_related(self, request, form, formsets, change):
-        super().save_related(request, form, formsets, change)
-        if form.instance.ingredients.count() == 0:
-            raise ValidationError(
-                'Рецепт должен содержать хотя бы один ингредиент.'
-            )
-
 
 class IngredientInRecipeInline(admin.TabularInline):
     model = IngredientInRecipe
@@ -47,6 +40,11 @@ class RecipeAdmin(admin.ModelAdmin):
     @admin.display(description='В избранном')
     def favorites_count(self, obj):
         return obj.favorites.count()
+
+    def save_related(self, request, form, formsets, change):
+        super().save_related(request, form, formsets, change)
+        if form.instance.ingredients.count() == 0:
+            raise ValidationError('Рецепт должен содержать хотя бы один ингредиент.')
 
 
 @admin.register(Tag)
