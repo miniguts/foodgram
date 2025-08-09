@@ -40,6 +40,7 @@ class IngredientInRecipeInline(admin.TabularInline):
     model = IngredientInRecipe
     extra = 1
     autocomplete_fields = ['ingredient']
+    fields = ['ingredient', 'amount']
     formset = IngredientInRecipeInlineFormSet
 
 
@@ -74,6 +75,7 @@ class IngredientAdmin(ImportExportModelAdmin):
 class IngredientInRecipeAdmin(admin.ModelAdmin):
     list_display = ('ingredient', 'recipe', 'amount')
     search_fields = ('ingredient__name', 'recipe__name')
+    autocomplete_fields = ['ingredient', 'recipe']
 
 
 @admin.register(Favorite)

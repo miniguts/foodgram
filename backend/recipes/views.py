@@ -21,11 +21,11 @@ from .serializers import (IngredientSerializer, RecipeReadSerializer,
 
 
 class IngredientViewSet(ReadOnlyModelViewSet):
-    queryset = Ingredient.objects.all()
+    queryset = Ingredient.objects.all().only('id', 'name', 'measurement_unit')
     serializer_class = IngredientSerializer
     permission_classes = (permissions.AllowAny,)
-    filter_backends = (DjangoFilterBackend,)
-    filterset_fields = ['name']
+    filter_backends = (filters.SearchFilter,)
+    search_fields = ['^name']
     pagination_class = None
 
 
@@ -51,8 +51,8 @@ class RecipeViewSet(ModelViewSet):
         return RecipeWriteSerializer
 
     def get_queryset(self):
-        return Recipe.objects.prefetch_related(
-            'tags', 'ingredient_links__ingredient'
+        return Recipe.objects.select_related('author').prefetch_related(
+            'tags', 'ingredient_in_recipes__ingredient'
         )
 
     @action(detail=True, methods=['get'], url_path='get-link')
