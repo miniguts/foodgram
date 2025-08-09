@@ -44,7 +44,8 @@ class Subscription(models.Model):
     author = models.ForeignKey(
         CustomUser,
         on_delete=models.CASCADE,
-        related_name='following'
+        related_name='following',
+        null=True, blank=True
     )
 
     class Meta:
@@ -62,7 +63,7 @@ class Subscription(models.Model):
             raise ValidationError('Нельзя подписаться на самого себя.')
 
     def save(self, *args, **kwargs):
-        self.full_clean()  # запускает clean() и валидацию полей
+        self.full_clean()
         super().save(*args, **kwargs)
 
     def __str__(self):
