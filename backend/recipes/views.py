@@ -51,8 +51,8 @@ class RecipeViewSet(ModelViewSet):
         return RecipeWriteSerializer
 
     def get_queryset(self):
-        return Recipe.objects.select_related('author').prefetch_related(
-            'tags', 'ingredient_in_recipes__ingredient'
+        return Recipe.objects.prefetch_related(
+            'tags', 'ingredient_links__ingredient'
         )
 
     @action(detail=True, methods=['get'], url_path='get-link')
