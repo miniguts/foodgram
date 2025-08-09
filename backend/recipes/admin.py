@@ -1,11 +1,10 @@
 from django import forms
-from django.contrib import admin, messages
+from django.contrib import admin
 from django.core.exceptions import ValidationError
-from django.http import HttpResponseRedirect
 from import_export.admin import ImportExportModelAdmin
 
-from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
-                     ShoppingCart, Tag)
+from .models import (Favorite, Ingredient, IngredientInRecipe,
+                     Recipe, ShoppingCart, Tag)
 from .resources import IngredientResource, TagResource
 
 
@@ -24,10 +23,24 @@ class RecipeAdminForm(forms.ModelForm):
         return cooking_time
 
 
+class IngredientInRecipeInlineFormSet(forms.BaseInlineFormSet):
+    def clean(self):
+        super().clean()
+        has_ingredient = any(
+            form.cleaned_data and not form.cleaned_data.get('DELETE', False)
+            for form in self.forms
+        )
+        if not has_ingredient:
+            raise ValidationError(
+                'Рецепт должен содержать хотя бы один ингредиент.'
+            )
+
+
 class IngredientInRecipeInline(admin.TabularInline):
     model = IngredientInRecipe
     extra = 1
     autocomplete_fields = ['ingredient']
+    formset = IngredientInRecipeInlineFormSet
 
 
 @admin.register(Recipe)
@@ -41,15 +54,6 @@ class RecipeAdmin(admin.ModelAdmin):
     @admin.display(description='В избранном')
     def favorites_count(self, obj):
         return obj.favorites.count()
-
-    def save_related(self, request, form, formsets, change):
-        super().save_related(request, form, formsets, change)
-        if form.instance.ingredients.count() == 0:
-            self.message_user(
-                request, 'Рецепт должен содержать хотя бы один ингредиент.',
-                level=messages.ERROR
-            )
-            return HttpResponseRedirect(request.path)
 
 
 @admin.register(Tag)
