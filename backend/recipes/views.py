@@ -21,11 +21,11 @@ from .serializers import (IngredientSerializer, RecipeReadSerializer,
 
 
 class IngredientViewSet(ReadOnlyModelViewSet):
-    queryset = Ingredient.objects.all().only('id', 'name', 'measurement_unit')
+    queryset = Ingredient.objects.all()
     serializer_class = IngredientSerializer
     permission_classes = (permissions.AllowAny,)
     filter_backends = (filters.SearchFilter,)
-    search_fields = ['^name']
+    search_fields = ['name']
     pagination_class = None
 
 
