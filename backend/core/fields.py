@@ -26,8 +26,7 @@ class Base64ImageField(serializers.ImageField):
             decoded_file = base64.b64decode(img_str)
         except (ValueError, TypeError, base64.binascii.Error):
             raise serializers.ValidationError(
-                "Ошибка декодирования изображения."
-            )
+                "Ошибка декодирования изображения.")
 
         try:
             image = Image.open(BytesIO(decoded_file))
@@ -45,7 +44,7 @@ class Base64ImageField(serializers.ImageField):
         allowed_formats = {"jpeg", "png"}
         if ext not in allowed_formats:
             raise serializers.ValidationError(
-                f'Недопустимый формат: {ext}. '
+                f"Недопустимый формат: {ext}. "
                 f'Разрешены только: {", ".join(allowed_formats)}.'
             )
 

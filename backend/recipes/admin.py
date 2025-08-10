@@ -10,16 +10,15 @@ from .resources import IngredientResource, TagResource
 
 class RecipeAdminForm(forms.ModelForm):
     """Custom admin form for Recipe model."""
+
     class Meta:
         model = Recipe
-        fields = '__all__'
+        fields = "__all__"
 
     def clean_cooking_time(self):
-        cooking_time = self.cleaned_data.get('cooking_time')
+        cooking_time = self.cleaned_data.get("cooking_time")
         if cooking_time is not None and cooking_time <= 0:
-            raise ValidationError(
-                'Время приготовления должно быть больше 0.'
-            )
+            raise ValidationError("Время приготовления должно быть больше 0.")
         return cooking_time
 
 
@@ -27,32 +26,31 @@ class IngredientInRecipeInlineFormSet(forms.BaseInlineFormSet):
     def clean(self):
         super().clean()
         has_ingredient = any(
-            form.cleaned_data and not form.cleaned_data.get('DELETE', False)
+            form.cleaned_data and not form.cleaned_data.get("DELETE", False)
             for form in self.forms
         )
         if not has_ingredient:
             raise ValidationError(
-                'Рецепт должен содержать хотя бы один ингредиент.'
-            )
+                "Рецепт должен содержать хотя бы один ингредиент.")
 
 
 class IngredientInRecipeInline(admin.TabularInline):
     model = IngredientInRecipe
     extra = 1
-    autocomplete_fields = ['ingredient']
-    fields = ['ingredient', 'amount']
+    autocomplete_fields = ["ingredient"]
+    fields = ["ingredient", "amount"]
     formset = IngredientInRecipeInlineFormSet
 
 
 @admin.register(Recipe)
 class RecipeAdmin(admin.ModelAdmin):
     form = RecipeAdminForm
-    list_display = ('name', 'author', 'favorites_count')
-    search_fields = ('name', 'author__username', 'author__email')
-    filter_horizontal = ('tags',)
+    list_display = ("name", "author", "favorites_count")
+    search_fields = ("name", "author__username", "author__email")
+    filter_horizontal = ("tags",)
     inlines = [IngredientInRecipeInline]
 
-    @admin.display(description='В избранном')
+    @admin.display(description="В избранном")
     def favorites_count(self, obj):
         return obj.favorites.count()
 
@@ -60,31 +58,31 @@ class RecipeAdmin(admin.ModelAdmin):
 @admin.register(Tag)
 class TagAdmin(ImportExportModelAdmin):
     resource_class = TagResource
-    list_display = ('name', 'slug')
-    search_fields = ('name', 'slug')
+    list_display = ("name", "slug")
+    search_fields = ("name", "slug")
 
 
 @admin.register(Ingredient)
 class IngredientAdmin(ImportExportModelAdmin):
     resource_class = IngredientResource
-    list_display = ('name', 'measurement_unit')
-    search_fields = ('name',)
+    list_display = ("name", "measurement_unit")
+    search_fields = ("name",)
 
 
 @admin.register(IngredientInRecipe)
 class IngredientInRecipeAdmin(admin.ModelAdmin):
-    list_display = ('ingredient', 'recipe', 'amount')
-    search_fields = ('ingredient__name', 'recipe__name')
-    autocomplete_fields = ['ingredient', 'recipe']
+    list_display = ("ingredient", "recipe", "amount")
+    search_fields = ("ingredient__name", "recipe__name")
+    autocomplete_fields = ["ingredient", "recipe"]
 
 
 @admin.register(Favorite)
 class FavoriteAdmin(admin.ModelAdmin):
-    list_display = ('user', 'recipe')
-    search_fields = ('user__username', 'recipe__name')
+    list_display = ("user", "recipe")
+    search_fields = ("user__username", "recipe__name")
 
 
 @admin.register(ShoppingCart)
 class ShoppingCartAdmin(admin.ModelAdmin):
-    list_display = ('user', 'recipe')
-    search_fields = ('user__username', 'recipe__name')
+    list_display = ("user", "recipe")
+    search_fields = ("user__username", "recipe__name")

@@ -1,7 +1,5 @@
 import hashlib
 
-from core.filters import IngredientFilter, RecipeFilter
-from core.permissions import IsAuthorOrReadOnly
 from django.conf import settings
 from django.db.models import Sum
 from django.http import HttpResponse
@@ -12,6 +10,9 @@ from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
+
+from core.filters import IngredientFilter, RecipeFilter
+from core.permissions import IsAuthorOrReadOnly
 
 from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
                      ShoppingCart, Tag)
@@ -40,29 +41,28 @@ class RecipeViewSet(ModelViewSet):
     queryset = Recipe.objects.all()
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
     filterset_class = RecipeFilter
-    search_fields = ['name', 'author__id']
+    search_fields = ["name", "author__id"]
     permission_classes = [
-        permissions.IsAuthenticatedOrReadOnly, IsAuthorOrReadOnly
-    ]
+        permissions.IsAuthenticatedOrReadOnly, IsAuthorOrReadOnly]
 
     def get_serializer_class(self):
-        if self.request.method == 'GET':
+        if self.request.method == "GET":
             return RecipeReadSerializer
         return RecipeWriteSerializer
 
     def get_queryset(self):
         return Recipe.objects.prefetch_related(
-            'tags', 'ingredient_links__ingredient'
+            "tags", "ingredient_links__ingredient"
         )
 
-    @action(detail=True, methods=['get'], url_path='get-link')
+    @action(detail=True, methods=["get"], url_path="get-link")
     def short_link(self, request, pk=None):
         recipe = self.get_object()
         hash_val = hashlib.md5(
             f"{settings.SECRET_KEY}{recipe.id}".encode()
         ).hexdigest()[:8]
         short_url = request.build_absolute_uri(f"/r/{hash_val}/")
-        return Response({'short-link': short_url})
+        return Response({"short-link": short_url})
 
 
 class AddRemoveRecipeBaseView(APIView):
@@ -75,10 +75,12 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         )
         if not created:
-            return Response({'errors': 'Уже добавлено'},
-                            status=status.HTTP_400_BAD_REQUEST)
-        return Response(ShortRecipeSerializer(recipe).data,
-                        status=status.HTTP_201_CREATED)
+            return Response(
+                {"errors": "Уже добавлено"}, status=status.HTTP_400_BAD_REQUEST
+            )
+        return Response(
+            ShortRecipeSerializer(recipe).data, status=status.HTTP_201_CREATED
+        )
 
     def delete(self, request, recipe_id):
         recipe = get_object_or_404(Recipe, id=recipe_id)
@@ -86,8 +88,9 @@ class AddRemoveRecipeBaseView(APIView):
             user=request.user, recipe=recipe
         ).delete()
         if not deleted:
-            return Response({'errors': 'Не найдено'},
-                            status=status.HTTP_400_BAD_REQUEST)
+            return Response(
+                {"errors": "Не найдено"}, status=status.HTTP_400_BAD_REQUEST
+            )
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 
@@ -104,14 +107,15 @@ class DownloadCartView(APIView):
 
     def get(self, request):
         recipes_in_cart = ShoppingCart.objects.filter(
-            user=request.user).values_list('recipe', flat=True)
+            user=request.user).values_list(
+                "recipe", flat=True
+        )
 
         ingredients = (
-            IngredientInRecipe.objects
-            .filter(recipe__in=recipes_in_cart)
-            .values('ingredient__name', 'ingredient__measurement_unit')
-            .annotate(total=Sum('amount'))
-            .order_by('ingredient__name')
+            IngredientInRecipe.objects.filter(recipe__in=recipes_in_cart)
+            .values("ingredient__name", "ingredient__measurement_unit")
+            .annotate(total=Sum("amount"))
+            .order_by("ingredient__name")
         )
 
         lines = [
@@ -119,9 +123,9 @@ class DownloadCartView(APIView):
             f" ({item['ingredient__measurement_unit']}) — {item['total']}"
             for item in ingredients
         ]
-        content = '\n'.join(lines)
+        content = "\n".join(lines)
 
-        response = HttpResponse(content, content_type='text/plain')
-        response['Content-Disposition'] = ('attachment;'
+        response = HttpResponse(content, content_type="text/plain")
+        response["Content-Disposition"] = ("attachment;"
                                            ' filename="shopping_cart.txt"')
         return response
