@@ -164,9 +164,7 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    # 'https://foodgram-ads.servemp3.com',
-    'http://localhost:8000',
-    'http://127.0.0.1:8000'
+    'https://foodgram-ads.servemp3.com',
 ]
 
 IMPORT_EXPORT_TMP_STORAGE_CLASS = 'import_export.tmp_storages.MediaStorage'
