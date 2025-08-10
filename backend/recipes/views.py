@@ -1,6 +1,6 @@
 import hashlib
 
-from core.filters import RecipeFilter
+from core.filters import IngredientFilter, RecipeFilter
 from core.permissions import IsAuthorOrReadOnly
 from django.conf import settings
 from django.db.models import Sum
@@ -13,7 +13,6 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
 
-from .filters import IngredientFilter
 from .models import (Favorite, Ingredient, IngredientInRecipe, Recipe,
                      ShoppingCart, Tag)
 from .serializers import (IngredientSerializer, RecipeReadSerializer,
