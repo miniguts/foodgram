@@ -7,11 +7,11 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from core.pagination import LimitPageNumberPagination
-from users.models import Subscription
 
 from .serializers import (AvatarSerializer, SetPasswordSerializer,
                           SubscriptionSerializer, UserCreateSerializer,
                           UserSerializer)
+from users.models import Subscription
 
 User = get_user_model()
 
